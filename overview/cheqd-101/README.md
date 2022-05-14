@@ -14,7 +14,9 @@ cheqd's goal is made possible through leveraging [decentralised identity](../int
 
 ### Can you explain the value here using an example?
 
-<mark style="color:orange;">****</mark>![](../../.gitbook/assets/undraw\_Social\_notifications\_re\_xcbi.png)<mark style="color:orange;">**This is you.**</mark>
+<mark style="color:orange;">**This is you.**</mark>
+
+![](../../.gitbook/assets/undraw\_Social\_notifications\_re\_xcbi.png)
 
 Digital identity is something that we rarely think about in our day-to-day lives, but it is something that we all have subscribed to.
 

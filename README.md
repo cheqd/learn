@@ -4,13 +4,7 @@ description: We're making it easier for individuals and organisations to trust e
 
 # Welcome to cheqd
 
-### Website
-
-{% embed url="https://www.cheqd.io" %}
-cheqd Website
-{% endembed %}
-
-### Where do I start my journey with cheqd?
+## Where do I start my journey with cheqd?
 
 <details>
 
@@ -53,16 +47,16 @@ cheqd Website
 
 </details>
 
-### Block Explorers
+## Block Explorers
 
 {% tabs %}
-{% tab title="Big Dipper v2 Mainnet" %}
+{% tab title="Mainnet Block Explorer" %}
 {% embed url="https://explorer.cheqd.io" %}
 Big Dipper Block Explorer
 {% endembed %}
 {% endtab %}
 
-{% tab title="Big Dipper v2 Testnet" %}
+{% tab title="Testnet Block Explorer" %}
 {% embed url="https://testnet-explorer.cheqd.io" %}
 {% endtab %}
 
@@ -73,13 +67,11 @@ Aneka Block Explorer
 {% endtab %}
 
 {% tab title="Look.Chill" %}
-{% embed url="https://look.chillvalidation.com/cheqd" %}
-Look.Chill Block Explorer
-{% endembed %}
+{% embed url="https://ping.pub/cheqd" %}
 {% endtab %}
 {% endtabs %}
 
-### Socials
+## Socials
 
 {% tabs %}
 {% tab title="Twitter" %}
@@ -113,7 +105,7 @@ cheqd LinkedIn
 {% endtab %}
 {% endtabs %}
 
-### Support & Policies
+## Support & Policies
 
 {% tabs %}
 {% tab title="Support" %}
