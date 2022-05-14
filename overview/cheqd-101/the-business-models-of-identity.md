@@ -60,7 +60,7 @@ An individual or company provides identity attributes to an organisation that ne
 
 _An example is the usual Know Your Customer (KYC) process for an individual/company to open a bank account. While the individual/company doesn’t pay for any identity verification checks, the bank (verifying organisation, in this case) might pay third parties to carry out checks on its behalf._
 
-These third parties are personal identity verification providers such as [FinClusive](https://finclusive.com), [Onfido](https://onfido.com), [Alloy](https://www.alloy.co), [HireRight](https://www.hireright.com) etc or corporate identity verification providers such as [Dun & Bradstreet](https://www.dnb.co.uk). These identity providers in turn often get data from their own sources, such as government records.
+These third parties are personal identity verification providers such as [FinClusive](https://finclusive.com/), [Onfido](https://onfido.com/), [Alloy](https://www.alloy.co/), [HireRight](https://www.hireright.com/) etc or corporate identity verification providers such as [Dun & Bradstreet](https://www.dnb.co.uk/). These identity providers in turn often get data from their own sources, such as government records.
 
 This model can be further extended bases on what _pricing basis_ is the verifying organisation is charged at by the third parties:
 
@@ -74,7 +74,7 @@ The cost of carrying out identity verification is split across the benefiting or
 
 _An example of this would be a consortium like BankID in Sweden, where the cost of KYC is spread across different organisations. The individual/company also does not pay in this scenario._
 
-_Another example of this how_ [_credit bureaus_](https://en.wikipedia.org/wiki/Credit\_bureau) _such as_ [_Experian_](https://www.experianplc.com)_,_ [_Equifax_](https://www.equifax.com)_,_ [_TransUnion_](https://www.transunion.com) _pool together information from financial instiutions, but then re-sell the transformed data to other companies._
+_Another example of this how_ [_credit bureaus_](https://en.wikipedia.org/wiki/Credit\_bureau) _such as_ [_Experian_](https://www.experianplc.com/)_,_ [_Equifax_](https://www.equifax.com/)_,_ [_TransUnion_](https://www.transunion.com/) _pool together information from financial instiutions, but then re-sell the transformed data to other companies._
 
 ## The missing individual <a href="#744a" id="744a"></a>
 

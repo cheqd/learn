@@ -6,7 +6,7 @@ More on this in our [tokenomics for payment models.](https://www.cheqd.io/blog/c
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-Whilst the Cosmos ecosystem has these, they aren’t as widely adopted yet as either [USDC](https://en.wikipedia.org/wiki/USD\_Coin) or [USDT](https://en.wikipedia.org/wiki/Tether\_\(cryptocurrency\)), both of which are within the Ethereum ecosystem. Furthermore, as we want to work with fiat on and off-ramps to remove the need for end customers to worry about crypto, there are currently more of these available in the Ethereum ecosystem, although we’re sure the Cosmos ecosystem will catch up with new companies joining the likes of [Kado](https://www.kado.money).
+Whilst the Cosmos ecosystem has these, they aren’t as widely adopted yet as either [USDC](https://en.wikipedia.org/wiki/USD\_Coin) or [USDT](https://en.wikipedia.org/wiki/Tether\_\(cryptocurrency\)), both of which are within the Ethereum ecosystem. Furthermore, as we want to work with fiat on and off-ramps to remove the need for end customers to worry about crypto, there are currently more of these available in the Ethereum ecosystem, although we’re sure the Cosmos ecosystem will catch up with new companies joining the likes of [Kado](https://www.kado.money/).
 
 A nice byproduct of this is providing easier access to CHEQ, whether you’re building upon the network, seeking to secure the network through staking or liquidity mining.
 

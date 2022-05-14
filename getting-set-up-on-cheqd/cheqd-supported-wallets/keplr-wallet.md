@@ -2,7 +2,7 @@
 
 ![](https://www.cheqd.io/hubfs/We%E2%80%99re%20launching%20our%20network%20very%20soon!%20Here%E2%80%99s%20how%20you%20can%20get%20ready.png)
 
-_Disclaimer: All information provided is intended to help users get set up on cheqd. However, we do not expressly recommend or mandate a certain approach. All actions taken are your personal responsibility. Much of the content of this article was created using the_ [_Keplr FAQ_](https://faq.keplr.app), [_Keplrs account creation blog_](https://keplr.crunch.help/getting-started/creating-a-new-keplr-account) _and_ [_wallet setup guide_](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6)_, which you should cross-check for further information._
+_Disclaimer: All information provided is intended to help users get set up on cheqd. However, we do not expressly recommend or mandate a certain approach. All actions taken are your personal responsibility. Much of the content of this article was created using the_ [_Keplr FAQ_](https://faq.keplr.app/), [_Keplrs account creation blog_](https://keplr.crunch.help/getting-started/creating-a-new-keplr-account) _and_ [_wallet setup guide_](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6)_, which you should cross-check for further information._
 
 As the cheqd network has been built on Cosmos, we use wallets that integrate directly with the Cosmos ecosystem and our initial Decentralised Exchanges (DEX).
 
@@ -10,13 +10,13 @@ Here’s where Keplr comes in…
 
 ### What is Keplr? <a href="#de07" id="de07"></a>
 
-[Keplr](https://www.keplr.app) is a Cosmos wallet that has been praised for putting the user at the heart of the experience. As the first, and leading Inter-Blockchain Communication (IBC) enabled wallet for the Cosmos ecosystem, Keplr offers users the ability to stake their tokens, use blockchain apps and manage multiple tokens in one wallet.
+[Keplr](https://www.keplr.app/) is a Cosmos wallet that has been praised for putting the user at the heart of the experience. As the first, and leading Inter-Blockchain Communication (IBC) enabled wallet for the Cosmos ecosystem, Keplr offers users the ability to stake their tokens, use blockchain apps and manage multiple tokens in one wallet.
 
 Slow down… IBC? IBC or Inter-Blockchain Communication Protocol is an [interoperability protocol](https://cryptobriefing.com/the-internet-blockchains-is-now-live-cosmos/) for relaying messages between different Cosmos chains, launched earlier this year. Essentially it allows users to complete token transfers between various chains on the Cosmos Hub. As Keplr is IBC enabled users can execute transfers of tokens within the wallet or through connected DEXs (we’ll come onto this in the next piece).
 
 **Now back to Keplr.**
 
-For those a little new to crypto, Keplr is a software wallet, meaning it can be installed on a mobile or as a browser extension in chrome or safari for example. Although less secure than hardware wallets (like a [Ledger](https://www.ledger.com)), paper wallets, or backups, software wallets offer a much more convenient experience for the user as they allow users to store their **mnemonic** locally on a computer.
+For those a little new to crypto, Keplr is a software wallet, meaning it can be installed on a mobile or as a browser extension in chrome or safari for example. Although less secure than hardware wallets (like a [Ledger](https://www.ledger.com/)), paper wallets, or backups, software wallets offer a much more convenient experience for the user as they allow users to store their **mnemonic** locally on a computer.
 
 _**“What is a mnemonic?**_**” I hear you say…**
 
@@ -38,7 +38,7 @@ In the context of digital assets, mnemonics are used to protect your wallet in t
 
 ### Setting up a Keplr Wallet on PC/Mac <a href="#39db" id="39db"></a>
 
-1. Go to the Keplr website [https://www.keplr.app/](https://www.keplr.app) to find the relevant extension for your browser. If you’re using Chrome, which we’d recommend, click here → [browser extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
+1. Go to the Keplr website [https://www.keplr.app/](https://www.keplr.app/) to find the relevant extension for your browser. If you’re using Chrome, which we’d recommend, click here → [browser extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
 2. Once you’ve installed Keplr wallet, you’ll see four options to set up an account:
 
 > 1\) Google Single Sign On (SSO) / One-Click Login,
@@ -100,7 +100,7 @@ _**Note:** By using Google SSO you will not have to store your mnemonic as your 
 In order to see $CHEQ in your Keplr wallet, you’ll need to follow the steps below which enables Keplr to auto-discover the cheqd network.
 
 1. Sign in to your Keplr wallet on your browser (do not use the mobile app)
-2. Go to our dashboard at [https://cheqd.omniflix.co/](https://cheqd.omniflix.co).
+2. Go to our dashboard at [https://cheqd.omniflix.co/](https://cheqd.omniflix.co/).
 3. Click “**Connect**” in the top right corner to link your Keplr to the dashboard
 4. You will see a pop-up that asks you to approve adding cheqd-mainnet-1 to your Keplr wallet.
 5. Click “**Approve**”

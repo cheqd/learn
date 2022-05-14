@@ -2,7 +2,7 @@
 
 ### What is cheqd?
 
-cheqd is a blockchain network, built in the [Cosmos ecosystem](https://cosmos.network), designed to do three core things:
+cheqd is a blockchain network, built in the [Cosmos ecosystem](https://cosmos.network/), designed to do three core things:
 
 1. To enable people and organisations to have digital, **trustworthy interactions directly with each other**, whilst **maintaining privacy** and **without any centralised registry or organisation** needed**;**
 2. To facilitate **new business models for** [decentralised identity](../introduction-to-decentralised-identity/) and [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/), through the use of our token, [$CHEQ](../introduction-to-usdcheq.md);

@@ -4,7 +4,7 @@ Every so often, we are asked why Self-Sovereign Identity (SSI) needs a token.
 
 Briefly, [SSI](https://www.youtube.com/watch?v=z9f36Sh4CFM) is a new paradigm for exchanging authentic and trusted data related to people, companies, and things in a much more secure and privacy-preserving way. It gives the subject a verified master-copy of their own data, affording control over what information they share and removing the need to store personal data solely in central databases.
 
-SSI has made fantastic progress in the last couple of years, as shown by [Northern Block's growing map of SSI implementations](https://northernblock.io). Still, we have seen many projects fail due to not being able to commercialise the technology, which we are solving. More than this, though, because SSI combines historically siloed datasets by making the user the ecosystem's centre, new opportunities and business models will become possible.
+SSI has made fantastic progress in the last couple of years, as shown by [Northern Block's growing map of SSI implementations](https://northernblock.io/). Still, we have seen many projects fail due to not being able to commercialise the technology, which we are solving. More than this, though, because SSI combines historically siloed datasets by making the user the ecosystem's centre, new opportunities and business models will become possible.
 
 Essentially, our core hypothesis is that SSI needs commercial models that accelerate its adoption. In this equation, the token represents an enabler of those commercial models.
 
@@ -32,7 +32,7 @@ Since cheqd already holds USDC balances, we paid in USDC directly (noting both b
 
 ### New rails <a href="#aa99" id="aa99"></a>
 
-So, where does it leave us? Even where companies have contractual relationships, settling payments is still a huge headache. Expecting payments across an SSI ecosystem to be seamless and scalable using existing payment rails is laughable. Like other industries and technologies from finance to distributed storage like [IPFS](https://ipfs.io) and [Filecoin](https://filecoin.io), SSI needs to embrace tokens to be truly successful.
+So, where does it leave us? Even where companies have contractual relationships, settling payments is still a huge headache. Expecting payments across an SSI ecosystem to be seamless and scalable using existing payment rails is laughable. Like other industries and technologies from finance to distributed storage like [IPFS](https://ipfs.io/) and [Filecoin](https://filecoin.io/), SSI needs to embrace tokens to be truly successful.
 
 ## The business model of SSI <a href="#f40d" id="f40d"></a>
 

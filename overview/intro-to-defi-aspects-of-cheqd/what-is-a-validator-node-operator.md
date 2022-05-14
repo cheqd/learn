@@ -10,7 +10,7 @@ Without these pylons, electricity would be largely centralised in one location; 
 
 Similarly, in blockchain infrastructure, each node runs an instance of the consensus protocol and helps to create a broad, robust network, with no single point of failure. A node failing will have little impact on the Network as a whole; however, if multiple nodes fail, or disagree with information entered into the transaction, then the block may not be signed, and there are fail-safe measures to notify the rest of the Node Operators of this.
 
-The terms Validator and Node Operator are somewhat synonymous. Validator is the term used more commonly in the[ Cosmos documentation](https://docs.cosmos.network) when referring to a Node Operator that is validating transactions on a blockchain. The only point worth mentioning is you can have a Node Operator that is NOT a Validator. These are known as Observer nodes, which play a more passive role on the network, as they don’t stake on the network or validate transactions, but can observe them.
+The terms Validator and Node Operator are somewhat synonymous. Validator is the term used more commonly in the[ Cosmos documentation](https://docs.cosmos.network/) when referring to a Node Operator that is validating transactions on a blockchain. The only point worth mentioning is you can have a Node Operator that is NOT a Validator. These are known as Observer nodes, which play a more passive role on the network, as they don’t stake on the network or validate transactions, but can observe them.
 
 ## What does a Validator actually do? <a href="#a192" id="a192"></a>
 

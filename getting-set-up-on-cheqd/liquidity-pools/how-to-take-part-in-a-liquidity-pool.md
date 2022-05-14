@@ -12,7 +12,7 @@ The CHEQ token is available in two pools:&#x20;
 
 {% embed url="https://app.osmosis.zone/pool/617" %}
 
-First, head to [Osmosis](https://osmosis.zone) and click enter the lab.&#x20;
+First, head to [Osmosis](https://osmosis.zone/) and click enter the lab.&#x20;
 
 Once you’ve agreed to terms and you’re ‘in the lab’ you’ll see some trading pairs and a button to connect your wallet (bottom left of the dashboard).
 

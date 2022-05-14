@@ -47,7 +47,7 @@ A DID is very similar to a car registration plate in the sense that it is a uniq
 
 #### How do you resolve a DID?
 
-The equivalent to searching a registration plate number on a DVLA indexing site, is **resolving** a DID through a **DID resolution method**. One common example is through using the [**Universal Resolver**](https://dev.uniresolver.io).
+The equivalent to searching a registration plate number on a DVLA indexing site, is **resolving** a DID through a **DID resolution method**. One common example is through using the [**Universal Resolver**](https://dev.uniresolver.io/).
 
 Below, you can see the method for resolving a registration plate number, as well as the similar method for resolving a DID.
 

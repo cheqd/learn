@@ -28,6 +28,6 @@ In short, yes. **Participants** may be eligible for a percentage of the rewards 
 
 Block rewards depend on **inflation**. Inflation is the gradual increase in the number of blocks on the Network. A Node Operator may earn block rewards during a period of inflation, which can be disseminated to the Users delegated to the Node Operator. For this reason, it is suggested that token holders **bond** and **delegate** their tokens, to create a healthy Network and earn passive income.
 
-These rewards are distributed continuously and instantly. You are able to see your accumulated rewards on our dashboard: [https://cheqd.omniflix.co/](https://cheqd.omniflix.co) and can always claim them back into your account.
+These rewards are distributed continuously and instantly. You are able to see your accumulated rewards on our dashboard: [https://cheqd.omniflix.co/](https://cheqd.omniflix.co/) and can always claim them back into your account.
 
 ![](https://miro.medium.com/max/1400/0\*Hc7a9egQe30dsSFu)

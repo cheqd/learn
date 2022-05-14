@@ -8,7 +8,7 @@ The following instructions will be lighter weight as much of the general process
 
 **Step 1: Set your Source chain and Destination chain**
 
-Go to [SpaceStation](https://spacestation.zone) and select the respective chains. Your Source chain should be Ethereum, and your Destination chain Gravity Bridge.
+Go to [SpaceStation](https://spacestation.zone/) and select the respective chains. Your Source chain should be Ethereum, and your Destination chain Gravity Bridge.
 
 **Step 2: Initiate Transfer**
 

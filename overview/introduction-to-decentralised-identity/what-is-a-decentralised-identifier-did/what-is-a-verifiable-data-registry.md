@@ -8,7 +8,7 @@ Commonly, VDRs are blockchains, like cheqd. This is because they are great place
 
 ### Web domain
 
-However, a VDR could also be a web domain, like [http://cheqd.io](https://www.cheqd.io). We could store a public DID on this website, because only the admins of cheqd have the ability to edit this.&#x20;
+However, a VDR could also be a web domain, like [http://cheqd.io](https://www.cheqd.io/). We could store a public DID on this website, because only the admins of cheqd have the ability to edit this.&#x20;
 
 This is largely secure, but is not as resilient as a blockchain, because, for example, the hosting provider for the website could take it down&#x20;
 

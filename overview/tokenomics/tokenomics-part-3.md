@@ -143,11 +143,11 @@ This line of credit can be leased from the network through collateral locked to 
 * Receiver settles debt on time: credit limit remains
 * Receiver does not settle on time: collateral slashed / penalised on pre-agreed terms
 
-Over time, it is likely that the collateral will become blended to reduce volatility and hence reduce the factor required to avoid the margin calls mentioned above. [MakerDAO has plenty of excellent work](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) on this which we will be leveraging so we don’t reinvent the wheel! Initially, we are likely to use a 200% liquidation ratio to protect against volatility with the aim of reducing this as the solution matures. Similarly, we will be looking at existing implementations such as [Aave](https://aave.com) to bootstrap development.
+Over time, it is likely that the collateral will become blended to reduce volatility and hence reduce the factor required to avoid the margin calls mentioned above. [MakerDAO has plenty of excellent work](https://makerdao.world/en/learn/governance/param-liquidation-ratio/) on this which we will be leveraging so we don’t reinvent the wheel! Initially, we are likely to use a 200% liquidation ratio to protect against volatility with the aim of reducing this as the solution matures. Similarly, we will be looking at existing implementations such as [Aave](https://aave.com/) to bootstrap development.
 
 Please see more details in the Supply & Demand section below.
 
-We are closely watching Osmosis’ [superfluid staking](https://www.youtube.com/watch?v=qlnjQ6V4LwM) and Persistence’s liquid [staking work](https://persistence.one) respectively for their ability to provide returns whilst assets are locked as collateral.
+We are closely watching Osmosis’ [superfluid staking](https://www.youtube.com/watch?v=qlnjQ6V4LwM) and Persistence’s liquid [staking work](https://persistence.one/) respectively for their ability to provide returns whilst assets are locked as collateral.
 
 **Combined**\
 Combining the components mentioned above results in the payment diagrams below. The arrows in white are the typical credential flow with those in gold showing the payment flows we will be laying on.
@@ -199,7 +199,7 @@ That being said, the individual or organisation may wish to pay or be paid in ei
 
 ## Holder pays issuer <a href="#fde6" id="fde6"></a>
 
-As per Table 2, there are frequent interactions where an individual will purchase a credential from an organisation and then be able to share it elsewhere without restriction, potentially being paid / rewarded in the previous section. Passports are an easy example, but so is [classpass](https://classpass.com) (subscription / voucher which allows access to multiple gyms / salons), showing the range of value these credentials can represent.
+As per Table 2, there are frequent interactions where an individual will purchase a credential from an organisation and then be able to share it elsewhere without restriction, potentially being paid / rewarded in the previous section. Passports are an easy example, but so is [classpass](https://classpass.com/) (subscription / voucher which allows access to multiple gyms / salons), showing the range of value these credentials can represent.
 
 The pervasiveness of this model already will guarantee this model will see frequent use.
 
