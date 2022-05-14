@@ -1,6 +1,6 @@
 # ♟ cheqd 101
 
-### What is cheqd?
+## What is cheqd?
 
 cheqd is a blockchain network, built in the [Cosmos ecosystem](https://cosmos.network/), designed to do three core things:
 
@@ -105,3 +105,5 @@ And the use cases and projects of this technology are growing rapidly...
 {% content-ref url="cheqd-use-case-examples.md" %}
 [cheqd-use-case-examples.md](cheqd-use-case-examples.md)
 {% endcontent-ref %}
+
+{% file src="../../.gitbook/assets/CHEQ Token Two-Pager.pdf" %}

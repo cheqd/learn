@@ -5,7 +5,6 @@
 ## Overview
 
 * [♟ cheqd 101](overview/cheqd-101/README.md)
-  * [cheqd 2 pager](overview/cheqd-101/cheqd-2-pager.md)
   * [cheqd use case examples](overview/cheqd-101/cheqd-use-case-examples.md)
   * [The business models of identity](overview/cheqd-101/the-business-models-of-identity.md)
   * [Why identity needs a token](overview/cheqd-101/why-identity-needs-a-token.md)
