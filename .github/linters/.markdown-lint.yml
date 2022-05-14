@@ -87,15 +87,14 @@ MD031: true
 MD032: true
 
 # Inline HTML <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md033>
-MD033:
-  allowed_elements: ['a']
+MD033: false
 
 # Bare URL used <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md034>
 MD034: true
 
 # Horizontal rule style <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md035>
 MD035:
-  style: '---'
+  style: 'consistent'
 
 # Emphasis used instead of a heading <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md#md036>
 MD036: true
