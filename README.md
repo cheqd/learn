@@ -13,7 +13,7 @@ description: We're making it easier for individuals and organisations to trust e
 * [What is cheqd?](broken-reference)
 * [Introduction to decentralised identity](overview/introduction-to-decentralised-identity/)
 * [Introduction to $CHEQ](overview/introduction-to-usdcheq.md)
-* [Getting set up on cheqd](broken-reference)
+* [Where to fin d $CHEQ](broken-reference)
 * [Tokenomics](overview/tokenomics/)
 
 </details>
@@ -32,7 +32,9 @@ description: We're making it easier for individuals and organisations to trust e
 
 <summary>cheqd Product</summary>
 
-* cheqd Product Roadmap (Coming soon)
+* [Product Overview](https://product.cheqd.io/)
+* [2022 Roadmap](https://product.cheqd.io/product-essentials/2022-roadmap)
+* [Technical Standards and Interop](https://product.cheqd.io/cheqd-product/technical-standards-and-interop-profile)
 
 </details>
 
