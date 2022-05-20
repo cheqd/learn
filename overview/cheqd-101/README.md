@@ -16,7 +16,7 @@ cheqd's goal is made possible through leveraging [decentralised identity](../int
 
 <mark style="color:orange;">**This is you.**</mark>
 
-![](../../.gitbook/assets/undraw\_Social\_notifications\_re\_xcbi.png)
+![Figure showing multiple social media profiles](<../../.gitbook/assets/cheqd 101 - Social media icons image.png>)
 
 Digital identity is something that we rarely think about in our day-to-day lives, but it is something that we all have subscribed to.
 
@@ -44,13 +44,13 @@ We play out this sequence multiple times a day:
 >
 > Company: "_**Ahhh maybe, if you have the password and key you can get in, otherwise nah, you can't have your data today".**_
 
-_****_![](<../../.gitbook/assets/undraw\_Forgot\_password\_re\_hxwm (1).png>)<mark style="color:orange;">**But it's my data right?**</mark>
+<mark style="color:orange;">****</mark>![](<../../.gitbook/assets/cheqd 101 - This is my data right.png>)<mark style="color:orange;">**But it's my data right?**</mark>
 
 > Company: _**"HAVE YOU SEEN THIS NEW VIDEO OF A BABY MONKEY RIDING A PIG?"**_
 >
 > Person: _**"That is some GREAT content, have some more of my preference data, I don't really care - I love it, thanks"**_
 
-_****_![](../../.gitbook/assets/undraw\_Social\_life\_re\_x7t5.png)<mark style="color:orange;">**This is great content.**</mark>
+<mark style="color:orange;">****</mark>![](<../../.gitbook/assets/cheqd 101 - This is great content image.png>)<mark style="color:orange;">**This is great content.**</mark>
 
 > Company: _**\*sweats advertisement money\***_
 
@@ -80,15 +80,15 @@ Instead of companies managing data indirectly, on your behalf, it is now possibl
 
 **This type of technology has been labelled by the industry as decentralised, or Self-Sovereign Identity (SSI).**
 
-****![](<../../.gitbook/assets/image (10).png>)<mark style="color:orange;">**You hold your data directly**</mark>
+<mark style="color:orange;">****</mark>![](<../../.gitbook/assets/cheqd 101 - You hold your data directly.png>)<mark style="color:orange;">**You hold your data directly.**</mark>
 
 Importantly, this data is cryptographically signed by a person or company that issues it to <mark style="color:orange;">**you**</mark>. The data itself is secured with a digital trustworthy signature.
 
-![](<../../.gitbook/assets/image (13).png>)<mark style="color:orange;">**Your data now has a digital, trustworthy signature**</mark>
+<mark style="color:orange;">**Your data now has a digital, trustworthy signature.**</mark> ![](<../../.gitbook/assets/cheqd 101 - Digital trustworthy signature.png>)<mark style="color:orange;">****</mark>
 
 And you can share this with third parties to prove trust in your own data, identity and attributes.&#x20;
 
-![](<../../.gitbook/assets/image (11).png>)
+![Self-Sovereign Identity: Trust Triangle: Blank](<../../.gitbook/assets/Trust Triangle - blank.png>)
 
 This does a few things.
 
