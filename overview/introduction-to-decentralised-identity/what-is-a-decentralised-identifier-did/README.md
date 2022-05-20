@@ -12,7 +12,7 @@ It is easy to think of DIDs as identifying something in the same way as how a re
 
 This is James Bond's Aston Martin DB5.
 
-![](<../../../.gitbook/assets/image (29).png>)
+![Image showing James Bond's Aston Martin DB5](<../../../.gitbook/assets/James Bond DB5.png>)
 
 The important question is, how can James Bond prove ownership and control of this car if someone was to challenge that it was his?
 
@@ -23,23 +23,9 @@ Well, James Bond can likely prove control and ownership of that car in 2 main wa
 
 For point number one, if you check and resolve the specific plate number using the service registry, you find the following information:\
 \
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/James Bond DB5 registry details.png>)
 
 This creates a level of confidence in the fact that the registration plate belongs to the specific car, as a person could cross reference the listed features against the visual features of the car. Further, any competent authority would have the power to go one level deeper and tie the legal owner of the car to the license plate.&#x20;
-
-However, how does this hold up if the car is compromised?
-
-#### Stolen vehicle
-
-Let's take the hypothetical scenario that Goldfinger, a classic James Bond villain, steals the keys to James Bond's car, and escapes with it for his own nefarious purposes.&#x20;
-
-Firstly, in this scenario, a competent authority would have the capacity to be able to link the registration plate of this vehicle to James Bond's identity, through the registry, and track it down accordingly.
-
-Secondly, if Goldfinger did try and update the registration of the car, he would struggle. This is because proving control of the keys to the car is not enough to prove ownership of the car. On top of having the keys, he would also need to provide control of something known as a "V5C logbook" to the DVLA. This logbook acts as a separate layer of protection, outside of controlling the physical car key. He would also need to impersonate James Bond, know personal information such as his post code, and likely his signature, in order to transfer the car to himself or another person, which would be very difficult for Goldfinger to pull off.&#x20;
-
-In this way, the use of the physical car key, the V5C logbook as a verification method, the registry as a trusted data source and specific knowledge belonging to James Bond, safeguard the car from being stolen and legally changed hands.
-
-#### These are all incredibly important concepts to understand when considering DIDs.&#x20;
 
 ### How do DIDs fit in here?
 
@@ -51,11 +37,23 @@ The equivalent to searching a registration plate number on a DVLA indexing site,
 
 Below, you can see the method for resolving a registration plate number, as well as the similar method for resolving a DID.
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](<../../../.gitbook/assets/DVLA License plate registry search.png>)
 
-![](<../../../.gitbook/assets/image (14).png>)
+![Two images showing the similarities between a License plate lookup and a DID lookup service](<../../../.gitbook/assets/DID cheqd universal resolver.png>)
 
 When inputted here, relevant information will be shown about the DID, in the form of a DID Document. This is possible because the DID and it's adjacent DID Document are both stored on a Verifiable Data Registry, such as a blockchain or trustworthy database.&#x20;
+
+#### Stolen vehicle
+
+Let's take the hypothetical scenario that Goldfinger, a classic James Bond villain, steals the keys to James Bond's car, and escapes with it for his own nefarious purposes.&#x20;
+
+Firstly, in this scenario, a competent authority would have the capacity to be able to link the registration plate of this vehicle to James Bond's identity, through the registry, and track it down accordingly.
+
+Secondly, if Goldfinger did try and update the registration of the car, he would struggle. This is because proving control of the keys to the car is not enough to prove ownership of the car. On top of having the keys, he would also need to provide control of something known as a "V5C logbook" to the DVLA. This logbook acts as a separate layer of protection, outside of controlling the physical car key. He would also need to impersonate James Bond, know personal information such as his post code, and likely his signature, in order to transfer the car to himself or another person, which would be very difficult for Goldfinger to pull off.&#x20;
+
+In this way, the use of the physical car key, the V5C logbook as a verification method, the registry as a trusted data source and specific knowledge belonging to James Bond, safeguard the car from being stolen and legally changed hands.
+
+In this instance the V5C logbook acts like a DID Document. Since it needs to be updated to change control of the car and acts as a separate layer of protection to the keys of the car.&#x20;
 
 ### What is a DID Document?
 
