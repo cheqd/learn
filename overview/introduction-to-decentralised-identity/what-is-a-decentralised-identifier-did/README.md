@@ -78,8 +78,8 @@ To fully understand how DIDs work and why they are important, we will walk throu
 [what-is-a-did-document.md](what-is-a-did-document.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-dids-build-trust.md" %}
-[how-dids-build-trust.md](how-dids-build-trust.md)
+{% content-ref url="how-do-dids-build-trust.md" %}
+[how-do-dids-build-trust.md](how-do-dids-build-trust.md)
 {% endcontent-ref %}
 
 For further reading on DIDs, you can read:

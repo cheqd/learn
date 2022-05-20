@@ -12,7 +12,7 @@
   * [What is a Decentralised Identifier ("DID")?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/README.md)
     * [How do you resolve a DID?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/how-do-you-resolve-a-did.md)
     * [What is a DID Document?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/what-is-a-did-document.md)
-    * [How DIDs build trust?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/how-dids-build-trust.md)
+    * [How do DIDs build trust?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/how-do-dids-build-trust.md)
     * [What is a Verifiable Data Registry?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/what-is-a-verifiable-data-registry.md)
     * [What is a DID method?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/what-is-a-did-method.md)
     * [What is DID URL Dereferencing?](overview/introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/what-is-did-url-dereferencing.md)
