@@ -108,4 +108,6 @@ And the use cases and projects of this technology are growing rapidly...
 [cheqd-use-case-examples.md](cheqd-use-case-examples.md)
 {% endcontent-ref %}
 
-{% file src="../../.gitbook/assets/CHEQ Token Two-Pager.pdf" %}
+{% content-ref url="../introduction-to-usdcheq.md" %}
+[introduction-to-usdcheq.md](../introduction-to-usdcheq.md)
+{% endcontent-ref %}
