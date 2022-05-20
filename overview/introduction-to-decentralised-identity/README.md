@@ -82,9 +82,9 @@ Digital identity wallet apps will have user interface which helps arrange differ
 
 The holder is now empowered with full control and management capabilities over their personal data. The holder can consent and directly choose when their data is shared.
 
-#### 4. **Peer-to-peer connection:** User can share trustworthy data with a third party verifier&#x20;
+#### 4. **Peer-to-peer connection:** Holder can share trustworthy data with a third party verifier&#x20;
 
-Once again, if the User wants to share their data with a third party, another peer-to-peer channel needs to be created with a verifier. In a similar process, the holder might use their wallet app to scan a QR code from the verifier to create a secure, off-chain communications channel.
+Once again, if the holder wants to share their data with a third party, another peer-to-peer channel needs to be created with a verifier. In a similar process, the holder might use their wallet app to scan a QR code from the verifier to create a secure, off-chain communications channel.
 
 Once this channel is established, the verifier may request a selection of data from the holder.&#x20;
 
