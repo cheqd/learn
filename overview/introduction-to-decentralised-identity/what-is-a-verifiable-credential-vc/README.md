@@ -22,7 +22,7 @@ Here's a classic email with some attachments.&#x20;
 
 This is how most people are familiar with sending information about themselves digitally.&#x20;
 
-![](<../../../.gitbook/assets/image (12).png>)
+![Verifiable Credential and email comparison image](<../../../.gitbook/assets/Verifiable Credential email comparison.png>)
 
 I am sure everyone reading this has had to attach a photocopy of their passport to an email, in order to prove that they are who they claim to be. Or alternatively, has attached their CV to an email to prove their work and education records, either as a word document or PDF.
 
