@@ -52,7 +52,7 @@ The following image shows the basic flow of how SSI works, without getting into 
 
 Let's run through this flow in turn.
 
-1. **Trust anchor:** Issuer registers a digital signature to the blockchain
+#### **1. Trust anchor:** Issuer registers a digital signature to the blockchain
 
 One of the most important components of SSI, is understanding what goes on the blockchain and what does not.
 
@@ -62,7 +62,7 @@ In this first step, the issuer anchors a public signature to the blockchain in t
 
 The issuer may also publish what is known as a Schema, which is a list of the types of attributes there will be listed in a Credential that it issues. Schemas are useful for Credential interoperability.&#x20;
 
-2\. **Peer-to-peer connection**: Issuer sends signed, verifiable data to the holder&#x20;
+#### 2. **Peer-to-peer connection**: Issuer sends signed, verifiable data to the holder&#x20;
 
 Once the issuer has publicised their signature and signing keys, they are able to issue a [Verifiable Credential](what-is-a-verifiable-credential-vc/) to a holder.&#x20;
 
@@ -74,7 +74,7 @@ Through this secure channel, an issuer will send a Verifiable Credential. This C
 
 The Credential may also reference a particular schema, which the structure of its contents mirrors.&#x20;
 
-3\. **Self-Sovereignty:** Holder can hold, control and consent to where their data is used
+#### 3. **Self-Sovereignty:** Holder can hold, control and consent to where their data is used
 
 Once the Credential is sent to the holder, they now have a signed, verifiable and trustworthy instance of their data in a digital wallet that they control.
 
@@ -82,7 +82,7 @@ Digital identity wallet apps will have user interface which helps arrange differ
 
 The holder is now empowered with full control and management capabilities over their personal data. The holder can consent and directly choose when their data is shared.
 
-4\. **Peer-to-peer connection:** User can share trustworthy data with a third party verifier&#x20;
+#### 4. **Peer-to-peer connection:** User can share trustworthy data with a third party verifier&#x20;
 
 Once again, if the User wants to share their data with a third party, another peer-to-peer channel needs to be created with a verifier. In a similar process, the holder might use their wallet app to scan a QR code from the verifier to create a secure, off-chain communications channel.
 
@@ -92,7 +92,7 @@ The holder will be able to choose whether it wants to accept the request and wil
 
 The holder shares the data with the verifier in the form of a [Verifiable Presentation](what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md). Importantly, the data shared with the verifier is still visible in the holder's digital identity wallet app. This data can be revoked at any time by the holder, in a few clicks, in accordance with their data subject rights.
 
-5\. **Decentralised trust:** Verifier trust the issuer's signature in the data received
+#### 5. **Decentralised trust:** Verifier trust the issuer's signature in the data received
 
 As mentioned in Step 2, the Credential that the holder presented to the verifier contained the signing keys and digital signature of the issuer.&#x20;
 
