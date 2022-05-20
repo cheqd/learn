@@ -46,7 +46,7 @@ _An example of this would be a passport application, where the applicant pays a 
 
 The interactions an individual/company has with an organisation is recorded, with the metadata and behaviour used to create weak identity profiles. The interactions _appear_ free to the individual or company, but their identity profile is monetised by selling inferences to other companies.
 
-![](https://miro.medium.com/max/1400/1\*cYY3VrEQu4MvGTNkpFsg1A.png)
+![Figure showing how data is being constantly analysed and aggregated](<../../.gitbook/assets/Business models of identity - data mining.png>)
 
 _An example of this is_ [_programmatic targeted advertising_](https://en.wikipedia.org/wiki/Targeted\_advertising)_, which are the intrusive ads we often come across online controlled by large ad networks. Some of the largest ones are run by Google, Facebook, Amazon, and Apple._
 
@@ -96,7 +96,7 @@ For instance, government-issued credentials should be made free / as cheap as po
 
 However, in other scenarios where an issuing/verifying organisation is _not_ a publicly-funded organisation, we do see an unmet need for compensating organisations that carry out the work of verifying digital identity. These organisations are the root of trust that make SSI credentials held by an identity subject more trustworthy and have greater utility.
 
-![cheqd’s vision on the virtuous flywheel of self-sovereign identity growth](https://miro.medium.com/max/1400/1\*NQg4Rmt7Rxhs0Vp\_M52P5g.png)
+![cheqd's vision on the virtual flywheel of self-sovereign identity growth](<../../.gitbook/assets/Virtuous flywheel of SSI adoption.png>)
 
 We believe this will create a **virtuous flywheel for self-sovereign identity growth**, where:
 
@@ -111,11 +111,7 @@ _(N.B. We acknowledge we are using an analogy from Amazon here. While we do not 
 
 ## Our approach to building a viable self-sovereign identity token network <a href="#43bc" id="43bc"></a>
 
-**cheqd** is already building towards launching a standards-compliant, incentivised SSI network in 2021. The **cheqd** network will have a token that facilitates the virtuous flywheel. We went into some depth on why SSI models such as [the Trust Over IP stack need an extension with an economic model](https://blog.verim.id/self-sovereign-identity-semantics-an-economic-extension-to-the-trust-over-ip-stack-4a4197d8f6d3?source=collection\_home---5------0-----------------------) in our previous blog post.
-
-We are frequently asked for a simple description of our tokenomics model for the **cheqd** SSI network, but this ignores the complexity of how something deeply personal as identity is exchanged between different parties today. Hopefully, our explanation of the commercial models for digital identity will give a flavour for how diverse the interactions are.
-
-All of these factors create a hugely complex marketplace to create a tokenomics model.
+We are frequently asked for a simple description of our tokenomics model for the **cheqd** network, but this ignores the complexity of how something deeply personal as identity is exchanged between different parties today. Hopefully, our explanation of the commercial models for digital identity will give a flavour for how diverse the interactions are.
 
 We believe at **cheqd** that a one-size-fits-all commercial model for digital identity will not accommodate the richness of current and future SSI use cases. We are approaching this problem by building a base layer that supports a variety of different tokenomics plug-ins, which can be customised based on the context of the ecosystem it is serving.
 
@@ -126,13 +122,13 @@ The analogy we like to use for **cheqd**’s approach with customisable tokenomi
 * **World Trade Organisation Rules:** Where no bi-lateral or multi-lateral trade agreements exist, there are international baseline rules to fall back on.\
   _In the context of self-sovereign identity:_ When SSI credentials hop across between different ecosystems, there are baseline economic policies they can fall back to, thus making them portable across different ecosystems.
 
-![cheqd’s suggested expansion of the Trust Over IP Stack with a economic layer](https://miro.medium.com/max/1400/1\*V351L2umQmr4WEuEoObNNA.png)
+![qd’s suggested expansion of the Trust Over IP Stack with a economic layer](<../../.gitbook/assets/Trust over IP - Economic layer.png>)
 
-Using [the numbering for Layers from our previous blog on the Trust Over IP stack](https://blog.verim.id/self-sovereign-identity-semantics-an-economic-extension-to-the-trust-over-ip-stack-4a4197d8f6d3), in the **cheqd** SSI network our vision is to translate this into:
+Using [the numbering for Layers from our previous blog on the Trust Over IP stack](https://blog.cheqd.io/self-sovereign-identity-semantics-an-economic-extension-to-the-trust-over-ip-stack-4a4197d8f6d3), in the **cheqd** SSI network our vision is to translate this into:
 
 * **Layer 1.1:** A base-layer of tokenomics so that any individual or organisation can interact with any other, regardless of industry or country. (“World Trade Organisation rules”)
 * **Layer 1.2:** Customisable tokenomics plugins such as: “verifier pays holder“, “verifier pays issuer“ or subscription models so that each ecosystem can define its incentives to suit itself and its users the best. (“Bi-lateral or multi-lateral rules”)
 
-![Examples of commercial models in self-sovereign identity](https://miro.medium.com/max/1400/1\*uvK\_U3Wy\_p7cdh0j26f5eA.png)
+![Examples of commercial models in self-sovereign identity](<../../.gitbook/assets/Verifiable Credential payment flows.png>)
 
 We believe this will jumpstart a global, collaborative, vision for SSI whilst accounting for the complexity and nuance we have outlined above in terms of commercial models. We see the tokenomics plug-ins specifically dovetailing with the [Trust over IP metamodel](https://wiki.trustoverip.org/display/HOME/ToIP+Governance+Metamodel) for governance frameworks to facilitate the easy creation of multiple ecosystems (such as [Trinsic Ecosystems](https://trinsic.id/introducing-trinsic-ecosystems/)).
