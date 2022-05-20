@@ -13,7 +13,7 @@ description: We're making it easier for individuals and organisations to trust e
 * [What is cheqd?](broken-reference)
 * [Introduction to decentralised identity](overview/introduction-to-decentralised-identity/)
 * [Introduction to $CHEQ](overview/introduction-to-usdcheq.md)
-* [Where to fin d $CHEQ](broken-reference)
+* [Where to find $CHEQ](broken-reference)
 * [Tokenomics](overview/tokenomics/)
 
 </details>
@@ -42,9 +42,9 @@ description: We're making it easier for individuals and organisations to trust e
 
 <summary>cheqd Governance Framework</summary>
 
-* [Contributing to cheqd](https://docs.cheqd.io/governance/contributing/contributing)
-* [How to vote](getting-set-up-on-cheqd/how-to-vote.md)
-* [cheqd Governance Principles](https://docs.cheqd.io/governance/principles/principles)
+* [Contributing to cheqd](https://gov.cheqd.io/contributing/contributing)
+* [How to vote](https://gov.cheqd.io/contributing/how-do-i-vote-practically)
+* [cheqd Governance Principles](https://gov.cheqd.io/principles/principles)
 * [cheqd Governance Forum](https://commonwealth.im/cheqd)
 
 </details>
@@ -123,6 +123,6 @@ cheqd LinkedIn
 {% endtab %}
 
 {% tab title="Legal Disclaimer" %}
-{% embed url="https://docs.cheqd.io/governance/legal/legal-disclaimer" %}
+{% embed url="https://gov.cheqd.io/legal/legal-disclaimer" %}
 {% endtab %}
 {% endtabs %}
