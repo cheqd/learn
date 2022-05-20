@@ -18,7 +18,7 @@ Through this data model, it is possible to:
 
 Any distinct model of decentralised identity revolves around three specific actors: the [issuer](./#bccf), the [holder](./#1776) and the [verifier](./#d449). Together, these three actors constitute what is known as the **Trust Triangle**.
 
-![cheqd trust triangle basic](<../../.gitbook/assets/cheqd trust triangle no explanations.jpg>)
+![Self-Sovereign Identity Trust Triangle: Basic](<../../.gitbook/assets/cheqd trust triangle no explanations.jpg>)
 
 Let’s discuss these three in turn:
 
@@ -44,13 +44,7 @@ A verifier is any entity that can verify the authenticity and validity of a [Ver
 
 The verifier is able to check that the data presented was issued by the correct, legitimate [issuer](./#bccf) and that the [Verifiable Credential](what-is-a-verifiable-credential-vc/) has not been tampered with. In most instances, the verifier may be able to check that the [Verifiable Credential](what-is-a-verifiable-credential-vc/) has not expired or been revoked.&#x20;
 
-### Why is the Trust Triangle important?
-
-The Trust Triangle enables a [verifier](./#d449) to be able to trust data it receives from a [holder](./#1776) without having to have any direct interaction or relationship with the [issuer](./#bccf).
-
-It also empowers the [holder](./#1776) to maintain total control of their data and where it is used, through decentralised trust, utilising [Decentralised Identifiers ("DIDs")](what-is-a-decentralised-identifier-did/) and [Verifiable Credentials ("VCs")](what-is-a-verifiable-credential-vc/).
-
-#### Understanding the basics of the trust triangle
+### Understanding the basics of the trust triangle
 
 The following image shows the basic flow of how SSI works, without getting into the technical details.&#x20;
 
@@ -107,6 +101,12 @@ Using the blockchain, and a process called DID Resolution, the verifier is able 
 The verifier may also check the schema referenced in the credential, to check that all the correct attributes are present, and to also make it easier for the verifier to receive similar Credentials in the future, given there may be a common format.
 
 The process of DID Resolution builds a chain of decentralised trust between the issuer, holder and verifier - without the issuer and verifier needing to have a direct relationship with each other.
+
+### Why is the Trust Triangle important?
+
+The Trust Triangle enables a [verifier](./#d449) to be able to trust data it receives from a [holder](./#1776) without having to have any direct interaction or relationship with the [issuer](./#bccf).
+
+It also empowers the [holder](./#1776) to maintain total control of their data and where it is used, through decentralised trust, utilising [Decentralised Identifiers ("DIDs")](what-is-a-decentralised-identifier-did/) and [Verifiable Credentials ("VCs")](what-is-a-verifiable-credential-vc/).
 
 This is incredibly powerful for establishing trusted interactions at a large scale.
 
