@@ -22,13 +22,13 @@ Let's use our example of working with two law firms (obviously anonymously):
 
 To pay Firm A, we had a period of a week checking whether we could send directly from our bank account in country A where we hold the bulk of our funds to Firm A's account in country B. Paying directly from our account in country A is our preferred option since we get good exchange rates. Unfortunately, we couldn't send this payment via USD and hence had to begin checking losses from exchange rates and fees to make sure we got the amount right and minimise our losses. Eventually, we landed on sending the payment in multiple steps, from our account in country A to our account in country B, which required USD to EUR conversion due to the network used for the overseas transfer requiring EUR for the transfer. This was then converted back into USD due to Firm A's invoice being in USD and then to the Firm's account in Country B.
 
-![](https://miro.medium.com/max/1400/1\*u8PDkLUHvw-8gtt9MPXjMg.png)
+![Figure showing complexity of current cross-border payment flows](<../../.gitbook/assets/Why identity needs a token - Firm A.png>)
 
 ### Token <a href="#a76d" id="a76d"></a>
 
 Since cheqd already holds USDC balances, we paid in USDC directly (noting both being in different countries).
 
-![](https://miro.medium.com/max/1400/1\*purlHr0xcEawB3cD4497uQ.png)
+![Figure showing how payment can be made more easily in a stablecoin](<../../.gitbook/assets/Why identity needs a token - Firm B.png>)
 
 ### New rails <a href="#aa99" id="aa99"></a>
 

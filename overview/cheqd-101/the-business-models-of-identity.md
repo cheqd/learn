@@ -122,7 +122,7 @@ The analogy we like to use for **cheqd**’s approach with customisable tokenomi
 * **World Trade Organisation Rules:** Where no bi-lateral or multi-lateral trade agreements exist, there are international baseline rules to fall back on.\
   _In the context of self-sovereign identity:_ When SSI credentials hop across between different ecosystems, there are baseline economic policies they can fall back to, thus making them portable across different ecosystems.
 
-![qd’s suggested expansion of the Trust Over IP Stack with a economic layer](<../../.gitbook/assets/Trust over IP - Economic layer.png>)
+![cheqd’s suggested expansion of the Trust Over IP Stack with a economic layer](<../../.gitbook/assets/Trust over IP - Economic layer.png>)
 
 Using [the numbering for Layers from our previous blog on the Trust Over IP stack](https://blog.cheqd.io/self-sovereign-identity-semantics-an-economic-extension-to-the-trust-over-ip-stack-4a4197d8f6d3), in the **cheqd** SSI network our vision is to translate this into:
 

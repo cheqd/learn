@@ -52,5 +52,5 @@ It also empowers the [holder](./#1776) to maintain total control of their data a
 
 To find out and understand exactly how this works, you need to firstly familiarise yourself with [DIDs](what-is-a-decentralised-identifier-did/) and [VCs](what-is-a-verifiable-credential-vc/), and [how they work together](broken-reference).&#x20;
 
-![cheqd trust triangle explanatory](<../../.gitbook/assets/cheqd trust triangle.jpg>)
+![cheqd trust triangle explanatory](broken-reference)
 
