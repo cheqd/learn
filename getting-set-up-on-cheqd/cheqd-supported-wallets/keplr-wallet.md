@@ -1,6 +1,9 @@
-# 💳 Keplr Wallet
+---
+cover: ../../.gitbook/assets/Keplr wallet and cheqd header.png
+coverY: 120.46983758700696
+---
 
-![](https://www.cheqd.io/hubfs/We%E2%80%99re%20launching%20our%20network%20very%20soon!%20Here%E2%80%99s%20how%20you%20can%20get%20ready.png)
+# 💳 Keplr Wallet
 
 _Disclaimer: All information provided is intended to help users get set up on cheqd. However, we do not expressly recommend or mandate a certain approach. All actions taken are your personal responsibility. Much of the content of this article was created using the_ [_Keplr FAQ_](https://faq.keplr.app/), [_Keplrs account creation blog_](https://keplr.crunch.help/getting-started/creating-a-new-keplr-account) _and_ [_wallet setup guide_](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6)_, which you should cross-check for further information._
 
@@ -24,17 +27,17 @@ Good question.
 
 A mnemonic (said with a silent m — “nuh-mon-ic” — if you really want to impress your crypto friends), mnemonic phrase, mnemonic seed or simply seed phrase is a string of 12–24 words that represent the private key to your wallet. When used in the correct sequence they give users access to their cryptocurrencies stored within a wallet in the same way a private key does. As private keys generally are made up of a combination of letters and numbers which are difficult to decipher, mnemonics are used to make it possible to understand the private key.
 
-![mnemonic cheqd blog](https://www.cheqd.io/hs-fs/hubfs/mnemonic%20cheqd%20blog.png?width=212\&name=mnemonic%20cheqd%20blog.png)
+![Image of planets mnemonic](<../../.gitbook/assets/planets mnemonic.png>)
 
 We all have childhood memories of creating easy-to-remember phrases to recall things like the planets in our Solar System, before crypto was ever invented and when Pluto still had a seat at the Solar System table.
 
-![pluto cheqd blog](https://www.cheqd.io/hs-fs/hubfs/pluto%20cheqd%20blog.png?width=495\&name=pluto%20cheqd%20blog.png)
+![](<../../.gitbook/assets/pluto meme cheqd blog.png>)
 
 The fancy word ‘mnemonic’ is exactly this. Literally, it refers to a memory aid like a rhyme, abbreviation or song that helps to remember something else. Ironically, the word itself is much less easy to remember.
 
 In the context of digital assets, mnemonics are used to protect your wallet in the event that the computer that it was running on died, was lost or stolen. The mnemonic, usually 12 words, can be typed in the sequence it was created to restore the wallet and your access on a new device. In this case, you will not need to store a separate version of your mnemonic as the Keplr application itself manages this for you.
 
-![](https://www.cheqd.io/hs-fs/hubfs/We%E2%80%99re%20launching%20our%20network%20very%20soon!%20cheqd%20blog%20keplr%20wallet%202.png?width=600\&name=We%E2%80%99re%20launching%20our%20network%20very%20soon!%20cheqd%20blog%20keplr%20wallet%202.png)
+![Keplr site banner](<../../.gitbook/assets/Keplr wallet banner.png>)
 
 ### Setting up a Keplr Wallet on PC/Mac <a href="#39db" id="39db"></a>
 
@@ -51,7 +54,7 @@ In the context of digital assets, mnemonics are used to protect your wallet in t
 
 In this guide, we’ll assume you have not used Keplr before and therefore will take you through options 1 and 2
 
-![](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20sign%20up%20cheqd%20blog.png?width=680\&name=keplr%20wallet%20sign%20up%20cheqd%20blog.png)
+![Image of Keplr sign in](<../../.gitbook/assets/Keplr sign in page.png>)
 
 {% hint style="info" %}
 _**Note: The Keplr team will never reach out and ask you to validate your wallet or type your mnemonics. Be careful of scammers.**_
@@ -64,7 +67,7 @@ For the highest level of security when using Keplr we’d recommend this option.
 1. Select Sign In with Google
 2. Enter an account name (this can be changed later) and a password
 
-![keplr wallet sign up with google cheqd blog](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20sign%20up%20with%20google%20cheqd%20blog.png?width=656\&name=keplr%20wallet%20sign%20up%20with%20google%20cheqd%20blog.png)
+![](<../../.gitbook/assets/keplr wallet sign up with google cheqd blog.png>)
 
 1. Next, you’ll be prompted to sign in to your Google account with your email or phone (and later password). Click \[Next].
 2. And that’s it! You now have a Keplr wallet.
