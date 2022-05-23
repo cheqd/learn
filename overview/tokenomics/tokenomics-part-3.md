@@ -16,7 +16,7 @@ The requirements explained below are best understood following an SSI example. W
 
 Either through self-attested data or third-party attested data one user can prove their identity to another, [avoiding the service support imposters which have plagued OpenSea recently](https://nftcadets.com/opensea-to-add-metalink-customer-service-channel/) or remove the need for test transfers, i.e. sending 1 token to confirm the recipient then sending the balance. This could be especially powerful in allowing DeFi protocols to meet the[ Travel Rule](https://www.fincen.gov/sites/default/files/advisory/advissu7.pdf) whilst maintaining individual’s privacy as far as possible.
 
-![](https://miro.medium.com/max/1400/0\*fDk7XJG1c\_sIKPPX)
+![cheqd KYC and DeFi pool](<../../.gitbook/assets/Tokenomics - KYC and DeFi Pool.png>)
 
 User journey steps:
 
@@ -67,7 +67,7 @@ Whilst there are numerous commercial models to come, we will focus on the two pa
 * Holder pays issuer; Receiver pays holder
 * Receiver pays issuer
 
-![Payment model diagrams](https://miro.medium.com/max/1400/0\*fF0THe3wwNYHOZ0m)
+![cheqd tokenomics payment models](<../../.gitbook/assets/cheqd tokenomics payment model.png>)
 
 _Note: Whilst the diagram shows one organisation as an issuer and one as a receiver, these roles are interchangeable depending on the data being transacted and the surrounding interaction._
 
@@ -152,7 +152,7 @@ We are closely watching Osmosis’ [superfluid staking](https://www.youtube.com/
 **Combined**\
 Combining the components mentioned above results in the payment diagrams below. The arrows in white are the typical credential flow with those in gold showing the payment flows we will be laying on.
 
-![Receiver pays issuer: credential exchange flow](https://miro.medium.com/max/1400/1\*1XMl9vwAF1wvKaWSKVV7bA.png)
+![Receiver pays issuer: credential exchange flow](<../../.gitbook/assets/tokenomics - receiver pays issuer.png>)
 
 User journey steps:
 
@@ -172,9 +172,7 @@ User journey steps:
 14. _**Escrow** clears down the debt_
 15. _Cycle repeats_
 
-__
-
-![Receiver pays issuer: settlement flow — happy path](https://miro.medium.com/max/1400/1\*T2NY8H-k8X-uUmoeGbFZrQ.png)
+![Receiver pays issuer: settlement flow — happy path](<../../.gitbook/assets/tokenomics - settlement flow.png>)
 
 **Extensibility**\
 As mentioned when explaining escrows, one of their benefits is extensibility, specifically for commercial models. The payment flow above represents a building block for these with the escrow the key piece of the puzzle to move from “receiver pays issuer” to much more complex commercial models such as subscriptions, volume-based discounting or cost mutualisation.
@@ -195,7 +193,7 @@ Since there are already models for this interaction in the current world (brave 
 
 That being said, the individual or organisation may wish to pay or be paid in either stablecoin or stable & privacy token to maintain price stability but more importantly their privacy.
 
-![Receiver pays holder: credential exchange flow](https://miro.medium.com/max/1400/0\*5J3UHkVi\_Jci6sto)
+![Receiver pays holder: credential exchange flow](<../../.gitbook/assets/tokenomics - receiver pays holder.png>)
 
 ## Holder pays issuer <a href="#fde6" id="fde6"></a>
 
@@ -203,7 +201,7 @@ As per Table 2, there are frequent interactions where an individual will purchas
 
 The pervasiveness of this model already will guarantee this model will see frequent use.
 
-![Holder pays issuer: credential exchange flow](https://miro.medium.com/max/1400/0\*tnEjXIGJ\_zru\_-BD)
+![Holder pays issuer: credential exchange flow](<../../.gitbook/assets/Tokenomics - holder pays issuer.png>)
 
 ## CHEQ supply & demand <a href="#5ffb" id="5ffb"></a>
 
@@ -211,7 +209,7 @@ As CHEQ will be used as collateral for the lines of credit mentioned above, we e
 
 ### Supply <a href="#cc8a" id="cc8a"></a>
 
-The tokenomics at distribution / genesis were covered in our [earlier blog here](https://blog.cheqd.io/cheqds-tokenomics-for-ssi-explained-part-2-c4ecfc32b813). At the time of writing this blog (28th February 2022), the total supply of CHEQs in the market is \~1.008B with an inflation rate of \~2%, with a maximum of 4% currently set.
+The tokenomics at distribution / genesis were covered in our [Tokenomics Part 2](tokenomics-part-2.md). At the time of writing this blog (28th February 2022), the total supply of CHEQs in the market is \~1.008B with an inflation rate of \~2%, with a maximum of 4% currently set.
 
 We are currently working on APIs to feed Total Current Supply and Current Circulating Supply directly into CoinMarketCap and CoinGecko since these are not readily available in Cosmos SDK.
 
@@ -221,11 +219,11 @@ Since CHEQs will be used as collateral for lines of credit, across the entire ne
 
 The table below articulates the proportion of tokens which would be locked up dependent on the token price, assuming a 200% liquidation rate which would be likely when the payment models are first released.
 
-![# CHEQs / % supply required to establish a given Line of Credit](https://miro.medium.com/max/1400/1\*32SwbHMnLOMMWEtJKAZSNQ.png)
+![# CHEQs / % supply required to establish a given Line of Credit](<../../.gitbook/assets/Tokenomics - Line of Credit (1).png>)
 
 Related to this, it is worth us re-sharing how many of these ecosystems /use-cases and hence companies (since each consortium will involve multiple companies) we are expecting to leverage the network.
 
-![cheqd’s expectation of SSI ecosystem formation](https://miro.medium.com/max/1400/1\*mdbxgQWfbS2NajYvgevg2g.png)
+![cheqd’s expectation of SSI ecosystem formation](<../../.gitbook/assets/Tokenomics - Ecosystem foundation.png>)
 
 ## Building <a href="#b91f" id="b91f"></a>
 
