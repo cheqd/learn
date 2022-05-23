@@ -13,7 +13,7 @@ Firstly, let’s start with a brief summary for those with little time to spare.
 * **Contributors:** The core team and those who have supported us in executing, including our exceptional advisors.
 * **Shareholders:** Our investors, as [mentioned in our announcement here](https://twitter.com/fraser\_again/status/1440971937333792770?s=20), who supported us when our mission was simply to establish the payment rails and commercial models for self-sovereign identity without us knowing where this would take us. Again, a huge thank you!
 
-![](https://815275166-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MjibM3lG9a5touW8dme%2Fuploads%2Ff6rJFJ345G1MEFP373Ot%2Fimage.png?alt=media\&token=a43ad565-6e53-4d5d-8a7b-74e5cbcf628a)
+![Image of cheqd token distribution at launch](<../../.gitbook/assets/Tokenomics distribution image.png>)
 
 | Sub-group                    | %     | #             | Immediate liquidity % | Years vesting |
 | ---------------------------- | ----- | ------------- | --------------------- | ------------- |
@@ -28,13 +28,13 @@ Firstly, let’s start with a brief summary for those with little time to spare.
 
 ### Notes <a href="#a5c3" id="a5c3"></a>
 
-_Vesting: Based on our analysis, it is possible to both stake unvested tokens and receive staking rewards for those unvested tokens, helping secure the network.Circulating supply at Token Generation Event: Our distributions and calculations put the maximum circulating supply at 5.42% including treasury provided liquidity._
+_Vesting: Based on our analysis, it is possible to both stake unvested tokens and receive staking rewards for those unvested tokens, helping secure the network. Circulating supply at Token Generation Event: Our distributions and calculations put the maximum circulating supply at 5.42% including treasury provided liquidity._
 
 ## Community and grants <a href="#13cb" id="13cb"></a>
 
 The token and identity communities are both absolutely critical for us and the adoption of SSI and trusted data. We have the opportunity to not just achieve success for cheqd but the paradigm as a whole — data control back to individuals.
 
-![](https://miro.medium.com/max/1120/0\*ndS\_XCWVaI1flRho)
+![cheqd distribution for community, marketing and grants](<../../.gitbook/assets/Tokenomics community and grants.png>)
 
 | Sub-group | %     | #           | Immediate liquidity % | Years vesting |
 | --------- | ----- | ----------- | --------------------- | ------------- |
@@ -45,23 +45,23 @@ The token and identity communities are both absolutely critical for us and the a
 
 ### Community <a href="#43e7" id="43e7"></a>
 
-cheqd is committed to launching the network in a regulatory compliant fashion, so any offerings will target to fit within the laws set out within each geography. The current paradigm of identity is a problem globally, and we can only work at that scale if we are not excluded from certain countries or geographies.That being said, we fully intend to [reward our community](https://www.cheqd.io/l/get-ready) for their support, both until now and in the future, as we wouldn’t be where we are without our earliest members. We hope the cheqd community will spread the paradigm far and wide, demanding companies to adopt the technology, educating friends and family, introducing the concept into their workplaces so that everyone can get back their privacy.We would remind everyone to join our [Telegram](https://t.me/cheqd/) and [Twitter](https://twitter.com/cheqd\_io) to keep an eye out for our news and surprises.
+cheqd is committed to launching the network in a regulatory compliant fashion, so any offerings will target to fit within the laws set out within each geography. The current paradigm of identity is a problem globally, and we can only work at that scale if we are not excluded from certain countries or geographies. That being said, we fully intend to [reward our community](https://www.cheqd.io/l/get-ready) for their support, both until now and in the future, as we wouldn’t be where we are without our earliest members. We hope the cheqd community will spread the paradigm far and wide, demanding companies to adopt the technology, educating friends and family, introducing the concept into their workplaces so that everyone can get back their privacy. We would remind everyone to join our [Telegram](https://t.me/cheqd/) and [Twitter](https://twitter.com/cheqd\_io) to keep an eye out for our news and surprises.
 
 ### SSI & validator grants <a href="#e52b" id="e52b"></a>
 
-To make adoption as easy as possible for the SSI community, we provide token grants to the companies developing in this space. These grants will smooth the transition to using a token-based network and provide them with stakes, which can generate token rewards, helping to offset the cost of using the network.We are already seeing the impact of these grants on the SSI community’s ability and willingness to adopt the network, which I look forward to Tobias Halloran (Head of Partnerships) sharing in the coming weeks and months.It will also provide us with a window to establish the necessary partnerships with custodians, exchanges and OTC desks such that their end clients do not need to worry about handling tokens at all.
+To make adoption as easy as possible for the SSI community, we provide token grants to the companies developing in this space. These grants will smooth the transition to using a token-based network and provide them with stakes, which can generate token rewards, helping to offset the cost of using the network. We are already seeing the impact of these grants on the SSI community’s ability and willingness to adopt the network, which I look forward to Tobias Halloran (Head of Partnerships) sharing in the coming weeks and months. It will also provide us with a window to establish the necessary partnerships with custodians, exchanges and OTC desks such that their end clients do not need to worry about handling tokens at all.
 
 ## Foundation <a href="#cfff" id="cfff"></a>
 
-As with most other projects, the focus of the foundation, managing the cheqd treasury, is to maintain and accelerate the adoption of the network primarily through: further feature development, business & partnership development, and marketing. In addition to this, we will likely establish further grants and further advisor agreements where necessary. As per our [governance framework](https://docs.cheqd.io/governance/), we will only be one vote of many on the network but want to be a major contributor guided by the community.Beyond the initial distribution, we expect proportionate staking rewards to flow back to the treasury to maintain a constant supply to maintain the team.Our priority here is ensuring we have sufficient treasury to support the project’s development and its team for an extended period.
+As with most other projects, the focus of the foundation, managing the cheqd treasury, is to maintain and accelerate the adoption of the network primarily through: further feature development, business & partnership development, and marketing. In addition to this, we will likely establish further grants and further advisor agreements where necessary. As per our [governance framework](https://docs.cheqd.io/governance/), we will only be one vote of many on the network but want to be a major contributor guided by the community. Beyond the initial distribution, we expect proportionate staking rewards to flow back to the treasury to maintain a constant supply to maintain the team. Our priority here is ensuring we have sufficient treasury to support the project’s development and its team for an extended period.
 
-![](https://miro.medium.com/max/1120/0\*4zjgIya3PxzKJd5H)
+![cheqd distribution for the cheqd foundation](<../../.gitbook/assets/Tokenomics foundation.png>)
 
 ## Circulating supply <a href="#9c41" id="9c41"></a>
 
 As you have spotted, we have a variety of vesting periods over the groups, which naturally impact the circulating supply of tokens. In addition to vesting, block rewards will also increase that circulating supply. Naturally, it’s up to each token holder how much comes into circulation but the graph below outlines the maximum circulating supply at each stage.
 
-![](https://miro.medium.com/max/1120/0\*7sB24LNK2DW94LqI)
+![cheqd image of circulating supply](<../../.gitbook/assets/Circulating supply.png>)
 
 ## Now and next <a href="#750a" id="750a"></a>
 
