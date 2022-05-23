@@ -32,9 +32,9 @@
 Open the PDF to use an interactive version of this slide to navigate to each page
 {% endhint %}
 
-![Engaging with cheqd](<../.gitbook/assets/Screenshot 2022-04-06 at 12.24.20.png>)
+![Image outlining where and how to engage with cheqd](<../.gitbook/assets/How to engage with cheqd.png>)
 
-{% file src="../.gitbook/assets/Interaction overview.pdf" %}
+{% file src="../.gitbook/assets/Where can I use CHEQ tokens.pdf" %}
 
 
 
