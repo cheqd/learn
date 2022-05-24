@@ -1,6 +1,6 @@
 # 🟢 Introduction to Decentralised Identity
 
-### What is Decentralised Identity? <a href="#what-is-self-sovereign-identity-ssi" id="what-is-self-sovereign-identity-ssi"></a>
+## What is Decentralised Identity? <a href="#what-is-self-sovereign-identity-ssi" id="what-is-self-sovereign-identity-ssi"></a>
 
 **Decentralised Identity**, otherwise known as **Self-Sovereign Identity ("SSI")** is an emerging technology that enables individuals and/or organizations to maintain direct control of data relating to them, with the ability to explicitly consent to where it is shared, used and processed.
 

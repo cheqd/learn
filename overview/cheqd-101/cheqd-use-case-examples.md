@@ -1,5 +1,7 @@
 # cheqd use case examples
 
+## cheqd use case examples
+
 One of the most repeated bits of feedback that we've had, throughout our survey results and community engagement, is that: **more easy explanation and examples on how cheqd can be used in practice would better help people understand the project**.
 
 This page will try and lay out simple use cases where cheqd will be able to create new commercial models. It will be split into two parts:

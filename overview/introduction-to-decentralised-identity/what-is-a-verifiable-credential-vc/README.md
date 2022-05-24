@@ -1,6 +1,6 @@
 # What is a Verifiable Credential ("VC")?
 
-### How we generally think of the word "Credential"
+## How we generally think of the word "Credential"
 
 A "[Credential](https://www.collinsdictionary.com/dictionary/english/credentials)", in an everyday sense, is an attestation, evidence or proof of qualification, competence or authority issued to an entity, either individual or person, by a third party with relevant authority or assumed competence to do so. This may be evidence of authority, status, rights, entitlement to privileges, or the like, usually in a written form.
 

@@ -1,5 +1,7 @@
 # What is a Validator / Node Operator?
 
+## Introductions to Validators/Node Operators
+
 In blockchain ecosystems, the **Node Operator** runs what is called a **node**. A node can be thought of as a power pylon in the physical world, which helps to distribute electricity around a wide network of users.
 
 

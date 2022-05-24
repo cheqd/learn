@@ -11,7 +11,7 @@ As the cheqd network has been built on Cosmos, we use wallets that integrate dir
 
 Here’s where Keplr comes in…
 
-### What is Keplr? <a href="#de07" id="de07"></a>
+## What is Keplr? <a href="#de07" id="de07"></a>
 
 [Keplr](https://www.keplr.app/) is a Cosmos wallet that has been praised for putting the user at the heart of the experience. As the first, and leading Inter-Blockchain Communication (IBC) enabled wallet for the Cosmos ecosystem, Keplr offers users the ability to stake their tokens, use blockchain apps and manage multiple tokens in one wallet.
 

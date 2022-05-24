@@ -1,5 +1,7 @@
 # The business models of identity
 
+## The business models of identity
+
 Identity is a construct of its subject (person, company, virtual thing) and surroundings (birth, country borders, online games). Identity, therefore, varies in how it manifests (passports, self-declared data or an outfit, real or virtual) but also how it is commercialised (or not).
 
 Across the world, identity has been commercialised in too many ways to count. These range from transparent and simple relationships like paying for a passport through to complex and opaque models like targeted advertising.

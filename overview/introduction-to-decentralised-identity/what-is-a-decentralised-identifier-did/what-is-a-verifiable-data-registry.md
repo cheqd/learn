@@ -1,5 +1,7 @@
 # What is a Verifiable Data Registry?
 
+## What is a Verifiable Data Registry?
+
 A Verifiable Data Registry ("VDR"), in the context of decentralised identity, is a place where Decentralised Identifiers (DIDs) can be anchored to.&#x20;
 
 ### Blockchain

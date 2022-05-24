@@ -1,6 +1,6 @@
 # What is a Verifiable Presentation?
 
-### What is a Verifiable Presentation?
+## What is a Verifiable Presentation?
 
 A Verifiable Presentation is a combination of [Verifiable Credentials](./), bundled together into a format to present to a third party.
 

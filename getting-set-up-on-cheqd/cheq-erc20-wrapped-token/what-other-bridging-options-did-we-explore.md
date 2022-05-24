@@ -1,5 +1,7 @@
 # What other bridging options did we explore?
 
+## What other bridging options did we explore?
+
 Whilst beginning our investigation into bridges, we came across varying bridging techniques available, mainly in the Cosmos ecosystem, although these remain much the same across protocols.
 
 Although many of the wrapped tokens available require a custodian to manage this minting and burning (aka. centralised or trusted bridges), the more innovative bridges that now exist (aka. noncustodial, decentralised or trustless bridges) do this through automated methods using contracts on either side of the bridge, as we’ll come on to.

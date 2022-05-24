@@ -1,5 +1,7 @@
 # 🪙 Introduction to $CHEQ
 
+## Introduction to $CHEQ
+
 Before reading this page, please familiarise yourself with the page:
 
 {% content-ref url="introduction-to-decentralised-identity/" %}
@@ -14,19 +16,19 @@ We will give the example of three distinct payment models:
 * [Verifier pays holder](introduction-to-usdcheq.md#verifier-pays-holder)
 * [Verifier pays issuer](introduction-to-usdcheq.md#verifier-pays-issuer)
 
-#### Holder pays issuer
+### Holder pays issuer
 
 A holder could pay for Verifiable Credentials from an issuer. An instance where this could be useful is an individual paying for their education records or employment records, to be able to have a stronger CV.
 
 ![](https://lh3.googleusercontent.com/euY3r0VssdWaGaCVBY4VhtxyYVvFwYEUJ-XU4dn9wWej0C9MtIsvFpE-V\_zFDBkAUxCGeNvY4dlZeahtTxVaEKRaKS\_AEyHRj-QyVTNi0JjbYW\_ZUhj5c6l97-yqhAdZSa3YfMNF)
 
-#### **Verifier pays holder**
+### **Verifier pays holder**
 
 A verifier could pay a holder for sharing Verifiable Credentials. This may be an important use case where a company wants to receive extra preference data from a holder, and is willing to pay a fee for it because it is verifiable.
 
 ![](https://lh5.googleusercontent.com/f0Ibl2DwBUDVa0HHrTAKnY8cIzH37swhi6y25ouDfPJHvht0RjQKoRR22RRJkzfMV44PQmDA0Oej1dR4sQqjkmLVdrjaq6acC2tDhZpxH2IY3KUeLGnxnTpZAnF1ZiAnNdRvy-bt)
 
-#### **Verifier pays issuer**
+### **Verifier pays issuer**
 
 A verifier could pay the issuer for Verifiable Credentials it receives from the holder. This gives the issuer a recurring revenue stream each time the Credentials it issues need to be live-checked by the issuer.&#x20;
 

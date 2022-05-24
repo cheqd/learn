@@ -1,3 +1,2 @@
 # 💦 Liquidity Pools
 
-Liquid

@@ -1,5 +1,7 @@
 # 🚰 How to take part in a Liquidity Pool
 
+## How to take part in a Liquidity Pool
+
 At the time of writing **CHEQ** is currently only available for liquidity providing on the Osmosis DEX.
 
 The CHEQ token is available in two pools:&#x20;

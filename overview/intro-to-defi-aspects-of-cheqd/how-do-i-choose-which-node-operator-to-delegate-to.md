@@ -1,16 +1,18 @@
 # How do I choose which Node Operator to delegate to?
 
+## How do I choose which Node Operator to delegate to?
+
 Choosing your Node Operator or multiple Node Operators is an important decision. There are a few things you can take into consideration:
 
-**Commission rate**
+### **Commission rate**
 
 The incentive for delegating tokens to a Node Operator is that you, as a participant, can earn rewards based on the stake of the Node Operator. Each Node Operator will have a **commission rate.** This is the percentage of tokens that the Node Operator will take as **commission** for running the infrastructure — the remaining percentage is distributed to the **Participants**.
 
-**Reputation**
+### **Reputation**
 
 You should be mindful about what reputation the Node Operator has. This is because the Node Operator may use your votes against the best interest of yourself and the community. As cheqd evolves, it is likely that there will become a political spectrum of Node Operators, who will cast their vote in different directions. Some may want to create chaos on the network and vote to disrupt the established paradigms, for example. A chaotic actor may lure users to delegate to them with a favourable commission rate and use the accumulated bonded tokens against the network’s best interests. For this reason, the choice of Node Operator you delegate to is very important.
 
-**Slashing and Validator Jail**
+### **Slashing and Validator Jail**
 
 As the name would suggest, staking is not risk-free. As the word stake literally means “having something to gain or lose by having a form of ownership of something”, individuals should be wary of the risk, as we’ll come on to.
 

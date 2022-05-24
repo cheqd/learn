@@ -6,7 +6,7 @@ According to the [World Wide Web Consortium ("W3C")](https://www.w3.org/TR/did-c
 
 This definition is a bit complex and technical, so let's try and simplify it down.
 
-### What is a DID?
+## What is a DID?
 
 It is easy to think of DIDs as identifying something in the same way as how a registration plate identifies a car, and a car's owner.&#x20;
 

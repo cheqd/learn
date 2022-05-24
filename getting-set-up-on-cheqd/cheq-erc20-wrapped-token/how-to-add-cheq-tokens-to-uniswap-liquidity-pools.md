@@ -6,9 +6,9 @@ Within UniSwap you can either Swap tokens, or add them to a Liquidity Pool.&#x20
 
 To find out more about Liquidity Pools, head to [what-is-a-liquidity-pool.md](../liquidity-pools/what-is-a-liquidity-pool.md "mention")
 
-### **Adding tokens to a Liquidity Pool**&#x20;
+## **Adding tokens to a Liquidity Pool**&#x20;
 
-#### Step 1: Find Pool&#x20;
+### Step 1: Find Pool&#x20;
 
 As a pool has been created on UniSwap these instructions offer insight into how to use UniSwap, however other options exists and CHEQ will likely appear on them in the near future.&#x20;
 
@@ -16,7 +16,7 @@ Head to the [(CHEQ:USDT) ](https://info.uniswap.org/#/pools/0xa305f3aad48e285c00
 
 ![](<../../.gitbook/assets/Screenshot 2022-04-05 at 16.58.30.png>)
 
-#### Step 2: Add liquidity  and initiate transaction&#x20;
+### Step 2: Add liquidity  and initiate transaction&#x20;
 
 Select ‘**Add liquidity**’ which will take you to the UniSwap app.
 
@@ -28,7 +28,7 @@ Select ‘**Add**’ which will initiate the transaction.
 
 ![](https://lh4.googleusercontent.com/NujfrCgqPyfl--4PKkSTtSAV382aIaMvWxql8gOezaKJWF7N5h3cT6GyyqQsdCZjJZip0JbB6gWR1aKxghgmfoNcVZUiFHmNDZn4B-oPPQjh4rzCfe4ZJFRBmhHduTmLZjszjhJJ)
 
-#### Step 3: Confirm transaction&#x20;
+### Step 3: Confirm transaction&#x20;
 
 Check the GAS fees and confirm the transaction. I
 

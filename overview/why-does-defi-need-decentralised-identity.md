@@ -1,6 +1,6 @@
 # 🤔 Why does DeFi need Decentralised Identity?
 
-### SSI in Decentralised Finance and Crypto <a href="#fe5a" id="fe5a"></a>
+## SSI in Decentralised Finance and Crypto <a href="#fe5a" id="fe5a"></a>
 
 The [Centralised Decentralised Finance (CeDeFi)](https://blog.cheqd.io/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-7e49d0e0993a) ecosystem sees a robust application for SSI. Since identity verification is equally required in both centralised and decentralised finance, with neither satisfied with the existing KYC and identity approaches, SSI can provide that identity layer that meets both worlds. It creates a bridge between traditional data-heavy interactions and an anonymous DeFi approach, while CeDeFI will provide the financial infrastructure for SSI adoption in a key market.
 

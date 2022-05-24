@@ -1,5 +1,7 @@
 # How to send tokens to Ethereum with Gravity Bridge
 
+## How to send tokens to Ethereum with Gravity Bridge
+
 This guide will provide the information you’ll need to make a transfer of tokens native to Cosmos, across to Ethereum and ultimately onto a Decentralised Exchange (DEX).
 
 It has been constructed using another Cosmos project (StarGaze) as the token that is being transferred across using the Gravity Bridge.

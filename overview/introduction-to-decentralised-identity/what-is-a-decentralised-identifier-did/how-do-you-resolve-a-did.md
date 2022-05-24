@@ -1,5 +1,7 @@
 # How do you resolve a DID?
 
+## How do you resolve a DID?
+
 ### Resolving a License plate number
 
 The equivalent to **searching a registration plate number** on a DVLA indexing site, is **resolving** a DID through a **DID resolution method**.&#x20;
