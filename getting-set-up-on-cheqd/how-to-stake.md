@@ -6,7 +6,7 @@ On the our staking and governance dashboard you can either click **"Stake Tokens
 
 {% embed url="https://cheqd.omniflix.co" %}
 
-![](<../.gitbook/assets/image (7).png>)
+![cheqd OmniFlix dashboard](<../.gitbook/assets/Omniflix dashboard.png>)
 
 On the dashboard you can either click **"Stake Tokens"** or click the tab in the right hand corner called **"Stake".**
 
@@ -18,7 +18,7 @@ Press the button **"Delegate"** on your desired Validating Node Operator.&#x20;
 
 &#x20;
 
-![](<../.gitbook/assets/image (15).png>)
+![cheqd delegation screen](<../.gitbook/assets/cheqd delegation image.png>)
 
 Enter the amount of tokens you want to delegate.
 
