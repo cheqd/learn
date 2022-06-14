@@ -19,6 +19,7 @@
   * [What is a Verifiable Credential ("VC")?](overview/introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/README.md)
     * [What is a Verifiable Presentation?](overview/introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md)
     * [What are the different types of Verifiable Credentials?](overview/introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-are-the-different-types-of-verifiable-credentials.md)
+    * [SDKs, Libraries and Platforms](overview/introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/sdks-libraries-and-platforms.md)
 * [🪙 Introduction to $CHEQ](overview/introduction-to-usdcheq.md)
 * [🔮 Intro to DeFi aspects of cheqd](overview/intro-to-defi-aspects-of-cheqd/README.md)
   * [What is a Validator / Node Operator?](overview/intro-to-defi-aspects-of-cheqd/what-is-a-validator-node-operator.md)
