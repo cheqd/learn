@@ -136,10 +136,10 @@ John now holds a Verifiable Credential of his in-game profile in his digital dat
 
 John now wants to start a new game with a brand new metaverse title, made by game's company MetaZap.
 
-John wants to port his in game assets, skins and prestige to MetaZap to build verifiable status in his player profile and allow him to use his unique items.&#x20;
+John wants to port his in game assets, skins and prestige to MetaZap to build verifiable status in his player profile and allow him to use his unique items.
+
+<figure><img src="../../.gitbook/assets/John Smith - Presents VC to Verifier (1).png" alt=""><figcaption><p>John Smith presents Credential as a Verifiable Presentation to MetaZap</p></figcaption></figure>
 
 When John starts up MetaZap, the initial loading menu asks John whether he wants to port over any existing assets. John scans another QR code to create a peer-to-peer encrypted channel with MetaZap. John sends a [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) containing his relevant data and claims with the attached proof to those claims.&#x20;
-
-![John Smith presents Credential as a Verifiable Presentation to MetaZap](<../../.gitbook/assets/John Smith - Presents VC to Verifier.png>)
 
 MetaZap is able to verify the validity of the claims that John presents, by resolving the DID embedded in the Presentation. Through resolving the DID, MetaZap is able to see the DID Document and the information contained from DigiPlay. Automatically, it is able to ascertain that the proof inside John's [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) was issued by the real DigiPlay and starts downloading John's assets into his MetaZap account.
