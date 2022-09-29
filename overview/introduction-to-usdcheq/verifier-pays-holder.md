@@ -1,2 +1,0 @@
-# Verifier pays Holder
-

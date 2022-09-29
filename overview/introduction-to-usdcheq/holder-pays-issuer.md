@@ -1,2 +1,0 @@
-# Holder pays Issuer
-
