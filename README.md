@@ -12,7 +12,7 @@ description: We're making it easier for individuals and organisations to trust e
 
 * [What is cheqd?](broken-reference)
 * [Introduction to decentralised identity](overview/introduction-to-decentralised-identity/)
-* [Introduction to $CHEQ](overview/introduction-to-usdcheq.md)
+* [Introduction to $CHEQ](overview/introduction-to-usdcheq/)
 * [Where to find $CHEQ](broken-reference)
 * [Tokenomics](overview/tokenomics/)
 
@@ -34,6 +34,8 @@ description: We're making it easier for individuals and organisations to trust e
 
 * [Product Overview](https://product.cheqd.io/)
 * [2022 Roadmap](https://product.cheqd.io/product-essentials/2022-roadmap)
+* [Technical identity documentation](https://docs.cheqd.io/identity)
+* [Building using the Veramo SDK for cheqd](https://docs.cheqd.io/identity/building-decentralized-identity-apps/veramo-sdk-for-cheqd)
 * [Technical Standards and Interop](https://product.cheqd.io/cheqd-product/technical-standards-and-interop-profile)
 
 </details>

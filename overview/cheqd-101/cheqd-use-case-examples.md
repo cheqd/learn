@@ -17,8 +17,8 @@ For a high level explanation of how decentralised identity and cheqd's payment r
 [introduction-to-decentralised-identity](../introduction-to-decentralised-identity/)
 {% endcontent-ref %}
 
-{% content-ref url="../introduction-to-usdcheq.md" %}
-[introduction-to-usdcheq.md](../introduction-to-usdcheq.md)
+{% content-ref url="../introduction-to-usdcheq/" %}
+[introduction-to-usdcheq](../introduction-to-usdcheq/)
 {% endcontent-ref %}
 
 #### What cheqd fixes now

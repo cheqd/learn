@@ -4,17 +4,19 @@
 
 Before reading this page, please familiarise yourself with the page:
 
-{% content-ref url="introduction-to-decentralised-identity/" %}
-[introduction-to-decentralised-identity](introduction-to-decentralised-identity/)
+{% content-ref url="../introduction-to-decentralised-identity/" %}
+[introduction-to-decentralised-identity](../introduction-to-decentralised-identity/)
 {% endcontent-ref %}
 
-cheqd is unique in that it provides a way for [Verifiable Credentials](introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to be monetised using its native token, $CHEQ. **** There are various commercial models that may be created by using the cheqd network.&#x20;
+cheqd is unique in that it provides a way for [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to be monetised using its native token, $CHEQ. **** There are various commercial models that may be created by using the cheqd network.&#x20;
+
+
 
 We will give the example of three distinct payment models:
 
-* [Holder pays issuer](introduction-to-usdcheq.md#holder-pays-issuer)
-* [Verifier pays holder](introduction-to-usdcheq.md#verifier-pays-holder)
-* [Verifier pays issuer](introduction-to-usdcheq.md#verifier-pays-issuer)
+* [Holder pays issuer](./#holder-pays-issuer)
+* [Verifier pays holder](./#verifier-pays-holder)
+* [Verifier pays issuer](./#verifier-pays-issuer)
 
 ### Holder pays issuer
 

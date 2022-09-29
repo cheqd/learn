@@ -5,7 +5,7 @@
 cheqd is a blockchain network, built in the [Cosmos ecosystem](https://cosmos.network/), designed to do three core things:
 
 1. To enable people and organisations to have digital, **trustworthy interactions directly with each other**, whilst **maintaining privacy** and **without any centralised registry or organisation** needed**;**
-2. To facilitate **new business models for** [decentralised identity](../introduction-to-decentralised-identity/) and [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/), through the use of our token, [$CHEQ](../introduction-to-usdcheq.md);
+2. To facilitate **new business models for** [decentralised identity](../introduction-to-decentralised-identity/) and [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/), through the use of our token, [$CHEQ](../introduction-to-usdcheq/);
 3. To **bridge the DeFi ecosystem** with the [decentralised identity](../introduction-to-decentralised-identity/) **ecosystem**, for **better user experiences, democratic governance, regulatory compliance and operational efficiency**.
 
 {% hint style="info" %}
@@ -108,6 +108,6 @@ And the use cases and projects of this technology are growing rapidly...
 [cheqd-use-case-examples.md](cheqd-use-case-examples.md)
 {% endcontent-ref %}
 
-{% content-ref url="../introduction-to-usdcheq.md" %}
-[introduction-to-usdcheq.md](../introduction-to-usdcheq.md)
+{% content-ref url="../introduction-to-usdcheq/" %}
+[introduction-to-usdcheq](../introduction-to-usdcheq/)
 {% endcontent-ref %}
