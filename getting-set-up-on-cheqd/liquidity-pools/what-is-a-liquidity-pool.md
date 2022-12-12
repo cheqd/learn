@@ -8,7 +8,7 @@ Liquidity pools are an innovative solution within DeFi to create the mechanics o
 
 This blog will offer some insight into Liquidity Pools.
 
-## Understanding the origination of Automated Market Makers (AMMs) and Liquidity Pools <a href="#ddd7" id="ddd7"></a>
+## Understanding the origination of Automated Market Makers (AMMs) and Liquidity Pools
 
 Here we’ll explain what a liquidity pool is and why they are needed in decentralised finance (DeFi) but first, like many things in the Web 3.0 and DeFi space, it’s important to understand the existing world of trade finance.
 
@@ -30,7 +30,7 @@ Market makers in return earn a profit through the spread between the bid and off
 
 That said, although it is valuable to buyers and sellers alike, as market makers perform this delicate balancing act, they command a disproportionate amount of power over the market and ultimately act as an intermediary… a big no in the decentralised vision.
 
-## Enter AMMs and liquidity pools <a href="#71f1" id="71f1"></a>
+## Enter AMMs and liquidity pools
 
 Where traditional finance requires expensive and centralised intermediaries which have a level of power to manipulate prices, AMMs allow digital assets to be traded in a permissionless and automatic way.
 

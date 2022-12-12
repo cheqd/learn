@@ -23,4 +23,3 @@ Press the button **"Delegate"** on your desired Validating Node Operator.&#x20;
 Enter the amount of tokens you want to delegate.
 
 And voila! You have now delegated to a Node Operator and staked your tokens.&#x20;
-

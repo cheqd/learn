@@ -8,13 +8,13 @@ _To use an example, we see it as_ [_unlikely that the National Health Service in
 
 _We believe both models should be possible and will be providing the tooling on that basis._
 
-## What are we solving for? <a href="#e704" id="e704"></a>
+## What are we solving for?
 
-### Example <a href="#8573" id="8573"></a>
+### Example
 
 The requirements explained below are best understood following an SSI example. We’ll briefly consider peer-to-peer verification before payments or transfers of digital assets, inc. NFTs.
 
-Either through self-attested data or third-party attested data one user can prove their identity to another, [avoiding the service support imposters which have plagued OpenSea recently](https://nftcadets.com/opensea-to-add-metalink-customer-service-channel/) or remove the need for test transfers, i.e. sending 1 token to confirm the recipient then sending the balance. This could be especially powerful in allowing DeFi protocols to meet the[ Travel Rule](https://www.fincen.gov/sites/default/files/advisory/advissu7.pdf) whilst maintaining individual’s privacy as far as possible.
+Either through self-attested data or third-party attested data one user can prove their identity to another, avoiding the service support imposters which have plagued OpenSea recently or remove the need for test transfers, i.e. sending 1 token to confirm the recipient then sending the balance. This could be especially powerful in allowing DeFi protocols to meet the[Travel Rule](https://www.fincen.gov/sites/default/files/advisory/advissu7.pdf) whilst maintaining individual’s privacy as far as possible.
 
 ![cheqd KYC and DeFi pool](<../../.gitbook/assets/Tokenomics - KYC and DeFi Pool.png>)
 
@@ -29,12 +29,12 @@ User journey steps:
 7. _Institution 2 does not provide appropriate KYC info_
 8. _Institution 2 attempts to supply / trade assets as desired but is blocked by pool_
 
-### Principles <a href="#45ea" id="45ea"></a>
+### Principles
 
 Before diving into the payment models, it is worth grounding on the principles which informed these. Whilst there are many detailed requirements they can be summarised into:
 
 1. **Privacy:** It should not be possible to follow payments to either identify an individual or track their interactions (even pseudonymously).
-2. **Privacy:** Resulting from 1, but also to ensure the network remains [General Data Protection Regulation (GDPR) ](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/634445/EPRS\_STU\(2019\)634445\_EN.pdf)and other privacy regulation compliant, no personal data (even encrypted) should be written to the ledger.&#x20;
+2. **Privacy:** Resulting from 1, but also to ensure the network remains [General Data Protection Regulation (GDPR)](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/634445/EPRS_STU(2019)634445_EN.pdf)and other privacy regulation compliant, no personal data (even encrypted) should be written to the ledger.
 3. **Stability:** Any price for a credential should be stable (against fiat) across time to avoid misaligned incentives, i.e. a verification is delayed hoping for a price increase or decrease.
 4. **Low-cost:** Transfers should not incur significant costs
 5. **Arbitrage resistant:** Recipients of data should not be able to avoid paying for that data if a tariff has been set
@@ -42,7 +42,7 @@ Before diving into the payment models, it is worth grounding on the principles w
 7. **Flexible:** Proprietary credential formats should not be required.\
    Commercial models should not be dictated by the network. They should be available for those who wish to use them but not dictated by the protocol.
 
-**Read vs write volumes**
+#### Read vs write volumes
 
 One model we have seen frequently is monetising any “identity” writes to the ledger, with some focusing on public DIDs and others allowing personally identifiable information onto the ledger to make charging easier, albeit by sacrificing privacy.
 
@@ -54,13 +54,15 @@ We see this as an unnecessary sacrifice. From our analysis, it is much better to
 | Issuing Verifiable Credential  | Off-ledger | Issuing Passport                       | \~1 per decade / 5 years | >5 million per year                                    |
 | Reading / Verifying Credential | Off-ledger | Reading / checking passport            | >30 checks per year\*    | >15 million per year (using figures above and to left) |
 
-_\*_ [_The average UK household takes \~3.9 holidays per year._ ](https://www.statista.com/statistics/480188/average-number-of-holidays-per-person-in-the-uk/)_Multiplying for both outbound and inbound flights (x2) and the touchpoints whilst travelling (x4: check-in, exit border, departures, entry border) equals 31.2 checks per year. This ignores non-travel uses of passports, i.e. opening bank, insurance or telecomms accounts._
+The average UK household takes [~3.9 holidays per year](https://www.statista.com/statistics/480188/average-number-of-holidays-per-person-in-the-uk/).
+
+Multiplying for both outbound and inbound flights (x2) and the touchpoints whilst travelling (x4: check-in, exit border, departures, entry border) equals 31.2 checks per year. This ignores non-travel uses of passports, i.e. opening bank, insurance or telecomms accounts._
 
 Since credentials should not be written to the ledger, using passports as an example there is approximately a 1.5m factor between the DIDs written and the number of the credentials read / received. Monetising these fits the needs of the market most but also works best with the volumes.
 
 Now to the payment model themselves.
 
-## Payment models <a href="#b38f" id="b38f"></a>
+## Payment models
 
 Whilst there are numerous commercial models to come, we will focus on the two payment models which will help form the building blocks of these. These are:
 
@@ -75,10 +77,10 @@ As can be seen from the table below, each of these models has its place facilita
 
 | Model                                    | Example                                                                                                                                                                                                                                                           |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Holder pays issuer; Receiver pays holder | <p>Buy your passport from the government (holder pays issuer).<br><br>E.g. UK passport has a £75.50 charge</p>                                                                                                                                                    |
-| Receiver pays issuer                     | <p>Background checking company paying university for confirmation of applicant's degree.<br><br>E.g. <a href="https://www.imperial.ac.uk/student-records-and-data/verify-student-qualifications/">Imperial College Verification Service</a> has a £12 charge </p> |
+| Holder pays issuer; Receiver pays holder | Buy your passport from the government (holder pays issuer). E.g. UK passport has a £75.50 charge</p>                                                                                                                                                    |
+| Receiver pays issuer                     | Background checking company paying university for confirmation of applicant's degree. E.g. [Imperial College Verification](https://www.imperial.ac.uk/student-records-and-data/verify-student-qualifications/) Service has a £12 charge </p> |
 
-### Receiver pays issuer <a href="#0278" id="0278"></a>
+### Receiver pays issuer
 
 Firstly, we will tackle “receiver pays issuer” since it is both the model which is requested most by our partners and the model which will have the greatest impact on cheqd tokenomics.
 
@@ -181,9 +183,9 @@ To achieve these, the escrow moves from facilitating payments between two organi
 
 We see this as one of the major benefits to using escrows for this purpose.
 
-## Receiver pays holder; holder pays issuer <a href="#a3f8" id="a3f8"></a>
+## Receiver pays holder; holder pays issuer
 
-### Receiver pays holder <a href="#e6e1" id="e6e1"></a>
+### Receiver pays holder
 
 One of the greatest opportunities with these payment rails is rewarding the individual (holder) for the data they share, whether that data has come from an issuing organisation or is direct from themselves. Specifically flipping around the following quote:
 
@@ -195,7 +197,7 @@ That being said, the individual or organisation may wish to pay or be paid in ei
 
 ![Receiver pays holder: credential exchange flow](<../../.gitbook/assets/tokenomics - receiver pays holder.png>)
 
-## Holder pays issuer <a href="#fde6" id="fde6"></a>
+## Holder pays issuer
 
 As per Table 2, there are frequent interactions where an individual will purchase a credential from an organisation and then be able to share it elsewhere without restriction, potentially being paid / rewarded in the previous section. Passports are an easy example, but so is [classpass](https://classpass.com/) (subscription / voucher which allows access to multiple gyms / salons), showing the range of value these credentials can represent.
 
@@ -203,11 +205,11 @@ The pervasiveness of this model already will guarantee this model will see frequ
 
 ![Holder pays issuer: credential exchange flow](<../../.gitbook/assets/Tokenomics - holder pays issuer.png>)
 
-## CHEQ supply & demand <a href="#5ffb" id="5ffb"></a>
+## CHEQ supply & demand
 
 As CHEQ will be used as collateral for the lines of credit mentioned above, we expect this will have a significant impact across supply & demand.
 
-### Supply <a href="#cc8a" id="cc8a"></a>
+### Supply
 
 The tokenomics at distribution / genesis were covered in our [Tokenomics Part 2](tokenomics-part-2.md). At the time of writing this blog (28th February 2022), the total supply of CHEQs in the market is \~1.008B with an inflation rate of \~2%, with a maximum of 4% currently set.
 

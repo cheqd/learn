@@ -9,7 +9,7 @@ description: >-
 
 ## Primary explorer
 
-This is our main explorer, managed by the cheqd team.&#x20;
+This is our main explorer, managed by the cheqd team.
 
 {% embed url="https://explorer.cheqd.io" %}
 

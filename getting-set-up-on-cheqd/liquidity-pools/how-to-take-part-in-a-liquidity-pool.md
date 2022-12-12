@@ -6,11 +6,11 @@ At the time of writing **CHEQ** is currently only available for liquidity provid
 
 The CHEQ token is available in two pools:&#x20;
 
-#### **Pool #602 : CHEQ / OSMO**
+### Pool #602: CHEQ / OSMO
 
 {% embed url="https://app.osmosis.zone/pool/602" %}
 
-**Pool #617 : ATOM / CHEQ**
+### Pool #617 : ATOM / CHEQ
 
 {% embed url="https://app.osmosis.zone/pool/617" %}
 
