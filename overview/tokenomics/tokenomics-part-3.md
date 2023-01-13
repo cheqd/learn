@@ -215,7 +215,7 @@ The tokenomics at distribution / genesis were covered in our [Tokenomics Part 2]
 
 We are currently working on APIs to feed Total Current Supply and Current Circulating Supply directly into CoinMarketCap and CoinGecko since these are not readily available in Cosmos SDK.
 
-### Demand <a href="#54d6" id="54d6"></a>
+### Demand
 
 Since CHEQs will be used as collateral for lines of credit, across the entire network CHEQs will be locked up in proportion to the number of organisations maintaining these lines of credit and the size of the line of credit they wish to maintain.
 
@@ -227,9 +227,9 @@ Related to this, it is worth us re-sharing how many of these ecosystems /use-cas
 
 ![cheqd’s expectation of SSI ecosystem formation](<../../.gitbook/assets/Tokenomics - Ecosystem foundation.png>)
 
-## Building <a href="#b91f" id="b91f"></a>
+## Building
 
-### Still to come <a href="#6ad0" id="6ad0"></a>
+### Still to come
 
 Throughout this blog we have talked about the payment models being building blocks for the commercial models. Whilst the payment rails will keep the cheqd team busy enough for a while, we will then build out those customisable commercial models for DAOs, consortia and individual organisations.
 
@@ -237,9 +237,8 @@ Beyond this, we have ideas on how to solve reputation in a public-permissionless
 
 Expect more blogs as we flesh out our ideas for tackling these.
 
-### Next steps <a href="#f9c6" id="f9c6"></a>
+### Next steps
 
 This approach and architecture has been gestating since we founded cheqd with the last 6 months dedicated to establishing a standards-based viable network for anyone who wants to use the network regardless of payments.
 
 We have now turned our focus to building the payment and commercial models for SSI as we originally set out to do. There is much more work to be done but we wanted to share our approach so that anyone who is interested in our mission and interested in collaborating can begin doing so.
-

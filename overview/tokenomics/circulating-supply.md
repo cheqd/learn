@@ -9,8 +9,6 @@ There are plenty of terms and metrics used to measure a project’s tokenomics, 
 
 ![cheqd-tokenomics](<../../.gitbook/assets/circ-supply-definition.png>)
 
-![Circulating supply]()
-
 Below we have outlined a few different potential interpretations of Circulating Supply using different calculation methodologies:
 
 <table>
