@@ -13,3 +13,11 @@ Tokenomics are typically documented and distributed via a dedicated whitepaper. 
 {% content-ref url="tokenomics-part-3.md" %}
 [tokenomics-part-3.md](tokenomics-part-3.md)
 {% endcontent-ref %}
+
+{% content-ref url="tokenomics-part-4.md" %}
+[tokenomics-part-4.md](tokenomics-part-4.md)
+{% endcontent-ref %}
+
+{% content-ref url="circulating-supply.md" %}
+[circulating-supply.md](circulating-supply.md)
+{% endcontent-ref %}
