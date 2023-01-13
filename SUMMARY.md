@@ -33,9 +33,11 @@
   * [How do I choose which Node Operator to delegate to?](overview/intro-to-defi-aspects-of-cheqd/how-do-i-choose-which-node-operator-to-delegate-to.md)
 * [🤔 Why does DeFi need Decentralised Identity?](overview/why-does-defi-need-decentralised-identity.md)
 * [📈 Tokenomics](overview/tokenomics/README.md)
-  * [1⃣ 1⃣ Tokenomics: Part 1](overview/tokenomics/tokenomics-part-1.md)
-  * [2⃣ 2⃣ Tokenomics: Part 2](overview/tokenomics/tokenomics-part-2.md)
-  * [3⃣ 3⃣ Tokenomics: Part 3](overview/tokenomics/tokenomics-part-3.md)
+  * [1 Tokenomics: Part 1](overview/tokenomics/tokenomics-part-1.md)
+  * [2 Tokenomics: Part 2](overview/tokenomics/tokenomics-part-2.md)
+  * [3 Tokenomics: Part 3](overview/tokenomics/tokenomics-part-3.md)
+  * [3 Tokenomics: Part 4](overview/tokenomics/tokenomics-part-4.md)
+  * [Circulating Supply Explained](overview/tokenomics/circulating-supply.md)
 
 ## Getting set up on cheqd
 
