@@ -5,12 +5,11 @@ There are plenty of terms and metrics used to measure a project’s tokenomics, 
 
 “Circulating Supply” is a great example of this.
 
-**Circulating Supply (CS) is defined by CoinGecko as: “_The amount of coins that are circulating in the market and are tradeable by the public._”**
+> **Circulating Supply (CS) is defined by CoinGecko as: “_The amount of coins that are circulating in the market and are tradeable by the public._”**
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![cheqd-tokenomics](<../../.gitbook/assets/circ-supply-definition.png>)
 
-![alt_text](images/image1.png "image_tooltip")
-
+![Circulating supply]()
 
 Below we have outlined a few different potential interpretations of Circulating Supply using different calculation methodologies:
 
@@ -158,10 +157,7 @@ For $CHEQ, this calculation works from the vesting schedules published in <a hre
   </tr>
 </table>
 
-
-
 # Simplified view
-
 
 <table>
   <tr>
@@ -236,33 +232,21 @@ For $CHEQ, this calculation works from the vesting schedules published in <a hre
   </tr>
 </table>
 
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
+![cheqd-tokenomics](<../../.gitbook/assets/tokenomics-circ-supply.png>)
 
 # Cosmos Auth Module
 
 Token distribution is done programmatically based on [Cosmos' Vesting Accounts](https://docs.cosmos.network/v0.45/modules/auth/05_vesting.html#vesting). Every vesting wallet receives their tokens at the outset but they are locked natively and automatically vest and unlock.
 
-This explains why vested tokens are not automatically shown as Circulating Supply, since tokens are distributed in advance, they are automatically vested and unlocked, and are not moved between accounts.
+This explains why vested tokens are not automatically shown as Circulating Supply, since tokens are distributed in advance, they are automatically vested and unlocked, and are not moved between accounts. Here's an example to illustrate how it works.
 
- \
-Here's an example to illustrate how it works. Token holder:
-
-
+Token holder
 
 1. Receives 1 million tokens with a vesting period of 2 years into a Cosmos SDK genesis account
 2. Can see their wallet with 1 million tokens but can't move tokens (no transfer/sell)
 3. Tokens start vesting on a block-by-block basis (in the case of continuous vesting accounts)
 4. Can stake or vote with their entire balance
 5. Can only transact tokens once they are vested
-
 
 # The reason we opted for this approach
 
