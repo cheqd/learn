@@ -1,10 +1,7 @@
 # 🔍 Where to find $CHEQ
 
-
-
 {% tabs %}
 {% tab title="Gate.io" %}
-
 
 {% embed url="https://www.gate.io/trade/CHEQ_USDT" %}
 {% endtab %}
@@ -32,9 +29,6 @@
 Open the PDF to use an interactive version of this slide to navigate to each page
 {% endhint %}
 
-![Image outlining where and how to engage with cheqd](<../.gitbook/assets/How to engage with cheqd.png>)
+![Image outlining where and how to engage with cheqd]()
 
 {% file src="../.gitbook/assets/Where can I use CHEQ tokens.pdf" %}
-
-
-

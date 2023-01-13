@@ -1,6 +1,6 @@
 # 🤔 Why does DeFi need Decentralised Identity?
 
-## SSI in Decentralised Finance and Crypto <a href="#fe5a" id="fe5a"></a>
+## SSI in Decentralised Finance and Crypto
 
 The [Centralised Decentralised Finance (CeDeFi)](https://blog.cheqd.io/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-7e49d0e0993a) ecosystem sees a robust application for SSI. Since identity verification is equally required in both centralised and decentralised finance, with neither satisfied with the existing KYC and identity approaches, SSI can provide that identity layer that meets both worlds. It creates a bridge between traditional data-heavy interactions and an anonymous DeFi approach, while CeDeFI will provide the financial infrastructure for SSI adoption in a key market.
 
@@ -52,7 +52,7 @@ For Exchanges, as an example, the following information is required:
 
 Owing to this requirement, the identity continuum has been viewed as a trade-off between privacy and regulatory compliance, e.g. full anonymity or pseudonymity would not meet the Travel Rule requirements. Yet, while this may seem binary at first thought, i.e. data is either provided or not, we are starting to see innovations creating different ways of achieving this data sharing without directly compromising user privacy.
 
-While the likes of[ Aave ARC](https://cointelegraph.com/news/aave-launches-its-permissioned-pool-aave-arc-with-30-institutions-set-to-join) have used centralised solutions to achieve this, there is a movement towards decentralised or SSI solutions across both individual and corporate identity. The likes of [Notabene](https://notabene.id/), [Centre](https://www.centre.io/), [Bloom](https://bloom.co/) and [Shyft](https://www.shyft.network/) are already looking into how to reuse KYC’d data, through Self-Sovereign Identity and the interplay between Verifiable Credentials (VCs) and Decentralised Identifiers (DIDs) to enable access to VASPs without compromising user privacy. Similarly, Coinbase, Circle, Anchorage and Robinhood have formed the [TRUST](https://decrypt.co/93027/major-crypto-companies-announce-plan-money-laundering-privacy) consortium to tackle the same issue in a privacy preserving way.
+While the likes of[Aave ARC](https://cointelegraph.com/news/aave-launches-its-permissioned-pool-aave-arc-with-30-institutions-set-to-join) have used centralised solutions to achieve this, there is a movement towards decentralised or SSI solutions across both individual and corporate identity. The likes of [Notabene](https://notabene.id/), [Centre](https://www.centre.io/), [Bloom](https://bloom.co/) and [Shyft](https://www.shyft.network/) are already looking into how to reuse KYC’d data, through Self-Sovereign Identity and the interplay between Verifiable Credentials (VCs) and Decentralised Identifiers (DIDs) to enable access to VASPs without compromising user privacy. Similarly, Coinbase, Circle, Anchorage and Robinhood have formed the [TRUST](https://decrypt.co/93027/major-crypto-companies-announce-plan-money-laundering-privacy) consortium to tackle the same issue in a privacy preserving way.
 
 ***
 
@@ -121,14 +121,3 @@ The key is that as regulation is applied or regulatory compliant DeFi becomes a 
 ### Coalescing
 
 As we have caveated above, this model should not be imposed upon protocols. However, it does provide a route towards regulatory compliance for those who wish for one with the potential upshot of drastically widening access to DeFi whilst protecting individuals.
-
-\
-
-
-\
-
-
-\
-
-
-\
