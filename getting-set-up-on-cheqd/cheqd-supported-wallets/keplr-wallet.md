@@ -1,8 +1,3 @@
----
-cover: ../../.gitbook/assets/Keplr wallet and cheqd header.png
-coverY: 120.46983758700696
----
-
 # 💳 Keplr Wallet
 
 _Disclaimer: All information provided is intended to help users get set up on cheqd. However, we do not expressly recommend or mandate a certain approach. All actions taken are your personal responsibility. Much of the content of this article was created using the_ [_Keplr FAQ_](https://faq.keplr.app/), [_Keplrs account creation blog_](https://keplr.crunch.help/getting-started/creating-a-new-keplr-account) _and_ [_wallet setup guide_](https://medium.com/chainapsis/how-to-use-keplr-wallet-40afc80907f6)_, which you should cross-check for further information._

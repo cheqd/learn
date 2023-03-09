@@ -18,7 +18,7 @@ Through this data model, it is possible to:
 
 Any distinct model of decentralised identity revolves around three specific actors: the [issuer](./#bccf), the [holder](./#1776) and the [verifier](./#d449). Together, these three actors constitute what is known as the **Trust Triangle**.
 
-![Self-Sovereign Identity Trust Triangle: Basic](<../../.gitbook/assets/cheqd trust triangle no explanations.jpg>)
+![Self-Sovereign Identity Trust Triangle: Basic](<../../.gitbook/assets/cheqd trust triangle no explanations (1).jpg>)
 
 Let’s discuss these three in turn:
 
