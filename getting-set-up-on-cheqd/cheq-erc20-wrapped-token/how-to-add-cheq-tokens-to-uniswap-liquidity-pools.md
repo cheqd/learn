@@ -14,7 +14,7 @@ As a pool has been created on UniSwap these instructions offer insight into how 
 
 Head to the [CHEQ:USDT](https://info.uniswap.org/#/pools/0xa305f3aad48e285c002a2dbadbbba58fea10ad45) pool.
 
-![CHEQ:USDT UniSwap Pool](<../../.gitbook/assets/Screenshot 2022-04-05 at 16.58.30.png>)
+![CHEQ:USDT UniSwap Pool](../../.gitbook/assets/Uniswap%20-%20CHEQ-USDT%20Pool.png)
 
 ### Step 2: Add liquidity  and initiate transaction
 
@@ -30,20 +30,14 @@ Select ‘**Add**’ which will initiate the transaction.
 
 ### Step 3: Confirm transaction
 
-Check the GAS fees and confirm the transaction. I
+Check the gas fees and confirm the transaction. I
 
-![](https://lh5.googleusercontent.com/2gh48kD\_\_0hz-MvVDNQdcpdfc\_p\_zVfRHM1O-Ta5qgUXR7o\_UgfnEnBM8foUhKRUZ36eN5mrSDtEPwUAl9lC9N-8JSfCD7cR\_PcF-FoIrfYf8FRu79OJ9xUwlN52CbxwBBaAOuF0)
-
-
+![MetaMask gas fee transaction screen](../../.gitbook/assets/Metamask%20-%20Gas%20fee%20selection.png)
 
 If you'd like to reduce the transaction fee you can select a lower one using the updated MetaMask. To turn this on, go to your settings in MetaMask and select '**Experimental**' and toggle the '**Enable Enhance Gas Fee UI**' to **ON**
 
-![](<../../.gitbook/assets/Screenshot 2022-04-05 at 17.07.33.png>)
+![Metamask - Experimental support screen](../../.gitbook/assets/MetaMask%20-%20Experimental%20support.png)
 
 Once the transaction has completed you'll see your positions appear on your UniSwap account.
 
-![](https://lh3.googleusercontent.com/lS0HkbzsRzzYPfeeYe2EVLmWh1Ej3Xyg7S2cs5ZV2dRqEuj0eE6hv2FGYKgvytFABK03N8ObAg4Yos7DCFQRL-UE9RanfNJQtQNUqSrL04FtHAvEexLcf1gKccSmRxTLt705MwrA)
-
-****
-
-****
+![Uniswap - CHEQ:USDT Pool position](../../.gitbook/assets/Uniswap%20-%20CHEQ-USDT%20Position.png)
