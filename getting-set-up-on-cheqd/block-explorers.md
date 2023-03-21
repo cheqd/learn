@@ -15,6 +15,4 @@ This is our main explorer, managed by the cheqd team.
 
 ## Third party explorers
 
-{% embed url="https://cheqd.aneka.io" %}
-
-{% embed url="https://look.chillvalidation.com/cheqd" %}
+{% embed url="https://ping.pub/cheqd" %}

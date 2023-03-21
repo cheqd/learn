@@ -8,7 +8,7 @@ This definition is a bit complex and technical, so let's try and simplify it dow
 
 ## What is a DID?
 
-It is easy to think of DIDs as identifying something in the same way as how a registration plate identifies a car, and a car's owner.&#x20;
+It is easy to think of DIDs as identifying something **in the same way as how a registration plate identifies a car**, and a car's owner.&#x20;
 
 To take an example, this is **James Bond's Aston Martin DB5**.
 
@@ -40,7 +40,7 @@ To understand what we mean here, let's look at the following scenario:
 
 Well, James Bond can likely prove control and ownership of that car in **3 main ways**:
 
-1. The license plate is on James Bond's car. And the unique registration plate `BMT 216A` will be linked to Mr Bond's identity through a central registry, such as the DVLA. Anyone is able to check that the registration details of the car match it's visual features, and authorised persons are able to check whether James Bond's identity matches the license plate.
+1. The license plate is on James Bond's car. And the unique registration plate `BMT 216A` will be linked to Mr Bond's identity through a registry, such as the DVLA. Anyone is able to check that the registration details of the car match it's visual features, and authorised persons are able to check whether James Bond's identity matches the license plate.
 2. James Bond holds the physical keys to unlock and use the car.
 3. James Bond holds a physical document called a VC5 Logbook, which is a required document, alongside other identity documents, to update any of the information in the DVLA database.
 
@@ -54,11 +54,10 @@ However, doing any of the above would not result in an ownership change on the D
 
 Trust in Self-Sovereign Identity models works in a very similar way, where:
 
-* A Verifiable Credential is like the physical car
-* Authenticating with an identity wallet is like having the keys to the car
 * A Decentralised Identifier (DID) is like the license plate
 * A DID Document on a blockchain is like the DVLA registry
 * A private cryptographic key is like the VC5 Logbook
+* Authenticating using the keys in the DID Document is like proving that you can open the car with your set of keys
 
 Of course, there is a lot of complexity here, so we will walk through each part in this learning documentation in simple terms.
 
@@ -92,7 +91,7 @@ For further reading on DIDs, you can read:
 [what-is-a-did-method.md](what-is-a-did-method.md)
 {% endcontent-ref %}
 
-{% content-ref url="what-is-did-url-dereferencing.md" %}
-[what-is-did-url-dereferencing.md](what-is-did-url-dereferencing.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 

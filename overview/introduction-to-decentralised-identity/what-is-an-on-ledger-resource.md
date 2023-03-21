@@ -1,8 +1,8 @@
-# What is an on-ledger Resource?
+# What is a DID-Linked Resource
 
-cheqd has built an **On-Ledger Resources Module** to extend the functionality of our decentralised identity network, providing capabilities not found on other self-sovereign identity networks.
+cheqd has built a **Resources Module** to extend the functionality of our decentralised identity network, providing capabilities not found on other self-sovereign identity networks.
 
-A **Resource** is a blob of information stored on-ledger, discoverable through the same [Decentralized Identifier (DIDs) syntax](broken-reference) that is widely used within the SSI industry.
+A **DID-Linked** **Resource** is a blob of information stored on-ledger, discoverable through the same [Decentralized Identifier (DIDs) syntax](broken-reference) that is widely used within the SSI industry.
 
 ## What issues do on-ledger Resources solve?
 
@@ -39,7 +39,7 @@ The use of Resources is potentially very broad; they can provide many different 
 
 Through extending the use of DIDs to identify other on-ledger resources, trust can begin to be chained.
 
-### New use cases enabled by Resources on-ledger
+### New use cases enabled by DID-linked Resources
 
 | Audience              | Quick wins                                                                                                                                                                                                                                               | Longer term strategic objectives                                                                                                                                                                                                                                   |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -48,13 +48,7 @@ Through extending the use of DIDs to identify other on-ledger resources, trust c
 
 > You can think of it as a hyperlink for #Web3. But unlike a hyperlink, it is possible to specify the type of resource to be retrieved, and reject anything unexpected.
 
-## Schemas using on-ledger Resources
-
-JSON/JSON-LD Credential schemas are often referenced using [Schema.org](https://schema.org). This enables different types of Credential schemas to be specifically defined, whilst often slotting into pre-defined contexts.
-
-This allows for healthy interoperability since it pushes issuers of Credentials towards the use of commonly understood and publicly searchable schemas.
-
 {% hint style="info" %}
-[Read more about on-ledger resources in our identity documentation](https://docs.cheqd.io/identity/ledger-resources/resources)
+[Read more about on-ledger resources in our identity documentation](https://docs.cheqd.io/identity/guides/did-linked-resources)
 {% endhint %}
 

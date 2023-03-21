@@ -38,7 +38,7 @@ An example of a **DID Document** is below, which explains various information ab
 
 #### `id`
 
-The `id` field at the top, and outermost layer of the code map, identifies the **DID subject**. Using the above analogy, the **DID subject** would be James Bond's Aston Martin DB5, because it is the entity that is identified by the identifier. In more general identity use cases, the **DID subject** _could_ be an entity such as a car, but is usually a company or organisation.
+The `id` field at the top identifies the **DID subject**. Using the above analogy, the **DID subject** would be James Bond's Aston Martin DB5, because it is the entity that is identified by the identifier. In more general identity use cases, the **DID subject** _could_ be an entity such as a car, but is usually a company or organisation.
 
 {% hint style="info" %}
 Note: This is the same identifier as what is inputted into the **resolver** to return this **DID Document**.&#x20;
@@ -51,8 +51,11 @@ The `verificationMethod`, in this example, describes a cryptographic key or list
 * an `ID` for the specific key;
 * the `controller`, i.e., the identifier of the person or company with control over that key; and,&#x20;
 * the `type` of cryptographic key.&#x20;
+* the verification key material such as `publicKeyMultibase`
 
-Going back to the above analogy, holding a private key for a certain cryptographic key pair is like holding the **V5C logbook**, as it enables **DID Controllers** to update/change/amend information about the ownership of the DID. Without access to the verification keys, the ownership or control of the DID would not be able to change.&#x20;
+Going back to the above analogy, holding a private key for a certain cryptographic key pair is like holding the **V5C logbook**, as it enables **DID Controllers** to update/change/amend information about the ownership of the DID.&#x20;
+
+Without access to the verification keys, the ownership or control of the DID would not be able to change.&#x20;
 
 In reality, James Bond himself could have a specific verification key, his colleague "Q" could have a second specific key and the Secret Intelligence Service MI6, could have a third specific key. Each party would be known as a DID Controller, and would be able to update/change/amend the DID Document accordingly.&#x20;
 

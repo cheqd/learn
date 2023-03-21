@@ -28,11 +28,11 @@ I am sure everyone reading this has had to attach a photocopy of their passport 
 
 The problem with this system, is that it is not currently possible to check the validity of an attachment sent via email. Word Documents, PDFs, JPEGs etc have no security features that allows a third party to check if they were legitimate or not.&#x20;
 
-Let's take the example of the CV. You receive it as an attachment, you read it, and to check the validity, you need to contact the references which are generally at the bottom of the CV to check whether this person really did all the things they claim to have done.&#x20;
+Let's take the example of the CV. You receive it as an attachment, you read it, and to check the validity you need to contact the references which are generally at the bottom of the CV to check whether this person really did all the things they claim to have done.&#x20;
 
-This is time consuming, and frequently, owing to the lack of trust in these data formats.
+This is time consuming, and frequently, owing to the lack of trust in these data formats, can be susceptible to fraud.
 
-#### How does Verifiable Credentials change this?
+#### How do Verifiable Credentials change this?
 
 A Verifiable Credential is a digital file that stores data. However, importantly it is designed to hold two core types of data:
 
@@ -42,11 +42,16 @@ A claim is an attestation about something. It could say that "I went to Oxford U
 
 * **Proofs**
 
-A proof is cryptographic evidence to support that claim. In decentralised identity, this evidence is generally attested to by an [issuer](../). This proof is often represented by both the [Decentralised Identifier ("DID")](../what-is-a-decentralised-identifier-did/) of the issuer, as well as a piece of cryptographic material, that relates to a specific public key of the issuer, for a specific purpose such as an assertionMethod.
+A proof is cryptographic evidence to support that claim. In decentralised identity, this evidence is generally attested to by an [issuer](../). This proof is often represented by both the [Decentralised Identifier ("DID")](../what-is-a-decentralised-identifier-did/) of the issuer, as well as a piece of cryptographic material, that relates to a specific public key of the issuer, for a specific purpose, such as an assertionMethod.
+
+The verification key material and the [Decentralised Identifier ("DID")](../what-is-a-decentralised-identifier-did/) enable the issuer to essentially **sign** the claims in the credential, to vouch for their autheneticity.
 
 ### Why is this useful and important?
 
-Verifiable Credentials change the way that data can be trusted when presented. This is because when you receive a Verifiable Credential, you are able to check, without contacting another party, whether that data was issued by a specific issuer.&#x20;
+Verifiable Credentials change the way that data can be trusted when presented. This is because when you receive a Verifiable Credential, you are able to check, without contacting another party:
+
+1. Whether that data was issued by a specific issuer;
+2. That the data hasn't been tampered.
 
 Unlike attachments in an email, which are data files that need to be independently verified, to trust their contents; Verifiable Credentials enable that verification innately, through the use of [Decentralised Identifiers](../what-is-a-decentralised-identifier-did/). This is a powerful component for building trust in a decentralised Web 3.0.
 

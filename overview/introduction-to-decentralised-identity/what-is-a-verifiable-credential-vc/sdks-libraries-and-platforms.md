@@ -1,5 +1,7 @@
 # SDKs, Libraries and Platforms
 
+In SSI ecosystems, the actual functionality to create DIDs or issue credentials tends to be wrapped up in some sort of Software Development Kit, library or platform.&#x20;
+
 ### What is a Library?
 
 A library is a packaged, reusable chunk of code that performs a certain function or set of closely related functions. You can insert a library into your application and call it when you need to implement that function without having to write the code from scratch. Suppose that instead of an application, you are building a house. One of the things you will need for that house is a stove, but it will not be very practical for you to build it from scratch when you could just buy one off the shelf. A library is to an application what the stove is to that house.(ref: [https://shashvatshukla.medium.com/framework-vs-library-vs-platform-vs-api-vs-sdk-vs-toolkits-vs-ide-50a9473999db](https://shashvatshukla.medium.com/framework-vs-library-vs-platform-vs-api-vs-sdk-vs-toolkits-vs-ide-50a9473999db))
