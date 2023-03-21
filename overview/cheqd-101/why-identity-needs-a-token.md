@@ -1,7 +1,5 @@
 # Why identity needs a token
 
-## Why identity needs a token
-
 Every so often, we are asked why Self-Sovereign Identity (SSI) needs a token.
 
 Briefly, [SSI](https://www.youtube.com/watch?v=z9f36Sh4CFM) is a new paradigm for exchanging authentic and trusted data related to people, companies, and things in a much more secure and privacy-preserving way. It gives the subject a verified master-copy of their own data, affording control over what information they share and removing the need to store personal data solely in central databases.
