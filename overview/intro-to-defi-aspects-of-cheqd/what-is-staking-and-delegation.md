@@ -15,7 +15,3 @@ Users can delegate to multiple Node Operators at the same time to essentially di
 Bonded tokens are those present in the active pool.
 
 **Bonded** tokens = **staked** tokens by Node Operator + **delegated** tokens by a user.
-
-\
- <a href="#43e7" id="43e7"></a>
--------------------------------

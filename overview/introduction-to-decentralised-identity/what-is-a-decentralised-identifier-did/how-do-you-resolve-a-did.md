@@ -1,8 +1,6 @@
 # How do you resolve a DID?
 
-## How do you resolve a DID?
-
-### Resolving a License plate number
+## Analogy: Resolving a License plate number
 
 The equivalent to **searching a registration plate number** on a DVLA indexing site, is **resolving** a DID through a **DID resolution method**.
 
@@ -18,7 +16,7 @@ For example, with James Bond's license plate, the following information is fetch
 
 This creates a level of confidence in the fact that the registration plate belongs to the specific car, as a person could cross reference the listed features against the visual features of the car. Further, any competent authority would have the power to go one level deeper and tie the legal owner of the car to the license plate.
 
-### Resolving a DID
+## Resolving a DID
 
 As previously mentioned a DID is a unique identifier that can be anchored to a [Verifiable Data Registry](what-is-a-verifiable-data-registry.md), in order to store information in a highly available way.
 
@@ -37,5 +35,3 @@ Below, you can see the method for resolving a registration plate number, as well
 When inputted here, relevant information will be shown about the DID, in the form of a [DID Document](what-is-a-did-document.md). This is possible because the DID and it's adjacent DID Document are both stored on a [Verifiable Data Registry](what-is-a-verifiable-data-registry.md), such as a blockchain or trustworthy database.
 
 Learn how to understand the outcome of a DID resolution, a DID Document, in the next section.
-
-

@@ -30,7 +30,7 @@ And each of these different accounts holds personal data about you, such as your
 
 #### **What is the problem with this?**
 
-These digital profiles are generally secured behind a password, meaning that <mark style="color:orange;">**you**</mark> **feel a level of confidence** that <mark style="color:orange;">**you**</mark>** have control over them**.
+These digital profiles are generally secured behind a password, meaning that <mark style="color:orange;">**you**</mark> **feel a level of confidence** that <mark style="color:orange;">**you**</mark> **have control over them**.
 
 **However, in reality this is not the case.**
 
