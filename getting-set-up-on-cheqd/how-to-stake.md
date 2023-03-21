@@ -16,8 +16,6 @@ You will be able to see a list of all the Validators, their voting power and the
 
 Press the button **"Delegate"** on your desired Validating Node Operator.
 
-
-
 ![cheqd delegation screen](<../.gitbook/assets/cheqd delegation image.png>)
 
 Enter the amount of tokens you want to delegate.
