@@ -59,3 +59,15 @@
   * [How to send tokens to Ethereum with Gravity Bridge](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/how-to-send-tokens-to-ethereum-with-gravity-bridge.md)
   * [How to add CHEQ tokens to UniSwap Liquidity Pools](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/how-to-add-cheq-tokens-to-uniswap-liquidity-pools.md)
   * [How to send CHEQ tokens from Ethereum to cheqd](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/how-to-send-cheq-tokens-from-ethereum-to-cheqd.md)
+
+## ⚖️ Legal
+
+* [License](LICENSE.md)
+* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Security Policy](SECURITY.md)
+
+## 🆘 Support
+
+* [System Status](https://status.cheqd.net)
+* [Slack Channel](http://cheqd.link/join-cheqd-slack)
+* [Discord](http://cheqd.link/discord-github)
