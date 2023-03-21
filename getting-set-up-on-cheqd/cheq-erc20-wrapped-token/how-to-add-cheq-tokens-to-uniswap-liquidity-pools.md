@@ -22,11 +22,11 @@ Select ‘**Add liquidity**’ which will take you to the UniSwap app.
 
 On the app, enter the amount of tokens you’d like to deposit and hit ‘**Preview**’
 
-![](https://lh4.googleusercontent.com/9W0u7MTr96rZdK0LXd7zaKMLOUv90SADvuDwXfJPe7E4gt4p2lEIIWqbebpqSt\_1MLQR5avb7o1ah7aIG2J60TlBzHSLJF8IrAtlCIQQC4scgwZmyDMRTRrpSyu\_pjgja575gf8j)
+![UniSwap - Add to liquidity pool](../../.gitbook/assets/Uniswap%20-%20Add%20to%20liquidity%20pool.png)
 
 Select ‘**Add**’ which will initiate the transaction.
 
-![](https://lh4.googleusercontent.com/NujfrCgqPyfl--4PKkSTtSAV382aIaMvWxql8gOezaKJWF7N5h3cT6GyyqQsdCZjJZip0JbB6gWR1aKxghgmfoNcVZUiFHmNDZn4B-oPPQjh4rzCfe4ZJFRBmhHduTmLZjszjhJJ)
+![UniSwap - Add liquidity](../../.gitbook/assets/Uniswap%20-%20Add%20liquidity.png)
 
 ### Step 3: Confirm transaction
 
