@@ -1,7 +1,5 @@
 # AnonCreds
 
-
-
 {% hint style="info" %}
 _Much of the work in this page is influenced, iterated or directly replicated from_ [_Kaliya Young's_](https://identitywoman.net/about-kaliya/bio/) _excellent document on_ [_Verifiable Credential Flavors Explained_](https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf)_. We intend to give appropriate credit to this work, as expressed under a_ [_Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/)_._
 {% endhint %}
@@ -40,8 +38,6 @@ AnonCreds have been the subject of heavy debate within the decentralized identit
 
 Nonetheless, many proponents of SSI contend that AnonCreds are still the most production-ready Credential types at this present instance. Certainly, AnonCreds are the only off-the-shelf Credential type that can provide privacy-preserving functionality such as predicate proofs, which is why, for example, Governments such as [BC-Gov](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/credentials-for-people/) are large proponents of AnonCreds.
 
-
-
 | CL-Signatures                 | Supported | Supported            |                                                                                                     |
 | ----------------------------- | --------- | -------------------- | --------------------------------------------------------------------------------------------------- |
 | Link secrets                  | Supported | Indirectly supported | Supported via SDKs                                                                                  |
@@ -49,5 +45,3 @@ Nonetheless, many proponents of SSI contend that AnonCreds are still the most pr
 | Credential definition         | Supported | Supported            | CL-CredDef as resource on ledger linked to a DID Document                                           |
 | Predicate proofs              | Supported | Supported            | Supported via SDKs                                                                                  |
 | Privacy preserving revocation | Supported | Supported            | Revocation Registry Definitions, indexes and Entries as resources on ledger linked to DID Documents |
-
-****

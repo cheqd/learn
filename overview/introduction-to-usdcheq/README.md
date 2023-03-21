@@ -1,6 +1,6 @@
 # 🪙 Introduction to $CHEQ
 
-## Introduction to $CHEQ
+## Background
 
 Before reading this page, please familiarise yourself with the page:
 
@@ -15,6 +15,8 @@ We will give the example of three distinct payment models:
 * [Holder pays issuer](./#holder-pays-issuer)
 * [Verifier pays holder](./#verifier-pays-holder)
 * [Verifier pays issuer](./#verifier-pays-issuer)
+
+## Payment models explained
 
 ### Holder pays issuer
 
