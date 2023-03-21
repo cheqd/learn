@@ -26,7 +26,7 @@ A mnemonic (said with a silent m — “nuh-mon-ic” — if you really want to 
 
 We all have childhood memories of creating easy-to-remember phrases to recall things like the planets in our Solar System, before crypto was ever invented and when Pluto still had a seat at the Solar System table.
 
-![](<../../.gitbook/assets/pluto meme cheqd blog.png>)
+![Pluto meme](<../../.gitbook/assets/pluto meme cheqd blog.png>)
 
 The fancy word ‘mnemonic’ is exactly this. Literally, it refers to a memory aid like a rhyme, abbreviation or song that helps to remember something else. Ironically, the word itself is much less easy to remember.
 
@@ -38,14 +38,10 @@ In the context of digital assets, mnemonics are used to protect your wallet in t
 
 1. Go to the Keplr website [https://www.keplr.app/](https://www.keplr.app/) to find the relevant extension for your browser. If you’re using Chrome, which we’d recommend, click here → [browser extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
 2. Once you’ve installed Keplr wallet, you’ll see four options to set up an account:
-
-> 1\) Google Single Sign On (SSO) / One-Click Login,
->
-> 2\) Create a new account via setting up new seed/mnemonic phrase,
->
-> 3\) Import an existing account, or
->
-> 4\) Import your Ledger account
+   1. Google Single Sign On (SSO) / One-Click Login
+   2. Create a new account via setting up new seed/mnemonic phrase
+   3. Import an existing account
+   4. Import your Ledger account
 
 In this guide, we’ll assume you have not used Keplr before and therefore will take you through options 1 and 2
 
@@ -62,36 +58,34 @@ For the highest level of security when using Keplr we’d recommend this option.
 1. Select Sign In with Google
 2. Enter an account name (this can be changed later) and a password
 
-![](<../../.gitbook/assets/keplr wallet sign up with google cheqd blog.png>)
+![Keplr Wallet - Signup with Google](<../../.gitbook/assets/keplr wallet sign up with google cheqd blog.png>)
 
-1. Next, you’ll be prompted to sign in to your Google account with your email or phone (and later password). Click \[Next].
+1. Next, you’ll be prompted to sign in to your Google account with your email or phone (and later password). Click **Next**.
 2. And that’s it! You now have a Keplr wallet.
 
-![keplr wallet se up cheqd blog](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20se%20up%20cheqd%20blog.png?width=680\&name=keplr%20wallet%20se%20up%20cheqd%20blog.png) ![keplr wallet dashboard cheqd blog](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20dashboard%20cheqd%20blog.png?width=385\&name=keplr%20wallet%20dashboard%20cheqd%20blog.png)
+![Keplr Wallet - Setup successful](../../.gitbook/assets/Keplr%20Wallet%20-%20Setup%20success.jpeg) ![Keplr Wallet - User wallet screen](../../.gitbook/assets/Keplr%20Wallet%20-%20User%20Wallet%20screen.png)
 
 _**Note:** By using Google SSO you will not have to store your mnemonic as your access is managed by google. With the extension, you can access your private key at any time however you will not see a mnemonic. To do this click on your profile icon and select the account, and use the 3 dots to select the information you want to see (you’ll need your password to do this)._
 
 ### Option 2: Create an Account via Secret Seed/mnemonic Phrase <a href="#21a5" id="21a5"></a>
 
-1. By clicking on the Keplr browser icon for the first time will take you to the accounts setup page. Choose option \[Create new account].
+1. By clicking on the Keplr browser icon for the first time will take you to the accounts setup page. Choose option **Create new account**.
 
-![](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20create%20an%20account%20cheqd%20blog.png?width=439\&name=keplr%20wallet%20create%20an%20account%20cheqd%20blog.png)
+![Keplr Wallet - Signup screen](../../.gitbook/assets/Keplr%20Wallet%20-%20Create%20new%20account.png)
 
 2\. The next page shows you your secret seed/mnemonic phrase.\* You can select a 12 or 24-word phrase. **Save this phrase in a secure place but also do not lose it.** (You’ll need to input this phrase into the following page.)
 
-![](https://www.cheqd.io/hs-fs/hubfs/backup%20mnemonic%20keplr%20wallet%20cheqd%20blog.png?width=464\&name=backup%20mnemonic%20keplr%20wallet%20cheqd%20blog.png)
+![Keplr Wallet - Mnemonic backup](../../.gitbook/assets/Keplr%20Wallet%20-%20Mnemonic.png)
 
 3\. Next, enter a name for your account and password (you can change these later). Click on \[**Next**].
 
-![](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20save%20password%20cheqd%20blog.png?width=468\&name=keplr%20wallet%20save%20password%20cheqd%20blog.png)
+![Keplr Wallet - Save password](../../.gitbook/assets/Keplr%20Wallet%20-%20Save%20password.png)
 
 4\. To confirm the creation of this new account, you’ll need to click on the words in the right order in which they appear in your seed/mnemonic phrase and press \[**Register**].
 
-![](https://www.cheqd.io/hs-fs/hubfs/keplr%20wallet%20confirm%20registration%20cheqd%20blog.png?width=482\&name=keplr%20wallet%20confirm%20registration%20cheqd%20blog.png)
+![Keplr Wallet - Register button](../../.gitbook/assets/Keplr%20Wallet%20-%20Register.png)
 
 **5. Congratulations!** 🎉 You are now the owner of a Keplr wallet account and are ready to explore the interchain.
-
-
 
 ### Adding the cheqd network to your Keplr wallet <a href="#d2c0" id="d2c0"></a>
 
@@ -112,15 +106,15 @@ In order to receive tokens into your Cosmos _****_ or cheqd wallet, whether you 
 
 To do this, enter your Keplr app through the Browser extension by clicking on the **small ‘K’ icon.** If this does not come up **click the puzzle icon** and find the Keplr app here (you can pin this to your browser to access your wallet more easily in the future)
 
-![](https://www.cheqd.io/hs-fs/hubfs/puzzle%20icon%20keplr%20wallet%20cheqd%20blog.png?width=58\&name=puzzle%20icon%20keplr%20wallet%20cheqd%20blog.png)
+![Keplr Wallet - Chrome plugin icon](../../.gitbook/assets/Keplr%20Wallet%20-%20Chrome%20plugin%20icon.png)
 
 Once you’re in you’ll automatically see the Cosmos wallet which holds ATOM tokens.
 
-![cosmos wallet cheqd blog](https://www.cheqd.io/hs-fs/hubfs/cosmos%20wallet%20cheqd%20blog.png?width=223\&name=cosmos%20wallet%20cheqd%20blog.png)
+![Keplr Wallet - Chain selection](../../.gitbook/assets/Keplr%20Wallet%20-%20Chain%20selector.png)
 
 To provide a wallet address for Cosmos, ensure you are within this wallet. Below your name you will see an address, beginning with _‘**cosmos1**’_ followed by numbers and letters. To copy this, **CLICK** on the wallet address itself and you will see an alert pop up stating **‘**_**Address copied!’**_
 
-![cosmos wallet cheqd blog 2](https://www.cheqd.io/hs-fs/hubfs/cosmos%20wallet%20cheqd%20blog%202.png?width=361\&name=cosmos%20wallet%20cheqd%20blog%202.png)
+![Keplr Wallet - Cosmos address](../../.gitbook/assets/Keplr%20Wallet%20-%20Cosmos%20address.png)
 
 This will now be the most recent information you have copied. When you are ready to paste — either right click **your mouse and select paste** OR use ‘**ctr-v**’.
 
@@ -138,7 +132,7 @@ In some cases, you may be required to set up multiple accounts on Keplr. You can
 2. Select your profile icon on the top right of the pop-up
 3. Select ‘_Add account’._ This will take you to the start of the process above. Please follow the same instructions to set up your additional account
 
-![multiple accounts keplr wallet cheqd blog](https://www.cheqd.io/hs-fs/hubfs/multiple%20accounts%20keplr%20wallet%20cheqd%20blog.png?width=680\&name=multiple%20accounts%20keplr%20wallet%20cheqd%20blog.png)
+![Keplr Wallet - Select account](../../.gitbook/assets/Keplr%20Wallet%20-%20Select%20account.jpeg)
 
 ### Setting up a Keplr Wallet on your smartphone <a href="#ddba" id="ddba"></a>
 

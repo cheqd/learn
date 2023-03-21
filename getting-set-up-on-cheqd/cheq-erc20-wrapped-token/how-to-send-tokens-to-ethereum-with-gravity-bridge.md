@@ -56,7 +56,7 @@ Select the token you wish to transfer and enter the amount noting you'll need an
 
 A pop-up will appear which you'll need to approve for the transaction to go through.
 
-![Transfer popup one](../../.gitbook/assets/keplr-transfer-popup-1.png)
+![Spacestation IBC transfer modal](../../.gitbook/assets/keplr-transfer-popup-1.png)
 
 ### Part 2: Transfer CHEQ tokens from Gravity Bridge to Ethereum
 

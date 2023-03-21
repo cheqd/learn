@@ -8,9 +8,9 @@ The neutrality here implies that the entire focus of the Gravity community is on
 
 The Gravity Bridge has two defined components:
 
-1) A [Solidity contract on Ethereum](https://github.com/Gravity-Bridge/Gravity-Bridge/blob/main/solidity/contracts/contract-explanation.md)
+1. A [Solidity contract on Ethereum](https://github.com/Gravity-Bridge/Gravity-Bridge/blob/main/solidity/contracts/contract-explanation.md)
 
-2) A [Cosmos SDK module](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/module/x/gravity/spec) on the Gravity Bridge blockchain
+2. A [Cosmos SDK module](https://github.com/Gravity-Bridge/Gravity-Bridge/tree/main/module/x/gravity/spec) on the Gravity Bridge blockchain
 
 The way Gravity Bridge works is similar to how all cross-chain bridges work, i.e. locking up a native token on one side of the bridge and minting a representation of that token on the other. The user then uses this representation before it is returned to the bridge and redeemed for the native asset on the other chain.
 

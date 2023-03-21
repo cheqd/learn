@@ -71,8 +71,6 @@ Jane is required to pay this $10.00 in $CHEQ (or a stablecoin that she holds), b
 
 Jane receives the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to her digital identity wallet once the payment has been successfully completed. This entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.
 
-
-
 ![Jane Doe pays issuer for the Verifiable Credential using $CHEQ or a stablecoin](<../../.gitbook/assets/Jane Doe - Pays for Credential.png>)
 
 Jane now holds a Verifiable Credential of her University degree in her digital identity wallet and is able to use this to prove claims about herself.
