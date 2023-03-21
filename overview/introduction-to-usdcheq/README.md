@@ -8,7 +8,7 @@ Before reading this page, please familiarise yourself with the page:
 [introduction-to-decentralised-identity](../introduction-to-decentralised-identity/)
 {% endcontent-ref %}
 
-cheqd is unique in that it provides a way for [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to be monetised using its native token, $CHEQ. **** There are various commercial models that may be created by using the cheqd network.&#x20;
+cheqd is unique in that it provides a way for [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to be monetised using its native token, $CHEQ. **** There are various commercial models that may be created by using the cheqd network.
 
 
 
@@ -32,9 +32,9 @@ A verifier could pay a holder for sharing Verifiable Credentials. This may be an
 
 ### **Verifier pays issuer**
 
-A verifier could pay the issuer for Verifiable Credentials it receives from the holder. This gives the issuer a recurring revenue stream each time the Credentials it issues need to be live-checked by the issuer.&#x20;
+A verifier could pay the issuer for Verifiable Credentials it receives from the holder. This gives the issuer a recurring revenue stream each time the Credentials it issues need to be live-checked by the issuer.
 
-The mechanism for this payment is through a revocation registry that the issuer establishes. The verifier will make a payment only if it wants to check whether the holder’s credentials have been revoked or not.&#x20;
+The mechanism for this payment is through a revocation registry that the issuer establishes. The verifier will make a payment only if it wants to check whether the holder’s credentials have been revoked or not.
 
 This is important to maintain privacy of the holder, preventing a correlation risk.
 

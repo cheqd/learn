@@ -14,12 +14,12 @@ You will be able to see a list of all the Validators, their voting power and the
 
 {% embed url="https://docs.cheqd.io/governance/getting-started/learning-the-basics/key-terms-and-faqs" %}
 
-Press the button **"Delegate"** on your desired Validating Node Operator.&#x20;
+Press the button **"Delegate"** on your desired Validating Node Operator.
 
-&#x20;
+
 
 ![cheqd delegation screen](<../.gitbook/assets/cheqd delegation image.png>)
 
 Enter the amount of tokens you want to delegate.
 
-And voila! You have now delegated to a Node Operator and staked your tokens.&#x20;
+And voila! You have now delegated to a Node Operator and staked your tokens.

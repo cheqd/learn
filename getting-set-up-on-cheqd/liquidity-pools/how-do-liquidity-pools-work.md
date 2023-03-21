@@ -6,11 +6,11 @@ description: A summary of the how liquidity pools work
 
 ## Overview
 
-In order for liquidity pools to function in the way that leads to the outcomes laid out in the previous page, i.e. greater decentralisation of projects and increasing liquidity, there are a number of key aspects worth understanding:&#x20;
+In order for liquidity pools to function in the way that leads to the outcomes laid out in the previous page, i.e. greater decentralisation of projects and increasing liquidity, there are a number of key aspects worth understanding:
 
-* token weighting;&#x20;
-* pricing;&#x20;
-* market-making functions;&#x20;
+* token weighting;
+* pricing;
+* market-making functions;
 * LP tokens.
 
 (much of the following is taken from the official documentation from [Osmosis Labs](https://osmosis.gitbook.io/o/basic-concepts/amm)).

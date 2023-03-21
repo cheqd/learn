@@ -41,7 +41,7 @@ An example of a **DID Document** is below, which explains various information ab
 The `id` field at the top identifies the **DID subject**. Using the above analogy, the **DID subject** would be James Bond's Aston Martin DB5, because it is the entity that is identified by the identifier. In more general identity use cases, the **DID subject** _could_ be an entity such as a car, but is usually a company or organisation.
 
 {% hint style="info" %}
-Note: This is the same identifier as what is inputted into the **resolver** to return this **DID Document**.&#x20;
+Note: This is the same identifier as what is inputted into the **resolver** to return this **DID Document**.
 {% endhint %}
 
 #### `verificationMethod`
@@ -49,28 +49,28 @@ Note: This is the same identifier as what is inputted into the **resolver** to r
 The `verificationMethod`, in this example, describes a cryptographic key or list of keys and the controller(s) of the key(s). Each Verification Key itself lists:
 
 * an `ID` for the specific key;
-* the `controller`, i.e., the identifier of the person or company with control over that key; and,&#x20;
-* the `type` of cryptographic key.&#x20;
+* the `controller`, i.e., the identifier of the person or company with control over that key; and,
+* the `type` of cryptographic key.
 * the verification key material such as `publicKeyMultibase`
 
-Going back to the above analogy, holding a private key for a certain cryptographic key pair is like holding the **V5C logbook**, as it enables **DID Controllers** to update/change/amend information about the ownership of the DID.&#x20;
+Going back to the above analogy, holding a private key for a certain cryptographic key pair is like holding the **V5C logbook**, as it enables **DID Controllers** to update/change/amend information about the ownership of the DID.
 
-Without access to the verification keys, the ownership or control of the DID would not be able to change.&#x20;
+Without access to the verification keys, the ownership or control of the DID would not be able to change.
 
-In reality, James Bond himself could have a specific verification key, his colleague "Q" could have a second specific key and the Secret Intelligence Service MI6, could have a third specific key. Each party would be known as a DID Controller, and would be able to update/change/amend the DID Document accordingly.&#x20;
+In reality, James Bond himself could have a specific verification key, his colleague "Q" could have a second specific key and the Secret Intelligence Service MI6, could have a third specific key. Each party would be known as a DID Controller, and would be able to update/change/amend the DID Document accordingly.
 
 #### `authentication`
 
-The `authentication` property is very important. This property enables **only** the **DID subject** to prove and authenticate who they are.&#x20;
+The `authentication` property is very important. This property enables **only** the **DID subject** to prove and authenticate who they are.
 
-In our specific example, James Bond may be the only party that holds a Verification key, listed under the authentication property. **This is almost analogous to holding the keys to the car**. Using this property, if challenged about being the owner of the car, James Bond would have all the tools necessary to prove and authenticate the car, under this verification key for authentication. &#x20;
+In our specific example, James Bond may be the only party that holds a Verification key, listed under the authentication property. **This is almost analogous to holding the keys to the car**. Using this property, if challenged about being the owner of the car, James Bond would have all the tools necessary to prove and authenticate the car, under this verification key for authentication. 
 
 **`service`**
 
-The `service` field provides further information about where to contact the DID subject. In our analogy, this could point to a specific email address for help@MI6.com. This property is quite flexible, but importantly, it should not disclose any personally identifiable information.&#x20;
+The `service` field provides further information about where to contact the DID subject. In our analogy, this could point to a specific email address for help@MI6.com. This property is quite flexible, but importantly, it should not disclose any personally identifiable information.
 
-There are also other useful fields which may be included in a DID Document, such as `assertionMethod`, `keyAgreement`, `capacityInvocation` and `capacityDelegation`. These are outside of the scope of this introductory information, and should be the topics of further reading.&#x20;
+There are also other useful fields which may be included in a DID Document, such as `assertionMethod`, `keyAgreement`, `capacityInvocation` and `capacityDelegation`. These are outside of the scope of this introductory information, and should be the topics of further reading.
 
 The key difference between the use of something like the license plate registry and the use of DIDs, is the former relies on a centralised database, whereas, the latter relies wholly on decentralised trust and cryptographic key management.
 
-This makes DIDs far more extensible, scalable and workable beyond jurisdictional borders. &#x20;
+This makes DIDs far more extensible, scalable and workable beyond jurisdictional borders. 

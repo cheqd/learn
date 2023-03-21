@@ -4,7 +4,7 @@
 
 **Decentralised Identity**, otherwise known as **Self-Sovereign Identity ("SSI")** is an emerging technology that enables individuals and/or organizations to maintain direct control of data relating to them, with the ability to explicitly consent to where it is shared, used and processed.
 
-Decentralised identity aims to create a **trusted data economy**, where it is possible to verify, check and trust exactly who you are interacting with, in both physical and digital domains.&#x20;
+Decentralised identity aims to create a **trusted data economy**, where it is possible to verify, check and trust exactly who you are interacting with, in both physical and digital domains.
 
 Through this data model, it is possible to:
 
@@ -24,29 +24,29 @@ Let’s discuss these three in turn:
 
 #### Who are Issuers? <a href="#bccf" id="bccf"></a>
 
-An issuer is an entity that is able to issue trusted data in the form of [Verifiable Credentials](what-is-a-verifiable-credential-vc/). Issuers can come in many shapes and sizes. In most typical SSI use cases, issuers tend to be large organisations such as governments, financial services, health services, insurers or education faculties.&#x20;
+An issuer is an entity that is able to issue trusted data in the form of [Verifiable Credentials](what-is-a-verifiable-credential-vc/). Issuers can come in many shapes and sizes. In most typical SSI use cases, issuers tend to be large organisations such as governments, financial services, health services, insurers or education faculties.
 
-However, an issuer could also quite easily be a friend, family member or even a local café. In fact, in the DeFi world, issuers could be those who you have interacted with online who attest to something about you.&#x20;
+However, an issuer could also quite easily be a friend, family member or even a local café. In fact, in the DeFi world, issuers could be those who you have interacted with online who attest to something about you.
 
 All an issuer needs to be able to do is to attest a fact or attribute about someone else. The level of trust in that attestation is up for the [verifier](./#d449) to decide.
 
 #### Who are Holders? <a href="#1776" id="1776"></a>
 
-A holder can be an individual, an organisation, a product or an object, which has a certain set of attributes that have been attested to by an [issuer](./#bccf).&#x20;
+A holder can be an individual, an organisation, a product or an object, which has a certain set of attributes that have been attested to by an [issuer](./#bccf).
 
-The holder is able to hold and manage these attributes, in the form of [Verifiable Credentials](what-is-a-verifiable-credential-vc/), and directly consent to when, and with whom, these credentials are shared. This empowers the holder to be able to enact their [GDPR Data Subject Rights](https://gdpr-info.eu/chapter-3/) by design and by default.&#x20;
+The holder is able to hold and manage these attributes, in the form of [Verifiable Credentials](what-is-a-verifiable-credential-vc/), and directly consent to when, and with whom, these credentials are shared. This empowers the holder to be able to enact their [GDPR Data Subject Rights](https://gdpr-info.eu/chapter-3/) by design and by default.
 
 A holder is able to bundle their [Verifiable Credentials](what-is-a-verifiable-credential-vc/) into a [Verifiable Presentation](what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) in order to prove attributes about itself to a third party. There are different types of Verifiable Credentials that a holder may hold; they may have different Signature schemes, some may afford greater privacy preserving benefits such as Zero Knowledge Proofs or Selective Disclosure.
 
 #### Who are Verifiers? <a href="#d449" id="d449"></a>
 
-A verifier is any entity that can verify the authenticity and validity of a [Verifiable Credential](what-is-a-verifiable-credential-vc/), via a presented [Verifiable Presentation](what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md).&#x20;
+A verifier is any entity that can verify the authenticity and validity of a [Verifiable Credential](what-is-a-verifiable-credential-vc/), via a presented [Verifiable Presentation](what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md).
 
-The verifier is able to check that the data presented was issued by the correct, legitimate [issuer](./#bccf) and that the [Verifiable Credential](what-is-a-verifiable-credential-vc/) has not been tampered with. In most instances, the verifier may be able to check that the [Verifiable Credential](what-is-a-verifiable-credential-vc/) has not expired or been revoked.&#x20;
+The verifier is able to check that the data presented was issued by the correct, legitimate [issuer](./#bccf) and that the [Verifiable Credential](what-is-a-verifiable-credential-vc/) has not been tampered with. In most instances, the verifier may be able to check that the [Verifiable Credential](what-is-a-verifiable-credential-vc/) has not expired or been revoked.
 
 ### Understanding the basics of the trust triangle
 
-The following image shows the basic flow of how SSI works, without getting into the technical details.&#x20;
+The following image shows the basic flow of how SSI works, without getting into the technical details.
 
 ![Self-sovereign identity Trust Triangle: Simplified explanation](<../../.gitbook/assets/Trust Triangle - simplified explanation.jpg>)
 
@@ -60,33 +60,33 @@ In this first step, the issuer anchors a public signature to the blockchain in t
 
 > "Hey, this is my digital signature and signing keys that I am openly publishing to the world. This will help verifiers trust that if they see a digital signature within data they are presented, they can check whether it is mine or not."
 
-The issuer may also publish what is known as a Schema, which is a list of the types of attributes there will be listed in a Credential that it issues. Schemas are useful for Credential interoperability.&#x20;
+The issuer may also publish what is known as a Schema, which is a list of the types of attributes there will be listed in a Credential that it issues. Schemas are useful for Credential interoperability.
 
-#### 2. **Peer-to-peer connection**: Issuer sends signed, verifiable data to the holder&#x20;
+#### 2. **Peer-to-peer connection**: Issuer sends signed, verifiable data to the holder
 
-Once the issuer has publicised their signature and signing keys, they are able to issue a [Verifiable Credential](what-is-a-verifiable-credential-vc/) to a holder.&#x20;
+Once the issuer has publicised their signature and signing keys, they are able to issue a [Verifiable Credential](what-is-a-verifiable-credential-vc/) to a holder.
 
 To do this, the issuer needs to establish a secure off-chain, peer-to-peer connection channel with the holder. This is to preserve privacy and ensure that no personally identifiable information goes onto the blockchain.
 
-A holder may use a digital identity wallet app to scan a QR code from the issuer to create a pairwise relationship.&#x20;
+A holder may use a digital identity wallet app to scan a QR code from the issuer to create a pairwise relationship.
 
 Through this secure channel, an issuer will send a Verifiable Credential. This Credential is a packet of data which is tamper-proof and verifiable. Within the Credential will be the public signing keys and signature of the issuer, present in the DID Document (written to the ledger in step 1).
 
-The Credential may also reference a particular schema, which the structure of its contents mirrors.&#x20;
+The Credential may also reference a particular schema, which the structure of its contents mirrors.
 
 #### 3. **Self-Sovereignty:** Holder can hold, control and consent to where their data is used
 
 Once the Credential is sent to the holder, they now have a signed, verifiable and trustworthy instance of their data in a digital wallet that they control.
 
-Digital identity wallet apps will have user interface which helps arrange different data by type and by substance, making it easy for the holder to have a holistic view of all their Credentials.&#x20;
+Digital identity wallet apps will have user interface which helps arrange different data by type and by substance, making it easy for the holder to have a holistic view of all their Credentials.
 
 The holder is now empowered with full control and management capabilities over their personal data. The holder can consent and directly choose when their data is shared.
 
-#### 4. **Peer-to-peer connection:** Holder can share trustworthy data with a third party verifier&#x20;
+#### 4. **Peer-to-peer connection:** Holder can share trustworthy data with a third party verifier
 
 Once again, if the holder wants to share their data with a third party, another peer-to-peer channel needs to be created with a verifier. In a similar process, the holder might use their wallet app to scan a QR code from the verifier to create a secure, off-chain communications channel.
 
-Once this channel is established, the verifier may request a selection of data from the holder.&#x20;
+Once this channel is established, the verifier may request a selection of data from the holder.
 
 The holder will be able to choose whether it wants to accept the request and will be able to explicitly consent to what data is shared with the verifier.
 
@@ -94,9 +94,9 @@ The holder shares the data with the verifier in the form of a [Verifiable Presen
 
 #### 5. **Decentralised trust:** Verifier trust the issuer's signature in the data received
 
-As mentioned in Step 2, the Credential that the holder presented to the verifier contained the signing keys and digital signature of the issuer.&#x20;
+As mentioned in Step 2, the Credential that the holder presented to the verifier contained the signing keys and digital signature of the issuer.
 
-Using the blockchain, and a process called DID Resolution, the verifier is able to check whether the signature and signing keys in the data received, correlates with what is published in the issuer's DID Document.&#x20;
+Using the blockchain, and a process called DID Resolution, the verifier is able to check whether the signature and signing keys in the data received, correlates with what is published in the issuer's DID Document.
 
 The verifier may also check the schema referenced in the credential, to check that all the correct attributes are present, and to also make it easier for the verifier to receive similar Credentials in the future, given there may be a common format.
 

@@ -1,6 +1,6 @@
 # SDKs, Libraries and Platforms
 
-In SSI ecosystems, the actual functionality to create DIDs or issue credentials tends to be wrapped up in some sort of Software Development Kit, library or platform.&#x20;
+In SSI ecosystems, the actual functionality to create DIDs or issue credentials tends to be wrapped up in some sort of Software Development Kit, library or platform.
 
 ### What is a Library?
 

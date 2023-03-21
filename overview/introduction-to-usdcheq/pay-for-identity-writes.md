@@ -1,10 +1,10 @@
 # Pay for Identity writes
 
-At a basic level, the CHEQ token is used to pay identity writes on the cheqd network. This functionality is made available through custom modules built by cheqd for [DIDs](../introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/) and [on-ledger Resources](../introduction-to-decentralised-identity/what-is-an-on-ledger-resource.md).&#x20;
+At a basic level, the CHEQ token is used to pay identity writes on the cheqd network. This functionality is made available through custom modules built by cheqd for [DIDs](../introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/) and [on-ledger Resources](../introduction-to-decentralised-identity/what-is-an-on-ledger-resource.md).
 
 ### Identity writes to the ledger
 
-As cheqd is integrated into more Software Development Kits, it will become easier for cheqd's partners to write identity transactions to the network.&#x20;
+As cheqd is integrated into more Software Development Kits, it will become easier for cheqd's partners to write identity transactions to the network.
 
 {% hint style="info" %}
 Note: the prices listed below are subject to change, as they are parameters controlled by community governance mechanisms.

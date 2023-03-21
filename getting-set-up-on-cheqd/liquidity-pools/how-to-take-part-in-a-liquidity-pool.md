@@ -4,7 +4,7 @@
 
 At the time of writing **CHEQ** is currently only available for liquidity providing on the Osmosis DEX.
 
-The CHEQ token is available in two pools:&#x20;
+The CHEQ token is available in two pools:
 
 ### Pool #602: CHEQ / OSMO
 
@@ -14,7 +14,7 @@ The CHEQ token is available in two pools:&#x20;
 
 {% embed url="https://app.osmosis.zone/pool/617" %}
 
-First, head to [Osmosis](https://osmosis.zone/) and click enter the lab.&#x20;
+First, head to [Osmosis](https://osmosis.zone/) and click enter the lab.
 
 Once you’ve agreed to terms and you’re ‘in the lab’ you’ll see some trading pairs and a button to connect your wallet (bottom left of the dashboard).
 
@@ -60,6 +60,6 @@ You’ll now see your total bonded tokens. Each day rewards will then be distrib
 
 ![](https://lh5.googleusercontent.com/y2dDpWFBmT1gv82e8eaHWkRnMR\_prevuywiJQ3X23rRLpfwwjUiUSsaoO9dOivO02bU\_iCjS24-ID-z1QuX91-4tFsUPl-Uz28kguOD6oYXuGLSB5ZrwDQgXj7L7c9zmGqJqZuAJ)
 
-## Conclusion&#x20;
+## Conclusion
 
 Overall, Liquidity Pools are an incredibly exciting and equalising tool, which represent the true nature of the DeFi and Web3.0 movement. Where for many years engaging in and benefiting from such financial systems was reserved solely for the wealthiest individuals and large organisations, now anyone can gain access and start contributing to their favourite projects, voting on their future direction and earning from the part they play.

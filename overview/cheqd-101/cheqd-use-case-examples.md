@@ -37,7 +37,7 @@ Bright University also anchors an adjacent DID Document which contains informati
 
 * This is the DID of Bright University
 * This is the endpoint for Bright University's help/contact address
-* These are the list of public keys that Bright University might sign with for Verifiable Credentials for University Degrees.&#x20;
+* These are the list of public keys that Bright University might sign with for Verifiable Credentials for University Degrees.
 
 To learn about what a DID and a DID Document is, please see the page:
 
@@ -45,7 +45,7 @@ To learn about what a DID and a DID Document is, please see the page:
 [what-is-a-decentralised-identifier-did](../introduction-to-decentralised-identity/what-is-a-decentralised-identifier-did/)
 {% endcontent-ref %}
 
-Jane has completed her degree and she has successfully achieved a First Class Honours. Now, she wants to receive a digital copy of the diploma to be able to hold it in her digital identity wallet.&#x20;
+Jane has completed her degree and she has successfully achieved a First Class Honours. Now, she wants to receive a digital copy of the diploma to be able to hold it in her digital identity wallet.
 
 On the physical certificate there is a QR code which Jane scans. This creates a peer-to-peer encrypted channel between the University and Jane's phone, which has her digital identity wallet.
 
@@ -53,9 +53,9 @@ Bright University issues a [Verifiable Credential](../introduction-to-decentrali
 
 * This is Jane Doe's diploma
 * Jane Doe graduated from Bright University in the year 2022
-* Jane Doe achieved a First Class Honours in her MSC degree in Computer Science.&#x20;
+* Jane Doe achieved a First Class Honours in her MSC degree in Computer Science.
 
-The Verifiable Credential has a proof, meaning it is digitally signed by the Public DID of Bright University, as well as potentially cryptographic material referring to a specific public key, which may be used for a particular purpose (such as asserting claims).&#x20;
+The Verifiable Credential has a proof, meaning it is digitally signed by the Public DID of Bright University, as well as potentially cryptographic material referring to a specific public key, which may be used for a particular purpose (such as asserting claims).
 
 To learn more about Verifiable Credentials, please see the page:
 
@@ -65,13 +65,13 @@ To learn more about Verifiable Credentials, please see the page:
 
 ![Issuer issues Jane Doe a Verifiable Credential anchored on cheqd mainnet](<../../.gitbook/assets/Jane Doe - Issuer issues VC.png>)
 
-In return for a very high value University Credential, that provides Jane a verifiable record of her diploma, and is an optional addition to Jane's physical diploma, Jane is required to pay the University $10.00 USD.&#x20;
+In return for a very high value University Credential, that provides Jane a verifiable record of her diploma, and is an optional addition to Jane's physical diploma, Jane is required to pay the University $10.00 USD.
 
-Jane is required to pay this $10.00 in $CHEQ (or a stablecoin that she holds), before she is able to receive the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/). In the background the price of $CHEQ is equated to $10.00 USD, and is transferred to Bright University's wallet address.&#x20;
+Jane is required to pay this $10.00 in $CHEQ (or a stablecoin that she holds), before she is able to receive the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/). In the background the price of $CHEQ is equated to $10.00 USD, and is transferred to Bright University's wallet address.
 
-Jane receives the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to her digital identity wallet once the payment has been successfully completed. This entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.&#x20;
+Jane receives the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to her digital identity wallet once the payment has been successfully completed. This entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.
 
-&#x20;
+
 
 ![Jane Doe pays issuer for the Verifiable Credential using $CHEQ or a stablecoin](<../../.gitbook/assets/Jane Doe - Pays for Credential.png>)
 
@@ -79,13 +79,13 @@ Jane now holds a Verifiable Credential of her University degree in her digital i
 
 Jane applies online for a new job as a Lead Engineer at a leading technology company.
 
-The technology company asks for Jane to upload her education records. Rather than filling out the form manually; Jane scans another QR code to create a peer-to-peer encrypted channel with the technology company. Jane sends a [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) containing her claims and the attached proof to those claims, in a few clicks or taps.&#x20;
+The technology company asks for Jane to upload her education records. Rather than filling out the form manually; Jane scans another QR code to create a peer-to-peer encrypted channel with the technology company. Jane sends a [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) containing her claims and the attached proof to those claims, in a few clicks or taps.
 
 ![Jane Doe presents the Credential as a Verifiable Presentation to the Verifier](<../../.gitbook/assets/Jane Doe - Presents Credential to Verifier.png>)
 
-The technology company is able to verify the validity of the claims that Jane presents, by resolving the DID embedded in the Presentation. Through resolving the DID, the technology company is able to see the DID Document and the information contained. Automatically, the technology company is able to ascertain that the proof inside Jane's Verifiable Presentation was issued by the real Bright University and is for the correct purpose.&#x20;
+The technology company is able to verify the validity of the claims that Jane presents, by resolving the DID embedded in the Presentation. Through resolving the DID, the technology company is able to see the DID Document and the information contained. Automatically, the technology company is able to ascertain that the proof inside Jane's Verifiable Presentation was issued by the real Bright University and is for the correct purpose.
 
-The technology company is now satisfied and progresses Jane to the next phase of the application.&#x20;
+The technology company is now satisfied and progresses Jane to the next phase of the application.
 
 #### What cheqd fixes in Web 3.0
 
@@ -105,7 +105,7 @@ DigiPlay also anchors an adjacent DID Document which contains information about 
 * This is the endpoint for DigiPlay's help/contact address
 * These are the list of public keys that DigiPlay might sign with for Verifiable Credentials for different game accomplishments and in-game assets.
 
-John has put a significant amount of hours into DigiPlay's title, but does not want to lose the progress he's made, as the game becomes obsolete and older. He wants to be able to port his progress into another, technically compatible title, in order to continue progressing from a relative position. He also has unlocked unique and rare skins, cosmetics and in-game assets which he wants to be able to use in future games.&#x20;
+John has put a significant amount of hours into DigiPlay's title, but does not want to lose the progress he's made, as the game becomes obsolete and older. He wants to be able to port his progress into another, technically compatible title, in order to continue progressing from a relative position. He also has unlocked unique and rare skins, cosmetics and in-game assets which he wants to be able to use in future games.
 
 Therefore, he scans a QR code provided by DigiPlay on their in-game main menu which creates a pairwise, peer-to-peer encrypted channel between John and DigiPlay. Through this channel, DigiPlay issues John a [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/#what-is-a-verifiable-credential), or series of Verifiable Credentials, with various in game information such as:
 
@@ -113,20 +113,20 @@ Therefore, he scans a QR code provided by DigiPlay on their in-game main menu wh
 * John has reached rank 55 in our title
 * John has received the following achievements on his profile:
   * Achievement A
-  * Achievement B&#x20;
+  * Achievement B
   * Achievement C
 * John has unilateral ownership of rare and unique items in this game:
   * NFT Blue Leopard skin for GG-B67
   * NFT Navy-blue 49145 player skin
   * NFT  8676 Custom stock
 
-In this instance, the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/#what-is-a-verifiable-credential) gives John a way to prove that he owns these items, easily, and he is able to showcase his profile and in-game assets in compatible wallets and third-party games.&#x20;
+In this instance, the [Verifiable Credential](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/#what-is-a-verifiable-credential) gives John a way to prove that he owns these items, easily, and he is able to showcase his profile and in-game assets in compatible wallets and third-party games.
 
 ![DigiPlay issues Verifiable Credential to John Smith, anchored on cheqd mainnet](<../../.gitbook/assets/John Smith - Issuer issues VC to John.png>)
 
 Since without a Verifiable Credential, John will lose these in-game assets he has earnt, he is happy to pay a $15,00 one-time fee to get a verifiable digital copy of his assets in order to hold them unilaterally in a digital wallet, data vault or secure enclave on his PC, games console, or mobile phone.
 
-Before John is able to receive the Verifiable Credential, in the background the price of $CHEQ is equated to $15.00 USD, and is transferred to DigiPlay's wallet address.&#x20;
+Before John is able to receive the Verifiable Credential, in the background the price of $CHEQ is equated to $15.00 USD, and is transferred to DigiPlay's wallet address.
 
 John receives the Verifiable Credential once the payment has been successfully completed.
 
@@ -140,6 +140,6 @@ John wants to port his in game assets, skins and prestige to MetaZap to build ve
 
 <figure><img src="../../.gitbook/assets/John Smith - Presents VC to Verifier (1).png" alt=""><figcaption><p>John Smith presents Credential as a Verifiable Presentation to MetaZap</p></figcaption></figure>
 
-When John starts up MetaZap, the initial loading menu asks John whether he wants to port over any existing assets. John scans another QR code to create a peer-to-peer encrypted channel with MetaZap. John sends a [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) containing his relevant data and claims with the attached proof to those claims.&#x20;
+When John starts up MetaZap, the initial loading menu asks John whether he wants to port over any existing assets. John scans another QR code to create a peer-to-peer encrypted channel with MetaZap. John sends a [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) containing his relevant data and claims with the attached proof to those claims.
 
 MetaZap is able to verify the validity of the claims that John presents, by resolving the DID embedded in the Presentation. Through resolving the DID, MetaZap is able to see the DID Document and the information contained from DigiPlay. Automatically, it is able to ascertain that the proof inside John's [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) was issued by the real DigiPlay and starts downloading John's assets into his MetaZap account.

@@ -1,12 +1,12 @@
 # The business models of identity
 
-## The business models of identity
+## Context
 
 Identity is a construct of its subject (person, company, virtual thing) and surroundings (birth, country borders, online games). Identity, therefore, varies in how it manifests (passports, self-declared data or an outfit, real or virtual) but also how it is commercialised (or not).
 
 Across the world, identity has been commercialised in too many ways to count. These range from transparent and simple relationships like paying for a passport through to complex and opaque models like targeted advertising.
 
-Self-Sovereign Identity (SSI) will replicate some of these models, destroy others and create entirely new ones too.&#x20;
+Self-Sovereign Identity (SSI) will replicate some of these models, destroy others and create entirely new ones too.
 
 Creating entirely new models is what we at **cheqd** are truly excited about, through utilising its network and $CHEQ.
 

@@ -20,19 +20,19 @@ cheqd's goal is made possible through leveraging [decentralised identity](../int
 
 Digital identity is something that we rarely think about in our day-to-day lives, but it is something that we all have subscribed to.
 
-Yet, currently, the average person, and likely <mark style="color:orange;">**you**</mark> reading this, has **over 150 accounts online**, each with a separate username, password and security process.&#x20;
+Yet, currently, the average person, and likely <mark style="color:orange;">**you**</mark> reading this, has **over 150 accounts online**, each with a separate username, password and security process.
 
 Think of the likes of Facebook, Twitter, Instagram, Signal, Amazon, Telegram, Deliveroo, Uber... the list goes on.
 
 Every time we open an account online, to use a service, buy something online, use social media, or even just browse the internet, we are creating a digital footprint for ourselves, which feeds into a digital profile.
 
-And each of these different accounts holds personal data about you, such as your name, age, photographs, sex, gender etc., and also various preference data, such as what you browse, like, share or click on.&#x20;
+And each of these different accounts holds personal data about you, such as your name, age, photographs, sex, gender etc., and also various preference data, such as what you browse, like, share or click on.
 
 #### **What is the problem with this?**
 
 These digital profiles are generally secured behind a password, meaning that <mark style="color:orange;">**you**</mark> **feel a level of confidence** that <mark style="color:orange;">**you**</mark>** have control over them**.
 
-**However, in reality this is not the case.**&#x20;
+**However, in reality this is not the case.**
 
 Our data is stored across multiple gated siloes, and every time we want to access this data, we need to prove to the gatekeeper that we are who we claim to be through an authentication process.
 
@@ -86,7 +86,7 @@ Importantly, this data is cryptographically signed by a person or company that i
 
 <mark style="color:orange;">**Your data now has a digital, trustworthy signature.**</mark> ![](<../../.gitbook/assets/cheqd 101 - Digital trustworthy signature.png>)<mark style="color:orange;">****</mark>
 
-And you can share this with third parties to prove trust in your own data, identity and attributes.&#x20;
+And you can share this with third parties to prove trust in your own data, identity and attributes.
 
 ![Self-Sovereign Identity: Trust Triangle: Blank](<../../.gitbook/assets/Trust Triangle - blank.png>)
 
