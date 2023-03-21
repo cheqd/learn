@@ -136,7 +136,7 @@ John now wants to start a new game with a brand new metaverse title, made by gam
 
 John wants to port his in game assets, skins and prestige to MetaZap to build verifiable status in his player profile and allow him to use his unique items.
 
-<figure><img src="../../.gitbook/assets/John Smith - Presents VC to Verifier (1).png" alt=""><figcaption><p>John Smith presents Credential as a Verifiable Presentation to MetaZap</p></figcaption></figure>
+![John Smith presents Credential as a Verifiable Presentation to MetaZap](../../.gitbook/assets/John%20Smith%20-%20Presents%20VC%20to%20Verifier.png)
 
 When John starts up MetaZap, the initial loading menu asks John whether he wants to port over any existing assets. John scans another QR code to create a peer-to-peer encrypted channel with MetaZap. John sends a [Verifiable Presentation](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) containing his relevant data and claims with the attached proof to those claims.
 

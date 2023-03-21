@@ -221,7 +221,7 @@ Since CHEQs will be used as collateral for lines of credit, across the entire ne
 
 The table below articulates the proportion of tokens which would be locked up dependent on the token price, assuming a 200% liquidation rate which would be likely when the payment models are first released.
 
-![# CHEQs / % supply required to establish a given Line of Credit](<../../.gitbook/assets/Tokenomics - Line of Credit (1).png>)
+![# CHEQs / % supply required to establish a given Line of Credit](<../../.gitbook/assets/Tokenomics - Line of Credit.png>)
 
 Related to this, it is worth us re-sharing how many of these ecosystems /use-cases and hence companies (since each consortium will involve multiple companies) we are expecting to leverage the network.
 
