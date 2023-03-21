@@ -1,6 +1,6 @@
-# cheqd use case examples
+# Use case examples
 
-## cheqd use case examples
+## What can you do with cheqd?
 
 One of the most repeated bits of feedback that we've had, throughout our survey results and community engagement, is that: **more easy explanation and examples on how cheqd can be used in practice would better help people understand the project**.
 
@@ -23,7 +23,8 @@ For a high level explanation of how decentralised identity and cheqd's payment r
 
 #### What cheqd fixes now
 
-![](<../../.gitbook/assets/Jane Doe image>)**This is Jane Doe**
+![Jane Doe](../../.gitbook/assets/Jane%20Doe%20image.webp)
+**This is Jane Doe**
 
 Jane Doe has recently completed her university degree at Bright University. She wants to receive a digital, verifiable and certifiable copy of her diploma to apply for a prospective job.
 
@@ -87,7 +88,8 @@ The technology company is now satisfied and progresses Jane to the next phase of
 
 #### What cheqd fixes in Web 3.0
 
-![](<../../.gitbook/assets/John Smith image>)**This is John Smith**
+![John Smith](../../.gitbook/assets/John%20Smith%20image.webp)
+**This is John Smith**
 
 John Smith is a gamer who has built a substantial in-game profile for game developer's, Digiplay, latest metaverse game. John wants to receive a verifiable copy of his in game assets, which he can hold ownership of, unilaterally, in his digital data wallet, in order to port these assets over to a new game made by MetaZap.
 
