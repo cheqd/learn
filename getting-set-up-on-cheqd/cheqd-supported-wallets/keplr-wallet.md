@@ -98,7 +98,7 @@ In order to see $CHEQ in your Keplr wallet, you’ll need to follow the steps be
 5. Click “**Approve**”
 6. On the Keplr extension in your browser, click the drop down menu at the top. Scroll down to below “ — — Beta support — — ” where you will find the **cheqd** wallet
 7. You will now be able to see your balance in $**CHEQ**.
-8. See the link here for [further instructions on sending $CHEQ, staking and other information](https://www.cheqd.io/e3t/Btc/OR+113/d2ndgG04/VVPYSm12T6y7W68Gz\_Y3GxHJsW8LzBkh4Blqz8N7Wbrzf3lLCfV1-WJV7CgVy3W5009pY4d0LxsW5hv8yw8cND\_yW6LYyDj6rt9-yVvx9C241qRmWW7Hb4SG4GDFKkW8rb0Bv3VTJFCW2MJWCv4N3RvNW74YtNq2XBjg3W7JmdX643gbKSN86vSrVT2cJXW6dlM608wsZlPVPS\_Mx46PDTyW2RZ30C1wQm\_gW6r2jw\_5\_f7JsW4msjqL600XcMW3Zd1\_V8mzGdFVHs3\_\_6F\_DCKW4WYPdW6DNbDtW8nPF5\_66YbbxW5L9ZpW96Z8LsW3rMgYt21cTl9W70Svgx978kVYW9b2BcR1Ff\_H6W2RX-654dQcB7W3n\_ct3743TYRN4fDTlR1HFldN1jNZtW2Xt7VW6dB\_2l4ZqccB3pw41), with helpful screenshots.
+8. See the link here for [further instructions on sending $CHEQ, staking and other information](https://docs.cheqd.io/governance/contributing/how-do-i-stake-delegate-and-vote-practically), with helpful screenshots.
 
 ### Copying a wallet address from Keplr <a href="#1b81" id="1b81"></a>
 
