@@ -1,12 +1,8 @@
 # How to send CHEQ tokens from Ethereum to cheqd
 
-## How to send CHEQ tokens from Ethereum to cheqd
+## Instructions
 
-The following instructions will be lighter weight as much of the general process has been explained  in the earlier steps:
-
-[how-to-send-tokens-to-ethereum-with-gravity-bridge.md](how-to-send-tokens-to-ethereum-with-gravity-bridge.md "mention")
-
-
+The following instructions will be lighter weight as much of the [general process of sending CHEQ tokens to Ethereum via Gravity Bridge](how-to-send-tokens-to-ethereum-with-gravity-bridge.md) has been explained separately.
 
 ### **Step 1: Set your Source chain and Destination chain**
 
@@ -25,8 +21,6 @@ Fortunately these fees will reduce based on the volumes of transfers on the Grav
 ### **Step 4: Transfer tokens to your final destination chain**
 
 Finally, transfer the tokens from the Gravity Bridge chain to your final destination chain (the cheqd network).
-
-
 
 If at any point you want to check the transfer, you can enter your Gravity address into [MintScan using G-Bridge.](https://www.mintscan.io/gravity-bridge)
 
