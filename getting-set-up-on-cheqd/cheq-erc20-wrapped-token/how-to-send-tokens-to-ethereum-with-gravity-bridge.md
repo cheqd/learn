@@ -66,7 +66,7 @@ Select Gravity Bridge as the Source, and Ethereum as the Destination.
 
 Login to your [**MetaMask**](https://metamask.io/) wallet using the browser extension and connect.
 
-#### Step 6: Select your CHEQ tokens & Enter the amount you wish to transfer.
+#### Step 6: Select your CHEQ tokens & Enter the amount you wish to transfer
 
 The token you have sent to Gravity Bridge will now appear on the list within Gravity Bridge with the available amount listed. Enter the amount you wish to transfer.
 
