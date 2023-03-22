@@ -14,7 +14,6 @@ There are multiple standards used for Verifiable Presentations, that will be lis
 
 {% embed url="https://github.com/hyperledger/aries-rfcs/blob/main/features/0454-present-proof-v2/README.md" %}
 
-### Presentation Exchange 2.0.0 <a href="#presentation-exchange-200" id="presentation-exchange-200"></a>
+### Presentation Exchange 2.0.0
 
 {% embed url="https://identity.foundation/presentation-exchange" %}
-
