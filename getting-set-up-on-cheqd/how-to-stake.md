@@ -10,9 +10,7 @@ On the our staking and governance dashboard you can either click **"Stake Tokens
 
 On the dashboard you can either click **"Stake Tokens"** or click the tab in the right hand corner called **"Stake".**
 
-You will be able to see a list of all the Validators, their voting power and their associated commission rate. You can read about what all these parameters mean below:
-
-{% embed url="https://docs.cheqd.io/governance/getting-started/learning-the-basics/key-terms-and-faqs" %}
+You will be able to see a list of all the Validators, their voting power and their associated commission rate.
 
 Press the button **"Delegate"** on your desired Validating Node Operator.
 
