@@ -90,8 +90,3 @@ For further reading on DIDs, you can read:
 {% content-ref url="what-is-a-did-method.md" %}
 [what-is-a-did-method.md](what-is-a-did-method.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-

@@ -2,7 +2,7 @@
 
 cheqd has built a **Resources Module** to extend the functionality of our decentralised identity network, providing capabilities not found on other self-sovereign identity networks.
 
-A **DID-Linked** **Resource** is a blob of information stored on-ledger, discoverable through the same [Decentralized Identifier (DIDs) syntax](broken-reference) that is widely used within the SSI industry.
+A **DID-Linked** **Resource** is a blob of information stored on-ledger, discoverable through the same [Decentralized Identifier (DIDs) syntax](what-is-a-decentralised-identifier-did/how-do-you-resolve-a-did.md) that is widely used within the SSI industry.
 
 ## What issues do on-ledger Resources solve?
 
@@ -33,7 +33,7 @@ The use of Resources is potentially very broad; they can provide many different 
 
 * A **schema**, such as Camenisch-Lysyanskaya ("CL") schema ‘CL’, JSON-LD schema, JSON schema etc.
 * A **visual representation**, such as [Overlays Capture Architecture (OCA)](https://oca.colossi.network/), [Apple Wallet PassKit](https://developer.apple.com/documentation/passkit), [Google Wallet Passes](https://developers.google.com/wallet), etc
-* A **document**, such as [a Governance Framework](broken-reference)
+* A **document**, such as [a Governance Framework](../intro-to-defi-aspects-of-cheqd/what-is-governance-and-voting.md)
 * An **branding elements**, such as a company logo, brandmark, etc which can be pulled directly by block explorers and other Web3 applications
 * A **revocation registry** for revoking already-issued credentials.
 
