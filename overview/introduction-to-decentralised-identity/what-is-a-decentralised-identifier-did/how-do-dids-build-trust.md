@@ -20,4 +20,3 @@ This is, and will continue to be, a core building block for Web 3.0 going forwar
 For more information, please see the DID Core Specification below:
 
 {% embed url="https://www.w3.org/TR/did-core" %}
-

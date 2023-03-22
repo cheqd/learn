@@ -16,6 +16,6 @@
 Open the PDF to use an interactive version of this slide to navigate to each page
 {% endhint %}
 
-![Image outlining where and how to engage with cheqd]()
+![Image outlining where and how to engage with cheqd](../.gitbook/assets/engage-with-CHEQ.png)
 
 {% file src="../.gitbook/assets/Where can I use CHEQ tokens.pdf" %}
