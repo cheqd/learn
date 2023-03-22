@@ -4,7 +4,7 @@ Now that you have **CHEQ-ERC20** tokens you can engage with DeFi activities with
 
 Within UniSwap you can either Swap tokens, or add them to a Liquidity Pool.
 
-To find out more about Liquidity Pools, head to [what-is-a-liquidity-pool.md](../liquidity-pools/what-is-a-liquidity-pool.md "mention")
+To find out more about Liquidity Pools, head to [What is a Liquidity Pool?](../liquidity-pools/README.md)
 
 ## **Adding tokens to a Liquidity Pool**
 
