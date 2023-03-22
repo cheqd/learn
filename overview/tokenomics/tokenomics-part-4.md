@@ -103,11 +103,11 @@ In the first version of identity transaction pricing, we are achieving dollar pr
 
 ![inflation and deflation](../../.gitbook/assets/tokenomics-part-4-img-7.png)
 
-[_Genesis parameters_](https://github.com/cheqd/cheqd-node/blob/ante-impl/networks/mainnet/genesis.json)
+Read more on our [ADR on Genesis Parameters](https://docs.cheqd.io/node/architecture/adr-list/adr-005-genesis-parameters)
 
 ### Burn percentage
 
-As can be seen in the image above showing the genesis parameters which define the costs in $CHEQ, there is also a “burn\_factor” variable which sets the percentage of the tokens charged for identity transactions which will be directly burnt. This can be adjusted through on-ledger governance votes according to the cheqd community preferences.
+As can be seen in the image above showing the genesis parameters which define the costs in $CHEQ, there is also a “burn factor” variable which sets the percentage of the tokens charged for identity transactions which will be directly burnt. This can be adjusted through on-ledger governance votes according to the cheqd community preferences.
 
 ## Community and Governance
 
