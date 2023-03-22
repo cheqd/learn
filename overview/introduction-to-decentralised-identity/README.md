@@ -1,6 +1,6 @@
 # 🟢 Introduction to Decentralised Identity
 
-## What is Decentralised Identity? <a href="#what-is-self-sovereign-identity-ssi" id="what-is-self-sovereign-identity-ssi"></a>
+## What is Decentralised Identity?
 
 **Decentralised Identity**, otherwise known as **Self-Sovereign Identity ("SSI")** is an emerging technology that enables individuals and/or organizations to maintain direct control of data relating to them, with the ability to explicitly consent to where it is shared, used and processed.
 
@@ -22,7 +22,7 @@ Any distinct model of decentralised identity revolves around three specific acto
 
 Let’s discuss these three in turn:
 
-#### Who are Issuers? <a href="#bccf" id="bccf"></a>
+#### Who are Issuers?
 
 An issuer is an entity that is able to issue trusted data in the form of [Verifiable Credentials](what-is-a-verifiable-credential-vc/). Issuers can come in many shapes and sizes. In most typical SSI use cases, issuers tend to be large organisations such as governments, financial services, health services, insurers or education faculties.
 
@@ -30,7 +30,7 @@ However, an issuer could also quite easily be a friend, family member or even a 
 
 All an issuer needs to be able to do is to attest a fact or attribute about someone else. The level of trust in that attestation is up for the [verifier](./#d449) to decide.
 
-#### Who are Holders? <a href="#1776" id="1776"></a>
+#### Who are Holders?
 
 A holder can be an individual, an organisation, a product or an object, which has a certain set of attributes that have been attested to by an [issuer](./#bccf).
 
@@ -38,7 +38,7 @@ The holder is able to hold and manage these attributes, in the form of [Verifiab
 
 A holder is able to bundle their [Verifiable Credentials](what-is-a-verifiable-credential-vc/) into a [Verifiable Presentation](what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md) in order to prove attributes about itself to a third party. There are different types of Verifiable Credentials that a holder may hold; they may have different Signature schemes, some may afford greater privacy preserving benefits such as Zero Knowledge Proofs or Selective Disclosure.
 
-#### Who are Verifiers? <a href="#d449" id="d449"></a>
+#### Who are Verifiers?
 
 A verifier is any entity that can verify the authenticity and validity of a [Verifiable Credential](what-is-a-verifiable-credential-vc/), via a presented [Verifiable Presentation](what-is-a-verifiable-credential-vc/what-is-a-verifiable-presentation.md).
 
