@@ -98,7 +98,7 @@ In order to see $CHEQ in your Keplr wallet, you’ll need to follow the steps be
 5. Click “**Approve**”
 6. On the Keplr extension in your browser, click the drop down menu at the top. Scroll down to below “ — — Beta support — — ” where you will find the **cheqd** wallet
 7. You will now be able to see your balance in $**CHEQ**.
-8. See the link here for [further instructions on sending $CHEQ, staking and other information](https://docs.cheqd.io/governance/contributing/how-do-i-stake-delegate-and-vote-practically), with helpful screenshots.
+8. See the link here for [further instructions on sending $CHEQ, staking and other information](../../overview/intro-to-defi-aspects-of-cheqd/what-is-staking-and-delegation.md), with helpful screenshots.
 
 ### Copying a wallet address from Keplr
 
