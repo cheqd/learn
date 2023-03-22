@@ -23,8 +23,8 @@ description: We're making it easier for individuals and organisations to trust e
 <summary>Validate on cheqd network</summary>
 
 * [cheqd Node Documentation](https://docs.cheqd.io/node)
-* [Setting up a new cheqd node](https://docs.cheqd.io/node/docs/setup-and-configure)
-* [Validator guide](https://docs.cheqd.io/node/docs/validator-guide)
+* [Setting up a new cheqd node](https://docs.cheqd.io/node/getting-started/setup-and-configure)
+* [Validator guide](https://docs.cheqd.io/node/validator-guides/validator-guide)
 
 </details>
 
