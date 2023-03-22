@@ -6,7 +6,7 @@ As the cheqd network has been built on Cosmos, we use wallets that integrate dir
 
 Here’s where Keplr comes in…
 
-## What is Keplr? <a href="#de07" id="de07"></a>
+## What is Keplr?
 
 [Keplr](https://www.keplr.app/) is a Cosmos wallet that has been praised for putting the user at the heart of the experience. As the first, and leading Inter-Blockchain Communication (IBC) enabled wallet for the Cosmos ecosystem, Keplr offers users the ability to stake their tokens, use blockchain apps and manage multiple tokens in one wallet.
 
@@ -34,7 +34,7 @@ In the context of digital assets, mnemonics are used to protect your wallet in t
 
 ![Keplr site banner](<../../.gitbook/assets/Keplr wallet banner.png>)
 
-### Setting up a Keplr Wallet on PC/Mac <a href="#39db" id="39db"></a>
+### Setting up a Keplr Wallet on PC/Mac
 
 1. Go to the Keplr website [https://www.keplr.app/](https://www.keplr.app/) to find the relevant extension for your browser. If you’re using Chrome, which we’d recommend, click here → [browser extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap)
 2. Once you’ve installed Keplr wallet, you’ll see four options to set up an account:
@@ -51,7 +51,7 @@ In this guide, we’ll assume you have not used Keplr before and therefore will 
 _**Note: The Keplr team will never reach out and ask you to validate your wallet or type your mnemonics. Be careful of scammers.**_
 {% endhint %}
 
-### Option 1: Google SSO / One-Click Login <a href="#69bd" id="69bd"></a>
+### Option 1: Google SSO / One-Click Login
 
 For the highest level of security when using Keplr we’d recommend this option. With Google SSO you can [enable Two Factor Authentication (TFA)](https://support.google.com/accounts/answer/185839?hl=en\&co=GENIE.Platform%3DDesktop) which enhanced your security through adding second factor. For example you can use SMS (NOT recommended), a software authenticator, or a hardware key like Yubikey or [Google Titan Key](https://store.google.com/product/titan\_security\_key?hl=en-GB).
 
@@ -67,7 +67,7 @@ For the highest level of security when using Keplr we’d recommend this option.
 
 _**Note:** By using Google SSO you will not have to store your mnemonic as your access is managed by google. With the extension, you can access your private key at any time however you will not see a mnemonic. To do this click on your profile icon and select the account, and use the 3 dots to select the information you want to see (you’ll need your password to do this)._
 
-### Option 2: Create an Account via Secret Seed/mnemonic Phrase <a href="#21a5" id="21a5"></a>
+### Option 2: Create an Account via Secret Seed/mnemonic Phrase
 
 1. By clicking on the Keplr browser icon for the first time will take you to the accounts setup page. Choose option **Create new account**.
 
@@ -87,7 +87,7 @@ _**Note:** By using Google SSO you will not have to store your mnemonic as your 
 
 **5. Congratulations!** 🎉 You are now the owner of a Keplr wallet account and are ready to explore the interchain.
 
-### Adding the cheqd network to your Keplr wallet <a href="#d2c0" id="d2c0"></a>
+### Adding the cheqd network to your Keplr wallet
 
 In order to see $CHEQ in your Keplr wallet, you’ll need to follow the steps below which enables Keplr to auto-discover the cheqd network.
 
@@ -100,7 +100,7 @@ In order to see $CHEQ in your Keplr wallet, you’ll need to follow the steps be
 7. You will now be able to see your balance in $**CHEQ**.
 8. See the link here for [further instructions on sending $CHEQ, staking and other information](https://docs.cheqd.io/governance/contributing/how-do-i-stake-delegate-and-vote-practically), with helpful screenshots.
 
-### Copying a wallet address from Keplr <a href="#1b81" id="1b81"></a>
+### Copying a wallet address from Keplr
 
 In order to receive tokens into your Cosmos _****_ or cheqd wallet, whether you are depositing yourself from another wallet, or you are required to do so to receive tokens from another party, you will need to provide a _**wallet address.**_
 
@@ -124,7 +124,7 @@ As a final step, always ensure you have double-checked the address by cross-chec
 **Note:** Once you have set up your cheqd wallet using OmniFlix, you will be able to see cheqd in the dropdown menu on your Keplr wallet, and can copy the wallet address in the same way as above
 {% endhint %}
 
-### Setting up multiple accounts on Keplr <a href="#7f6a" id="7f6a"></a>
+### Setting up multiple accounts on Keplr
 
 In some cases, you may be required to set up multiple accounts on Keplr. You can do this within the Keplr extension you have set up in the previous steps:
 
@@ -134,7 +134,7 @@ In some cases, you may be required to set up multiple accounts on Keplr. You can
 
 ![Keplr Wallet - Select account](../../.gitbook/assets/Keplr%20Wallet%20-%20Select%20account.jpeg)
 
-### Setting up a Keplr Wallet on your smartphone <a href="#ddba" id="ddba"></a>
+### Setting up a Keplr Wallet on your smartphone
 
 Although we’d highly recommend following the instructions above (i.e. setting up your wallet as a browser extension) as this will provide a much more seamless experience when connecting to Decentralised Exchanges, you can also log in using your phone.
 
@@ -142,7 +142,7 @@ If you have done the above already, once you have downloaded the Keplr app, when
 
 If it is your first time and you would prefer to use your phone you can follow the steps above as a guide and set up your wallet directly through the app (always remember to store your mnemonic safely!)
 
-### A reminder of best practices <a href="#7d9c" id="7d9c"></a>
+### A reminder of best practices
 
 * Always save your mnemonic or private key.
 * Don’t use ctrl-c or copy when copying. Instead, use the built in function within wallets to copy your keys.

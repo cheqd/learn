@@ -10,7 +10,7 @@ In addition, as a native bridge, the value of tokens on the destination chain an
 
 Finally, we also saw the bridge as a powerful way to ensure having a token on another chain doesn’t fracture liquidity like wrapped tokens through a custodian would do.
 
-## Potential issues identified <a href="#e393" id="e393"></a>
+## Potential issues identified
 
 One of the issues that was raised with the Gravity Bridge is down to the upgrade process. Given the team’s warranted focus on simplicity, it has led to the Solidity contract (gravity.sol) being non-upgradeable, whereas the other bridges can be upgraded by multi-sig wallets. This means the validators and their delegators are completely in control of the Gravity Bridge, and no one else can change the code.
 
