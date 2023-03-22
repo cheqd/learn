@@ -10,7 +10,7 @@ Self-Sovereign Identity (SSI) will replicate some of these models, destroy other
 
 Creating entirely new models is what we at **cheqd** are truly excited about, through utilising its network and $CHEQ.
 
-## Identity flows <a href="#841c" id="841c"></a>
+## Identity flows
 
 The full gamut of commercial models for identity flows are first easiest to break down by the number of parties involved and the flow of information (abstracting some of the complexities in the background):
 
@@ -24,27 +24,27 @@ _We know there are many other possible models, please do let us know in comments
 
 While the number of parties involved in an exchange is an important aspect, commercial models for digital identity can also be categorised based on the pricing construct applied between the parties involved in digital identity exchange.
 
-## Paid for by the individual / company (or the “identity subject”) <a href="#c921" id="c921"></a>
+## Paid for by the individual / company (or the “identity subject”)
 
-### Free <a href="#ea1d" id="ea1d"></a>
+### Free
 
 [Free, as in beer](https://www.wired.com/2006/09/free-as-in-beer/), to the individual. This is a credential that is given to an individual or company without any money changing hands.
 
 _An example of this would be a tax registration number or Social Security Number, which an individual or a company can get without paying anything._
 
-### Freemium <a href="#3f07" id="3f07"></a>
+### Freemium
 
 Most interactions are free, but some are paid.
 
 _An example of this would be a university degree, where the original degree is provided for no additional cost (beyond tuition fees), but additional copies of the degree need to be paid for._
 
-### Transactional <a href="#a7b6" id="a7b6"></a>
+### Transactional
 
 The issuer is paid per issuance or verification.
 
 _An example of this would be a passport application, where the applicant pays a one-time fee to the passport office to acquire the latest valid document._
 
-### Data mining <a href="#82a5" id="82a5"></a>
+### Data mining
 
 The interactions an individual/company has with an organisation is recorded, with the metadata and behaviour used to create weak identity profiles. The interactions _appear_ free to the individual or company, but their identity profile is monetised by selling inferences to other companies.
 
@@ -54,9 +54,9 @@ _An example of this is_ [_programmatic targeted advertising_](https://en.wikiped
 
 > _With targeted advertising, “You’re not the customer, you’re the product.”_
 
-## Paid by verifying organisation(s), free for individual/company <a href="#7102" id="7102"></a>
+## Paid by verifying organisation(s), free for individual/company
 
-### Direct relationship with one organisation <a href="#f0c6" id="f0c6"></a>
+### Direct relationship with one organisation
 
 An individual or company provides identity attributes to an organisation that needs to verify them. The organisation in turn bears the costs of the checks or pays someone else to do it.
 
@@ -70,7 +70,7 @@ This model can be further extended bases on what _pricing basis_ is the verifyin
 * **Tiered subscriptions**: Verifying organisations pay fees in blocks based on usage
 * **All-you-can-eat**: Verifying organisations pay a single fee regardless of how many ID verification checks they carry out.
 
-### Mutualised costs across multiple organisations <a href="#7b55" id="7b55"></a>
+### Mutualised costs across multiple organisations
 
 The cost of carrying out identity verification is split across the benefiting organisations, either equally or in proportion to use. This is often an extension of the direct model above.
 
@@ -78,7 +78,7 @@ _An example of this would be a consortium like BankID in Sweden, where the cost 
 
 _Another example of this how_ [_credit bureaus_](https://en.wikipedia.org/wiki/Credit\_bureau) _such as_ [_Experian_](https://www.experianplc.com/)_,_ [_Equifax_](https://www.equifax.com/)_,_ [_TransUnion_](https://www.transunion.com/) _pool together information from financial instiutions, but then re-sell the transformed data to other companies._
 
-## The missing individual <a href="#744a" id="744a"></a>
+## The missing individual
 
 In each of the models above, there are organisations doing work to check identity attributes. The outcome of this is they add the weight of their authority, which is valuable to an individual/company. Each of the models above has a set of advantages and trade-offs, whether it be in cost, efficiency, privacy, or security. There is tremendous value in this variety of models by aligning incentives for those involved.
 
@@ -88,7 +88,7 @@ Many further axes could be applied to the models above. One, in particular, we w
 
 Costs that are considered affordable in one country can be extortionate in others. Even within a country, affordability and access to verified identity may be prohibitive for disadvantaged demographics. The unfortunate consequence is exclusion due to a lack of verified identity that impacts large parts of society.
 
-## The virtuous flywheel for the trusted digital identity <a href="#628b" id="628b"></a>
+## The virtuous flywheel for the trusted digital identity
 
 Self-sovereign identity is a powerful transformational force that changes the balance of power in the favour of identity subjects (individuals/companies). Any commercial models for SSI needs to reward the identity subjects for participation, increase inclusion through easier access, and disincentive undesirable data sharing behaviours.
 
@@ -111,7 +111,7 @@ We believe this will create a **virtuous flywheel for self-sovereign identity gr
 
 _(N.B. We acknowledge we are using an analogy from Amazon here. While we do not necessarily agree with Amazon’s corporate stance on some issues, we do believe this is a useful analogy to explain how **cheqd**’s commercial model for self-sovereign identity will increase SSI adoption and growth. In the diagram, we use SSI as a catch-all to include verifiable credentials.)_
 
-## Our approach to building a viable self-sovereign identity token network <a href="#43bc" id="43bc"></a>
+## Our approach to building a viable self-sovereign identity token network
 
 We are frequently asked for a simple description of our tokenomics model for the **cheqd** network, but this ignores the complexity of how something deeply personal as identity is exchanged between different parties today. Hopefully, our explanation of the commercial models for digital identity will give a flavour for how diverse the interactions are.
 
