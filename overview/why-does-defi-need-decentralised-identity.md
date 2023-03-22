@@ -10,25 +10,23 @@ Within the Crypto and DeFi space, SSI enables peer-to-peer (P2P) transactions. O
 
 ### CeDeFi and SSI as Continuums
 
-![](https://cdn-images-1.medium.com/max/2400/0\*axz57ijoG5yclQnS)
+![CeDeFi](../.gitbook/assets/CeDeFi.jpg)
 
 A [Continuum can be defined as a](https://en.wikipedia.org/wiki/Continuum\_\(measurement\)) model that gradually transitions from one condition to another without abrupt changes: a seamless, natural progression between states. Now, as we move into a world of Web 3.0, continuums are becoming increasingly important. It may even be possible to argue that the goal of Web 3.0 is one single continuum.
 
 Rather than distinct, standalone ecosystems, Centralised Finance (CeFi) and Decentralised Finance (DeFi) exist on a spectrum, and they are becoming a continuum of one another. [CeDeFi](https://www.nasdaq.com/articles/cedefi-what-it-is-and-why-it-matters), for example, was first coined as a term by Changpeng “CZ” Zhao, CEO of Binance, on the advent of Binance Smart Chain, to describe this coalescence.
 
-![Cryptocurrency transfer split for Central, Northern and Western Europe between CEXs and DEXs](https://cdn-images-1.medium.com/max/2400/0\*6SnRuR5xz8UWS081)
+![Cryptocurrency transfer split for Central, Northern and Western Europe between CEXs and DEXs](../.gitbook/assets/Crypto%20services%20volume.png)
 
-Similarly, identity can be modelled as a continuum, from centralised systems, like Identity & Access Management (I\&AM) and Customer Relationship Management (CRM), through Federated systems, e.g. login with Facebook or Google, to decentralised or self-sovereign identity (SSI), e.g. cheqd, Lissi or IATA travelpass.
+Similarly, identity can be modelled as a continuum, from centralised systems, like Identity & Access Management (I\&AM) and Customer Relationship Management (CRM), through Federated systems, e.g. login with Facebook or Google, to decentralised or self-sovereign identity (SSI), e.g. cheqd, Lissi or IATA Travel Pass.
 
 What we are seeing now is, like two coalescing bubbles, a convergence between DeFi and CeFi in one bubble, and Centralised identity and Decentralised Identity in another. Creating a continuum and symbiotic relationship between the transitioning finance and identity worlds. This can best be seen by the flow of European institutional funds, e.g. pension funds, into DeFi.
 
-![](https://cdn-images-1.medium.com/max/2400/0\*0xEH3f\_UEWGqojCh)
+![Bubbles combining](../.gitbook/assets/Bubbles%20combine.png)
 
-Combining these continuums into a grid, it is then possible to position protocols, with most of the current DeFi protocols naturally falling into pseudonymous but DeFi area and traditional finance (TradFi) into centralised identity and CeFi (duh!).
+Combining these continuum into a grid, it is then possible to position protocols, with most of the current DeFi protocols naturally falling into pseudonymous but DeFi area and traditional finance (TradFi) into centralised identity and CeFi (duh!).
 
-![](https://cdn-images-1.medium.com/max/2400/0\*R3Xx6CqDufunGHNL)
-
-***
+![Competitive matrix of cheqd vs others](../.gitbook/assets/Market%20competitors%20matrix.png)
 
 ### The Continuum Catalyst
 
@@ -48,13 +46,13 @@ The most commonly cited identity requirement on CeFi and DeFi is the Financial A
 
 For Exchanges, as an example, the following information is required:
 
-![Image credit to Notabene](https://cdn-images-1.medium.com/max/2400/0\*O3qxSqPMzCyLGIIg)
+![Information needed for KYC](../.gitbook/assets/KYC%20info%20needed.png)
+
+*Image credit: [Notabene](https://notabene.id/)*
 
 Owing to this requirement, the identity continuum has been viewed as a trade-off between privacy and regulatory compliance, e.g. full anonymity or pseudonymity would not meet the Travel Rule requirements. Yet, while this may seem binary at first thought, i.e. data is either provided or not, we are starting to see innovations creating different ways of achieving this data sharing without directly compromising user privacy.
 
 While the likes of[Aave ARC](https://cointelegraph.com/news/aave-launches-its-permissioned-pool-aave-arc-with-30-institutions-set-to-join) have used centralised solutions to achieve this, there is a movement towards decentralised or SSI solutions across both individual and corporate identity. The likes of [Notabene](https://notabene.id/), [Centre](https://www.centre.io/), [Bloom](https://bloom.co/) and [Shyft](https://www.shyft.network/) are already looking into how to reuse KYC’d data, through Self-Sovereign Identity and the interplay between Verifiable Credentials (VCs) and Decentralised Identifiers (DIDs) to enable access to VASPs without compromising user privacy. Similarly, Coinbase, Circle, Anchorage and Robinhood have formed the [TRUST](https://decrypt.co/93027/major-crypto-companies-announce-plan-money-laundering-privacy) consortium to tackle the same issue in a privacy preserving way.
-
-***
 
 ### cheqd, eIDAS and the Travel Rule
 
@@ -62,11 +60,9 @@ There is an emerging overlap between the amendments to the European Identificati
 
 eIDAS was a Regulation that came into force in 2016 to create a more seamless way of identifying, authenticating and verifying people and businesses in a cross-border setting. It enables organisations to rely on digital signatures and proofs, rather than solely on physical documentation. Recently however, there has been a push within the European ecosystem to extend the scope of eIDAS to incorporate Verifiable Credentials into the remit of the eIDAS model, through initiatives such as [eIDAS Bridge](https://joinup.ec.europa.eu/collection/ssi-eidas-bridge/about).
 
-Through an updated eIDAS framework, the sharing of Verifiable Credentials and Verifiable Presentations will satisfy legal requirements for KYC checks and identity checks, even in regulated industries such as financial services. Consequently, this presents a very real opportunity for DeFi protocols seeking regulatory compliance to skip centralised or federated systems, keeping their decentralised ethos whilst protecting their user’s privacy.&#x20;
+Through an updated eIDAS framework, the sharing of Verifiable Credentials and Verifiable Presentations will satisfy legal requirements for KYC checks and identity checks, even in regulated industries such as financial services. Consequently, this presents a very real opportunity for DeFi protocols seeking regulatory compliance to skip centralised or federated systems, keeping their decentralised ethos whilst protecting their user’s privacy.
 
 There is a further incentive for DeFi, as identity is key to preventing the proceeds of crime flowing in the financial systems. The pseudo-anonymous nature of DeFi creates an adversarial environment where cheating others is widespread, as seen for example, by front-running or [wash trading](https://commonwealth.im/osmosis/discussion/3758-handling-incentive-allocation-on-smaller-pools). By establishing identity it becomes possible to ascertain who is indulging in the adverse behaviour and remedies can be made. Thus by regulating DeFi through technical accountability, it gives greater confidence to prospective investors and opens DeFi to wider adoption.
-
-***
 
 ### How does this work?
 
@@ -74,18 +70,17 @@ Since only one of: physical address, national identity number, customer identity
 
 We have laid out how this works in the diagram and steps below:
 
-![](https://cdn-images-1.medium.com/max/2400/0\*5vpn2BcdMuWT3l4m)
+![Example KYC user journey steps on cheqd](../.gitbook/assets/KYC%20user%20journey%20steps.png)
 
-1. If the DeFi protocol supports it, anyone institution (or individual) can create a pool or contract with defined KYC requirements. These KYC requirements could range from:\
-   \
-   a. Blacklisting to prevent certain geographies participating;\
-   b. Full checks of documents;\
-   c. Zero-knowledge proof checks for certain criteria.
+1. If the DeFi protocol supports it, anyone institution (or individual) can create a pool or contract with defined KYC requirements. These KYC requirements could range from:
+   1. Blacklisting to prevent certain geographies participating
+   2. Full checks of documents
+   3. Zero-knowledge proof checks for certain criteria.
 2. An institution (or individual) will need to receive a Verifiable Credential for going through a normal KYC process once, likely with a reputable VASP, or trusted entity such as a bank, law firm, insurance company etc.
 3. The institution (or individual) will be issued a secure, verified digital version of their KYC’d data, like a certificate of incorporation, or for individuals, a passport or driver’s licence (in the form of a Verifiable Credential).
 4. As part of interacting with the DeFi protocol’s pool, the institution (or individual) is required to fulfil the KYC criteria. And, since the data in a Verifiable Credential is, by its very nature, verifiable and certified, it can be checked extremely quickly to avoid introducing more barriers.
 5. The institution (or individual) will present a Verifiable Credential for their name, wallet address and customer identification number from the VASP to the DeFi pool.
-6. Assuming they fulfil the requirements, the institution (or individual) can interact with the pool. Other institutions (or individuals) which do not provide sufficient KYC data in the form of Verifiable Credentials, will not be able to access the pool.&#x20;
+6. Assuming they fulfil the requirements, the institution (or individual) can interact with the pool. Other institutions (or individuals) which do not provide sufficient KYC data in the form of Verifiable Credentials, will not be able to access the pool.
 7. Depending on the policy, the pool may make use of Zero-Knowledge Proofs (ZKPs), see below.
 
 ### Zero-knowledge proofs
@@ -115,8 +110,6 @@ We would also like to state that while this architecture is possible, it does no
 However, it provides a template for any protocol to implement this approach (if they wish and see demand) without having to recreate the architecture.
 
 The key is that as regulation is applied or regulatory compliant DeFi becomes a larger sector, we do not create more data silos and we want to maintain privacy as far as possible.
-
-***
 
 ### Coalescing
 

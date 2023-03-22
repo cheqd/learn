@@ -1,6 +1,6 @@
 # 🪙 Introduction to $CHEQ
 
-## Introduction to $CHEQ
+## Background
 
 Before reading this page, please familiarise yourself with the page:
 
@@ -8,9 +8,7 @@ Before reading this page, please familiarise yourself with the page:
 [introduction-to-decentralised-identity](../introduction-to-decentralised-identity/)
 {% endcontent-ref %}
 
-cheqd is unique in that it provides a way for [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to be monetised using its native token, $CHEQ. **** There are various commercial models that may be created by using the cheqd network.&#x20;
-
-
+cheqd is unique in that it provides a way for [Verifiable Credentials](../introduction-to-decentralised-identity/what-is-a-verifiable-credential-vc/) to be monetised using its native token, $CHEQ. **** There are various commercial models that may be created by using the cheqd network.
 
 We will give the example of three distinct payment models:
 
@@ -18,24 +16,26 @@ We will give the example of three distinct payment models:
 * [Verifier pays holder](./#verifier-pays-holder)
 * [Verifier pays issuer](./#verifier-pays-issuer)
 
+## Payment models explained
+
 ### Holder pays issuer
 
 A holder could pay for Verifiable Credentials from an issuer. An instance where this could be useful is an individual paying for their education records or employment records, to be able to have a stronger CV.
 
-![](https://lh3.googleusercontent.com/euY3r0VssdWaGaCVBY4VhtxyYVvFwYEUJ-XU4dn9wWej0C9MtIsvFpE-V\_zFDBkAUxCGeNvY4dlZeahtTxVaEKRaKS\_AEyHRj-QyVTNi0JjbYW\_ZUhj5c6l97-yqhAdZSa3YfMNF)
+![Holder pays Issuer](../../.gitbook/assets/Holder%20pays%20Issuer.png)
 
-### **Verifier pays holder**
+### Verifier pays holder
 
 A verifier could pay a holder for sharing Verifiable Credentials. This may be an important use case where a company wants to receive extra preference data from a holder, and is willing to pay a fee for it because it is verifiable.
 
-![](https://lh5.googleusercontent.com/f0Ibl2DwBUDVa0HHrTAKnY8cIzH37swhi6y25ouDfPJHvht0RjQKoRR22RRJkzfMV44PQmDA0Oej1dR4sQqjkmLVdrjaq6acC2tDhZpxH2IY3KUeLGnxnTpZAnF1ZiAnNdRvy-bt)
+![Verifier pays Holder](../../.gitbook/assets/Verifier%20pays%20Holder.png)
 
-### **Verifier pays issuer**
+### Verifier pays issuer
 
-A verifier could pay the issuer for Verifiable Credentials it receives from the holder. This gives the issuer a recurring revenue stream each time the Credentials it issues need to be live-checked by the issuer.&#x20;
+A verifier could pay the issuer for Verifiable Credentials it receives from the holder. This gives the issuer a recurring revenue stream each time the Credentials it issues need to be live-checked by the issuer.
 
-The mechanism for this payment is through a revocation registry that the issuer establishes. The verifier will make a payment only if it wants to check whether the holder’s credentials have been revoked or not.&#x20;
+The mechanism for this payment is through a revocation registry that the issuer establishes. The verifier will make a payment only if it wants to check whether the holder’s credentials have been revoked or not.
 
 This is important to maintain privacy of the holder, preventing a correlation risk.
 
-![](https://lh3.googleusercontent.com/KQWeQAvWOB2luGzlLaPgmXqb4ChK2RV4084lJLCCq7E-Rb\_9v6ZyAgQb2RNoUWLKrL5D8Eg\_RIgQA62\_38q9AKTMqLfHYmQErN050Y-a27NVzznVJNqIX8DE2uKnmuuMJu4xmh92)
+![Verifier pays Issuer](../../.gitbook/assets/Verifier%20pays%20Issuer.png)

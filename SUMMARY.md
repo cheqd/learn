@@ -46,8 +46,7 @@
 * [🌐 Block explorers](getting-set-up-on-cheqd/block-explorers.md)
 * [🤲 How to stake](getting-set-up-on-cheqd/how-to-stake.md)
 * [🧑⚖ How to vote](getting-set-up-on-cheqd/how-to-vote.md)
-* [💦 Liquidity Pools](getting-set-up-on-cheqd/liquidity-pools/README.md)
-  * [💧 What is a Liquidity Pool?](getting-set-up-on-cheqd/liquidity-pools/what-is-a-liquidity-pool.md)
+* [💧 What is a Liquidity Pool?](getting-set-up-on-cheqd/liquidity-pools/README.md)
   * [🌊 How do liquidity pools work?](getting-set-up-on-cheqd/liquidity-pools/how-do-liquidity-pools-work.md)
   * [🚰 How to take part in a Liquidity Pool](getting-set-up-on-cheqd/liquidity-pools/how-to-take-part-in-a-liquidity-pool.md)
 * [🌉 CHEQ-ERC20 wrapped token](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/README.md)
@@ -59,3 +58,15 @@
   * [How to send tokens to Ethereum with Gravity Bridge](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/how-to-send-tokens-to-ethereum-with-gravity-bridge.md)
   * [How to add CHEQ tokens to UniSwap Liquidity Pools](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/how-to-add-cheq-tokens-to-uniswap-liquidity-pools.md)
   * [How to send CHEQ tokens from Ethereum to cheqd](getting-set-up-on-cheqd/cheq-erc20-wrapped-token/how-to-send-cheq-tokens-from-ethereum-to-cheqd.md)
+
+## ⚖️ Legal
+
+* [License](LICENSE.md)
+* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Security Policy](SECURITY.md)
+
+## 🆘 Support
+
+* [System Status](https://status.cheqd.net)
+* [Slack Channel](http://cheqd.link/join-cheqd-slack)
+* [Discord](http://cheqd.link/discord-github)

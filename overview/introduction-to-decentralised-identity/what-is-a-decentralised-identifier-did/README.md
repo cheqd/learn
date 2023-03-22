@@ -8,7 +8,7 @@ This definition is a bit complex and technical, so let's try and simplify it dow
 
 ## What is a DID?
 
-It is easy to think of DIDs as identifying something **in the same way as how a registration plate identifies a car**, and a car's owner.&#x20;
+It is easy to think of DIDs as identifying something **in the same way as how a registration plate identifies a car**, and a car's owner.
 
 To take an example, this is **James Bond's Aston Martin DB5**.
 
@@ -26,13 +26,13 @@ Similarly, a DID is a unique identifier, identifying the DID subject (a person, 
 did:cheqd:mainnet:zF7rhDBfUt9d1gJPjx7s1JXfUY7oVWkY
 {% endhint %}
 
-Both identifiers can be checked against a registry in order to provide verifiable information about the thing that the identifier is identifying.&#x20;
+Both identifiers can be checked against a registry in order to provide verifiable information about the thing that the identifier is identifying.
 
 The process for withdrawing the information from the DID is very similar to the license plate number: this will be expanded on in the section [How do you resolve a DID?](how-do-you-resolve-a-did.md)
 
 ### Why are these identifiers important?
 
-License plates and DIDs both give third parties a high degree of trust and confidence in who/what they are interacting with.&#x20;
+License plates and DIDs both give third parties a high degree of trust and confidence in who/what they are interacting with.
 
 To understand what we mean here, let's look at the following scenario:
 
@@ -50,7 +50,7 @@ This model uses the DVLA registry and the physical access/documentation about th
 2. James Bond's keys could be stolen
 3. James Bond's VC5 Logbook could be stolen or forged
 
-However, doing any of the above would not result in an ownership change on the DVLA registry.&#x20;
+However, doing any of the above would not result in an ownership change on the DVLA registry.
 
 Trust in Self-Sovereign Identity models works in a very similar way, where:
 
@@ -62,7 +62,7 @@ Trust in Self-Sovereign Identity models works in a very similar way, where:
 Of course, there is a lot of complexity here, so we will walk through each part in this learning documentation in simple terms.
 
 {% hint style="info" %}
-A DID is very similar to a car registration plate in the sense that it is a **unique identifier**, which if **resolved,** provides more information about the DID.&#x20;
+A DID is very similar to a car registration plate in the sense that it is a **unique identifier**, which if **resolved,** provides more information about the DID.
 {% endhint %}
 
 ### Understanding DIDs
@@ -90,8 +90,3 @@ For further reading on DIDs, you can read:
 {% content-ref url="what-is-a-did-method.md" %}
 [what-is-a-did-method.md](what-is-a-did-method.md)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-

@@ -10,10 +10,10 @@ description: We're making it easier for individuals and organisations to trust e
 
 <summary>Learn about cheqd</summary>
 
-* [What is cheqd?](broken-reference)
+* [What is cheqd?](overview/cheqd-101/README.md)
 * [Introduction to decentralised identity](overview/introduction-to-decentralised-identity/)
 * [Introduction to $CHEQ](overview/introduction-to-usdcheq/)
-* [Where to find $CHEQ](broken-reference)
+* [Where to find $CHEQ](getting-set-up-on-cheqd/where-to-find-usdcheq.md)
 * [Tokenomics](overview/tokenomics/)
 
 </details>
@@ -23,8 +23,8 @@ description: We're making it easier for individuals and organisations to trust e
 <summary>Validate on cheqd network</summary>
 
 * [cheqd Node Documentation](https://docs.cheqd.io/node)
-* [Setting up a new cheqd node](https://docs.cheqd.io/node/docs/setup-and-configure)
-* [Validator guide](https://docs.cheqd.io/node/docs/validator-guide)
+* [Setting up a new cheqd node](https://docs.cheqd.io/node/getting-started/setup-and-configure)
+* [Validator guide](https://docs.cheqd.io/node/validator-guides/validator-guide)
 
 </details>
 

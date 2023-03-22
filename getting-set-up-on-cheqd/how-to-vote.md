@@ -8,7 +8,7 @@ To view the active Governance Proposals, click the tab **"Proposals"** in the to
 
 ![cheqd OmniFlix dashboard showing proposals tab](<../.gitbook/assets/cheqd proposals tab.png>)
 
-You will be able to see all active Governance Proposals. If you click on the specific Proposal, you will be able to easily vote on it.&#x20;
+You will be able to see all active Governance Proposals. If you click on the specific Proposal, you will be able to easily vote on it.
 
 ![cheqd OmniFlix dashboard voting tab](<../.gitbook/assets/cheqd omniflix voting tab.png>)
 

@@ -16,19 +16,19 @@ Okay, stop there, let's simplify what this technical language means.
 
 #### A familiar concept: Email
 
-Let's imagine something we're all familiar with.&#x20;
+Let's imagine something we're all familiar with.
 
-Here's a classic email with some attachments.&#x20;
+Here's a classic email with some attachments.
 
-This is how most people are familiar with sending information about themselves digitally.&#x20;
+This is how most people are familiar with sending information about themselves digitally.
 
 ![Verifiable Credential and email comparison image](<../../../.gitbook/assets/Verifiable Credential email comparison.png>)
 
 I am sure everyone reading this has had to attach a photocopy of their passport to an email, in order to prove that they are who they claim to be. Or alternatively, has attached their CV to an email to prove their work and education records, either as a word document or PDF.
 
-The problem with this system, is that it is not currently possible to check the validity of an attachment sent via email. Word Documents, PDFs, JPEGs etc have no security features that allows a third party to check if they were legitimate or not.&#x20;
+The problem with this system, is that it is not currently possible to check the validity of an attachment sent via email. Word Documents, PDFs, JPEGs etc have no security features that allows a third party to check if they were legitimate or not.
 
-Let's take the example of the CV. You receive it as an attachment, you read it, and to check the validity you need to contact the references which are generally at the bottom of the CV to check whether this person really did all the things they claim to have done.&#x20;
+Let's take the example of the CV. You receive it as an attachment, you read it, and to check the validity you need to contact the references which are generally at the bottom of the CV to check whether this person really did all the things they claim to have done.
 
 This is time consuming, and frequently, owing to the lack of trust in these data formats, can be susceptible to fraud.
 
@@ -38,7 +38,7 @@ A Verifiable Credential is a digital file that stores data. However, importantly
 
 * **Claims**
 
-A claim is an attestation about something. It could say that "I went to Oxford University".&#x20;
+A claim is an attestation about something. It could say that "I went to Oxford University".
 
 * **Proofs**
 

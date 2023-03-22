@@ -1,7 +1,5 @@
 # AnonCreds
 
-
-
 {% hint style="info" %}
 _Much of the work in this page is influenced, iterated or directly replicated from_ [_Kaliya Young's_](https://identitywoman.net/about-kaliya/bio/) _excellent document on_ [_Verifiable Credential Flavors Explained_](https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf)_. We intend to give appropriate credit to this work, as expressed under a_ [_Creative Commons Attribution 4.0 International License_](https://creativecommons.org/licenses/by/4.0/)_._
 {% endhint %}
@@ -10,7 +8,7 @@ _Much of the work in this page is influenced, iterated or directly replicated fr
 
 AnonCreds are a **type** or **flavour** of Verifiable Credentials that were originally developed by the company [Evernym](https://www.evernym.com/), and were subsequently adopted by the [Sovrin Foundation](https://sovrin.org/) as part of the 'Indy' codebase that was contributed to [Hyperledger](https://www.hyperledger.org/), a [Linux Foundation](https://linuxfoundation.org/) project. This codebase was forked into the [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy) project for ledger code, [Hyperledger Ursa](https://www.hyperledger.org/use/ursa) for cryptographic libraries, and the ledger-agnostic Hyperledger Aries codebase for agent, wallet, and credentialing code.
 
-AnonCreds are now far more widely adopted, through organisations such as the [Government of British Colombia](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/credentials-for-people/), [IDunion](https://idunion.org/projekt/?lang=en) and the [IATA Travel Pass](https://www.evernym.com/travelpass/).
+AnonCreds are now far more widely adopted, through organisations such as the [Government of British Colombia](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/projects-overview/), [IDunion](https://idunion.org/projekt/?lang=en) and the [IATA Travel Pass](https://www.evernym.com/travelpass/).
 
 ### How are AnonCreds different to other Credential types?
 
@@ -38,9 +36,7 @@ AnonCreds have been the subject of heavy debate within the decentralized identit
 * **Scalability:** The use of ZKP-CL signatures, whilst certainly containing benefits from a privacy perspective, are very large files which can lead to inefficiencies when used at scale in production environments.
 * Hyperledger Indy has performance and scalability issues when it comes to running more than 25 nodes in terms of its throughput. Its method of revocation also generates very large files, which is very slow to compute in a low-latency environment.
 
-Nonetheless, many proponents of SSI contend that AnonCreds are still the most production-ready Credential types at this present instance. Certainly, AnonCreds are the only off-the-shelf Credential type that can provide privacy-preserving functionality such as predicate proofs, which is why, for example, Governments such as [BC-Gov](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/credentials-for-people/) are large proponents of AnonCreds.
-
-
+Nonetheless, many proponents of SSI contend that AnonCreds are still the most production-ready Credential types at this present instance. Certainly, AnonCreds are the only off-the-shelf Credential type that can provide privacy-preserving functionality such as predicate proofs, which is why, for example, Governments such as [BC-Gov](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/projects-overview/) are large proponents of AnonCreds.
 
 | CL-Signatures                 | Supported | Supported            |                                                                                                     |
 | ----------------------------- | --------- | -------------------- | --------------------------------------------------------------------------------------------------- |
@@ -49,5 +45,3 @@ Nonetheless, many proponents of SSI contend that AnonCreds are still the most pr
 | Credential definition         | Supported | Supported            | CL-CredDef as resource on ledger linked to a DID Document                                           |
 | Predicate proofs              | Supported | Supported            | Supported via SDKs                                                                                  |
 | Privacy preserving revocation | Supported | Supported            | Revocation Registry Definitions, indexes and Entries as resources on ledger linked to DID Documents |
-
-****

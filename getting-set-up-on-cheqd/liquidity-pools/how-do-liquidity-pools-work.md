@@ -6,11 +6,11 @@ description: A summary of the how liquidity pools work
 
 ## Overview
 
-In order for liquidity pools to function in the way that leads to the outcomes laid out in the previous page, i.e. greater decentralisation of projects and increasing liquidity, there are a number of key aspects worth understanding:&#x20;
+In order for liquidity pools to function in the way that leads to the outcomes laid out in the previous page, i.e. greater decentralisation of projects and increasing liquidity, there are a number of key aspects worth understanding:
 
-* token weighting;&#x20;
-* pricing;&#x20;
-* market-making functions;&#x20;
+* token weighting;
+* pricing;
+* market-making functions;
 * LP tokens.
 
 (much of the following is taken from the official documentation from [Osmosis Labs](https://osmosis.gitbook.io/o/basic-concepts/amm)).
@@ -41,9 +41,9 @@ When a user deposits assets into a Liquidity Pool, they receive LP tokens. These
 
 For example, if Pool #1 is the OSMO<>ATOM pool, users can deposit OSMO and ATOM tokens into the pool and receive back Pool1 share tokens. These tokens do not correspond to an exact quantity of tokens, but rather the proportional ownership of the pool. When users remove their liquidity from the pool, they get back the percentage of liquidity that their LP tokens represent.
 
-![](https://lh6.googleusercontent.com/PLQo6H2gnqgeO4cXmbKFl84D5WBomMOo-G\_SqLbrNHqVO5KzEZYK1pPVM9U3MMVsc4mb\_xPbXx3eqZ-TZzVH6dkdpw2GAHEAC\_uVXTUjqaugivJWIzd-I8JIutC-uT5Pi1arSTNP)
+![Osmosis - Liquidity Pool overview](../../.gitbook/assets/Osmosis%20-%20LP%20overview.png)
 
-![Source: Osmosis Labs docs](https://lh6.googleusercontent.com/CfODbSpiJuhFR9VY-AQrNb4kAiaP2\_D72tVaCtAnInoQX8jzs1A\_PpFs\_Z9h3JZsiIuC\_-fNOb\_UVR8mD3e\_CdB3tjb8Scp0rzIPSTlYmDCcLFY4e0em4sx\_Sd4Hm0GSFT0e917U)
+![Osmosis - Withdraw from liquidity pool](../../.gitbook/assets/Osmosis%20-%20LP%20withdraw.png)
 
 The collection of the mechanisms above is used to ensure liquidity pools are able to maintain a stable price and ultimately work as a traditional market maker would do.
 

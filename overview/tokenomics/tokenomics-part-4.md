@@ -10,7 +10,7 @@ _Tokenomics are typically documented and distributed via a dedicated whitepaper.
 
 ## TL;DR
 
-Tokenomics part four outlines measures to improve the tokenomic sustainability of the cheqd network. This is achieved through an increase in the network’s identity transaction pricing for DIDs and Resources (from gas price to more concrete dollar values) and the introduction of deflationary mechanisms in the form of burns. Essentially, the fee used for identity transactions will be split: a portion will go back to Validators and Delegators as block rewards, a portion will be burnt (destroyed) to reduce supply, and a portion will be designated to the Community Pool. **The exact weighing of this split is for **_**you**_**, the community, to decide**.
+Tokenomics part four outlines measures to improve the tokenomic sustainability of the cheqd network. This is achieved through an increase in the network’s identity transaction pricing for DIDs and Resources (from gas price to more concrete dollar values) and the introduction of deflationary mechanisms in the form of burns. Essentially, the fee used for identity transactions will be split: a portion will go back to Validators and Delegators as block rewards, a portion will be burnt (destroyed) to reduce supply, and a portion will be designated to the Community Pool. **The exact weighing of this split is for _you_, the community, to decide**.
 
 We are proposing to introduce two new mechanisms to the cheqd tokenomics:
 
@@ -103,11 +103,11 @@ In the first version of identity transaction pricing, we are achieving dollar pr
 
 ![inflation and deflation](../../.gitbook/assets/tokenomics-part-4-img-7.png)
 
-[_Genesis parameters_](https://github.com/cheqd/cheqd-node/blob/ante-impl/networks/mainnet/genesis.json)
+Read more on our [ADR on Genesis Parameters](https://docs.cheqd.io/node/architecture/adr-list/adr-005-genesis-parameters)
 
 ### Burn percentage
 
-As can be seen in the image above showing the genesis parameters which define the costs in $CHEQ, there is also a “burn\_factor” variable which sets the percentage of the tokens charged for identity transactions which will be directly burnt. This can be adjusted through on-ledger governance votes according to the cheqd community preferences.
+As can be seen in the image above showing the genesis parameters which define the costs in $CHEQ, there is also a “burn factor” variable which sets the percentage of the tokens charged for identity transactions which will be directly burnt. This can be adjusted through on-ledger governance votes according to the cheqd community preferences.
 
 ## Community and Governance
 
