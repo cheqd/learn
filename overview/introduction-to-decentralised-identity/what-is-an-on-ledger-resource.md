@@ -10,7 +10,7 @@ A **DID-Linked** **Resource** is a blob of information stored on-ledger, discove
 
 Many SSI resources such as schemas currently reference web URLs such as [Schema.org](https://schema.org/). Other areas where this can be issues are:
 
-* DID methods, such as [`did:web`](https://w3c-ccg.github.io/did-method-web/) and [`did:github`](https://github-did.com/), where trust is based on Web 2.0 infrastructure
+* DID methods, such as [`did:web`](https://w3c-ccg.github.io/did-method-web/) and [`did:github`](http://docs.github-did.com/), where trust is based on Web 2.0 infrastructure
 * Revocation lists maintained on servers, such as [Status List 2021](https://w3c-ccg.github.io/vc-status-list-2021/)
 
 If, for example, any of the infrastructure listed above was to experience downtime due to technical faults, a dDoS attack or a failure of a cloud hosting provider, this could hugely disrupt the proper use of Verifiable Credentials in a production environment.
