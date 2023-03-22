@@ -33,8 +33,6 @@ We currently have the slashing values to:
 
 These values may change over time through proposals that are voted on the network. You can read more about slashing [here](https://docs.cheqd.io/governance/tokenomics/slashing-explained).
 
-## What if I change my mind about a Node Operator? Is it possible to redelegate or unbond from a Node Operator? <a href="#69e6" id="69e6"></a>
+## What if I change my mind about a Node Operator? Is it possible to redelegate or unbond from a Node Operator?
 
 Yes, it is possible to instantly **redelegate** to a new Node Operator; however, you cannot ‘hop’ between Node Operators quickly. You must complete your redelegation to a Node Operator before moving again. If you want to completely withdraw and **unbond** your tokens, you need to be mindful that this process takes **two weeks** for the tokens to become available for use again. This **unbonding period** is an example of a parameter, which can be adjusted by the Governance Framework process.
-
-\
