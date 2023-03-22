@@ -24,7 +24,7 @@ A DID at face value is a URL, which has the following composition:
 
 ![DID URL syntax and composition](<../../../.gitbook/assets/DID URL syntax.png>)
 
-cheqd has multiple implementations of a DID Resolver, and for more technical information you can look at our [Architecture Decision Record](https://github.com/cheqd/cheqd-node/blob/adr-did-resolver/architecture/adr-list/adr-010-did-resolver.md).
+cheqd has multiple implementations of a DID Resolver, and for more technical information you can look at our [Architecture Decision Record on DID Resolver](https://docs.cheqd.io/identity/architecture/adr-list/adr-003-did-resolver).
 
 One common implementation of a DID Resolver is through hosting a DID Resolver on the [**Universal Resolver**](https://dev.uniresolver.io/).
 
