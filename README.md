@@ -43,9 +43,9 @@ description: We're making it easier for individuals and organisations to trust e
 
 <summary>cheqd Governance Framework</summary>
 
-* [Contributing to cheqd](https://gov.cheqd.io/contributing/contributing)
-* [How to vote](https://gov.cheqd.io/contributing/how-do-i-vote-practically)
-* [cheqd Governance Principles](https://gov.cheqd.io/principles/principles)
+* [Contributing to cheqd](https://docs.cheqd.io/governance/participating-in-governance/contributing)
+* [How to vote](https://docs.cheqd.io/governance/participating-in-governance/voting)
+* [cheqd Governance Principles](https://docs.cheqd.io/governance/governance-principles/principles)
 * [cheqd Governance Forum](https://commonwealth.im/cheqd)
 
 </details>

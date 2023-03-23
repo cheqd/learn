@@ -22,7 +22,7 @@ Node Operators might exhibit bad behaviour on the Network and, as a result, have
 
 Bad behaviour in this context usually means that the Node Operator has not signed a sufficient number of blocks as ‘pre commits’ over a certain period of time. This could be due to inactivity or potential malicious intent.
 
-For example in June 2019, CosmosPool a former Cosmos validator experienced a server outage on their main node; downtime that resulted in its validator being temporarily jailed and its stake being slashed by 0.01%, including that of its delegators. This was what’s call a downtime slashing incident (soft slashing) whereby the validator and delegators were punished for downtime proportionally to their stake on the network ([JohnnieCosmos](https://johnniecosmos.medium.com/what-you-need-to-know-when-staking-on-the-cosmos-ecosystem-e6fc13a1b0e3)). On top of this, further slashing later occurred as evidence was found of double block signing. Both CosmosPool AND the delegators’ stakes were slashed an additional 5% and the validator was permanently removed (‘tombstoned’).
+For example in June 2019, CosmosPool a former Cosmos validator experienced a server outage on their main node; downtime that resulted in its validator being temporarily jailed and its stake being slashed by 0.01%, including that of its delegators. This was what’s call [a downtime slashing incident (soft slashing) whereby the validator and delegators were punished for downtime proportionally to their stake](https://p2p.org/economy/slashing-overview-in-cosmos-network/) on the network. On top of this, further slashing later occurred as evidence was found of double block signing. Both CosmosPool AND the delegators’ stakes were slashed an additional 5% and the validator was permanently removed (‘tombstoned’).
 
 Slashing can therefore certainly affect your delegated and bonded tokens, so it is important to consider your choice.
 
@@ -31,7 +31,7 @@ We currently have the slashing values to:
 * **5% slashed** for double signing
 * **1% slashed** for downtime (getting jailed)
 
-These values may change over time through proposals that are voted on the network. You can read more about slashing [here](https://docs.cheqd.io/governance/tokenomics/slashing-explained).
+These values may change over time through proposals that are voted on the network. You can read more about slashing [here](https://docs.cheqd.io/governance/learning-the-basics/validators/slashing).
 
 ## What if I change my mind about a Node Operator? Is it possible to redelegate or unbond from a Node Operator?
 
