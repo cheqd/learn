@@ -31,7 +31,7 @@ We currently have the slashing values to:
 * **5% slashed** for double signing
 * **1% slashed** for downtime (getting jailed)
 
-These values may change over time through proposals that are voted on the network. You can read more about slashing [here](https://docs.cheqd.io/governance/tokenomics/slashing-explained).
+These values may change over time through proposals that are voted on the network. You can read more about slashing [here](https://docs.cheqd.io/governance/learning-the-basics/validators/slashing).
 
 ## What if I change my mind about a Node Operator? Is it possible to redelegate or unbond from a Node Operator?
 
