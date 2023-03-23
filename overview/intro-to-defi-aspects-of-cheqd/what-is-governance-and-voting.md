@@ -14,7 +14,7 @@ Participant voting power = delegated tokens (if a participant chooses to vote)
 
 ## What if I want to vote unilaterally, i.e. without a Node Operator/Validator?
 
-If you are particularly interested or passionate about a specific governance proposal or do not agree with your bonded Node Operator, it is absolutely possible to vote unilaterally. However, you must still have delegated tokens, bonded with a Node Operator to do so. To do this, follow the instructions in the section [Voting on cheqd](https://docs.cheqd.io/governance/contributing/how-do-i-vote-practically).
+If you are particularly interested or passionate about a specific governance proposal or do not agree with your bonded Node Operator, it is absolutely possible to vote unilaterally. However, you must still have delegated tokens, bonded with a Node Operator to do so. To do this, follow the instructions in the section [Voting on cheqd](https://docs.cheqd.io/governance/participating-in-governance/voting).
 
 ## Can Participants earn tokens?
 
