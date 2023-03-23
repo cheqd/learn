@@ -153,7 +153,7 @@ _This document sets out the aims and intentions of the core cheqd team for the p
 
 _**cheqd Governance**_
 
-_Integral to cheqd is the concept of decentralised Governance, explained in full detail in our_ [_Governance Framework_](http://docs.cheqd.io/governance)_. This is important because the content of the cheqd tokenomics and this distribution document are subject to change if the governance mechanism opts to make_ [_Major Network Changes_](https://docs.cheqd.io/governance/contributing/major-network-changes)_. Such governance decisions are outside of the direct control of the core team. As such, changes may affect (among other things) the token ($CHEQ) price , the specifics of token distribution and the network parameters._
+_Integral to cheqd is the concept of decentralised Governance, explained in full detail in our [Governance Framework](http://docs.cheqd.io/governance). This is important because the content of the cheqd tokenomics and this distribution document are subject to change if the governance mechanism opts to make [Major Network Changes](https://docs.cheqd.io/governance/participating-in-governance/major-network-changes). Such governance decisions are outside of the direct control of the core team. As such, changes may affect (among other things) the token ($CHEQ) price , the specifics of token distribution and the network parameters._
 
 _**Legal Uncertainty as a Risk Factor**_
 
