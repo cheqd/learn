@@ -35,7 +35,7 @@ description: We're making it easier for individuals and organisations to trust e
 * [Product Overview](https://product.cheqd.io/)
 * [Interactive roadmap](https://sharing.clickup.com/6600954/tl/h/69e7u-8222/6f126b298e224c8)
 * [Technical identity documentation](https://docs.cheqd.io/identity)
-* [Building using the Veramo SDK for cheqd](https://docs.cheqd.io/identity/building-decentralized-identity-apps/veramo-sdk-for-cheqd)
+* [Building using the Veramo SDK for cheqd](https://docs.cheqd.io/identity/guides/sdk/veramo-sdk-for-cheqd)
 
 </details>
 
