@@ -133,4 +133,4 @@ If you rather watch a video about our tokenomics, _cheq_ out our webinar below.
 
 > [cheqd Tokenomics Webinar](https://www.youtube.com/watch?v=KYs5QjRbDBs)
 
-You can also [download the cheqd Tokenomics slides here](https://cheqd.io/hubfs/Documents/cheqd-Tokenomics_deck-Webinar_Sharing.pdf).
+You can also [download the cheqd Tokenomics slides here](../../.gitbook/assets/cheqd-Tokenomics_deck-Webinar_Sharing.pdf).
