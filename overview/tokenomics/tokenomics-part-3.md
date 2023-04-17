@@ -1,4 +1,4 @@
-# 3⃣ Tokenomics: Part 3
+# Tokenomics: Part 3
 
 {% hint style="info" %}
 **Note:** _Despite the document below detailing out the payment models we are building, we are not trying to impose a single business model on everyone, we believe all ecosystems need to have their own choice in what works best for them. The tooling and patterns will be made available to the SSI community to use as they see fit, allowing for a mix of free and paid credentials._

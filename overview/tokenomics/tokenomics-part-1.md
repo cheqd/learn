@@ -1,4 +1,4 @@
-# 1⃣ Tokenomics: Part 1
+# Tokenomics: Part 1
 
 ## Summary
 

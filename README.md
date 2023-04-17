@@ -30,12 +30,21 @@ description: We're making it easier for individuals and organisations to trust e
 
 <details>
 
+<summary>Technical Identity Documentation</summary>
+
+* [Decentralized Identifiers](https://docs.cheqd.io/identity/tutorials/did-operations)
+* [Verifiable Credentials](https://docs.cheqd.io/identity/tutorials/credentials-and-presentations)
+* [DID-Linked Resources](https://docs.cheqd.io/identity/tutorials/did-linked-resources)
+* [SDK guide](https://docs.cheqd.io/identity/guides/sdk)
+
+</details>
+
+<details>
+
 <summary>cheqd Product</summary>
 
 * [Product Overview](https://product.cheqd.io/)
 * [Interactive roadmap](https://sharing.clickup.com/6600954/tl/h/69e7u-8222/6f126b298e224c8)
-* [Technical identity documentation](https://docs.cheqd.io/identity)
-* [Building using the Veramo SDK for cheqd](https://docs.cheqd.io/identity/guides/sdk/veramo-sdk-for-cheqd)
 
 </details>
 

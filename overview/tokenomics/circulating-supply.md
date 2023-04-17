@@ -1,4 +1,4 @@
-# 🔵 Circulating Supply Explained
+# Circulating Supply Explained
 
 ## cheqd Circulating Supply Explained
 

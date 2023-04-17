@@ -1,4 +1,4 @@
-# 4️⃣ Tokenomics: Part 4
+# Tokenomics: Part 4
 
 ## Identity network transaction pricing
 
