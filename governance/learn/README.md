@@ -6,7 +6,7 @@ The world of Decentralised Finance (DeFi) can be daunting for newcomers. Documen
 
 Begin familiarising yourself with some of the language and concepts used in this space, below:
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Core concepts</strong></mark></td><td>Learn about the core concepts regarding how the $CHEQ token is utilised in governance.</td></tr><tr><td><mark style="color:blue;"><strong>Terminology</strong></mark></td><td>Learn about the terminology that is applied to this governance framework.</td></tr><tr><td><mark style="color:blue;"><strong>Glossary</strong></mark></td><td>Discover sector-specific words and language to guide your learning journey,</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Core concepts</strong></mark></td><td>Learn about the core concepts regarding how the $CHEQ token is utilised in governance.</td><td><a href="concepts/">concepts</a></td></tr><tr><td><mark style="color:blue;"><strong>Terminology</strong></mark></td><td>Learn about the terminology that is applied to this governance framework.</td><td><a href="terminology.md">terminology.md</a></td></tr><tr><td><mark style="color:blue;"><strong>Glossary</strong></mark></td><td>Discover sector-specific words and language to guide your learning journey,</td><td><a href="glossary.md">glossary.md</a></td></tr></tbody></table>
 
 ## Network parameters
 
