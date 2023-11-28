@@ -80,6 +80,7 @@
 * [License](LICENSE.md)
 * [Code of Conduct](CODE\_OF\_CONDUCT.md)
 * [Security Policy](SECURITY.md)
+* [Legal Disclaimer](legal/legal-disclaimer.md)
 
 ## 🆘 Support
 
