@@ -1,3 +1,7 @@
+---
+description: Learn about the prices for writing DIDs and DLRs to cheqd
+---
+
 # ✍ Identity writes
 
 At a basic level, the CHEQ token is used to pay identity writes on the cheqd network. This functionality is made available through custom modules built by cheqd for DIDs and DID-Linked Resources.

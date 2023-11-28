@@ -1,3 +1,7 @@
+---
+description: Understand how $CHEQ is used for payments for verifiable credentials
+---
+
 # ♻ Credential Payments
 
 ## Payment models explained

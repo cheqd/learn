@@ -6,7 +6,7 @@ description: Learn about how Decentralised Identifiers function.
 
 In order to explain the concept of DIDs, we have put together a simple explanation using an analogy of a car and its license plate.&#x20;
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>What is a DID?</strong></mark></td><td>Here, we explain how DIDs work using a simple analogy: a car and its license plate.</td><td><a href="../../.gitbook/assets/James Bond DB5.png">James Bond DB5.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>What is a DID?</strong></mark></td><td>Here, we explain how DIDs work using a simple analogy: a car and its license plate.</td><td><a href="what-is-a-did.md">what-is-a-did.md</a></td><td><a href="../../.gitbook/assets/James Bond DB5.png">James Bond DB5.png</a></td></tr></tbody></table>
 
 ## Further reading
 

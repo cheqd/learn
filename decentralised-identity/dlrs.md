@@ -1,3 +1,7 @@
+---
+description: Learn about digital resources written on cheqd
+---
+
 # What are DID-Linked Resources?
 
 cheqd has built a **Resources Module** to extend the functionality of our decentralised identity network, providing capabilities not found on other self-sovereign identity networks.
