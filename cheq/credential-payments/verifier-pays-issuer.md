@@ -1,0 +1,3 @@
+# Verifier pays issuer
+
+\<todo>
