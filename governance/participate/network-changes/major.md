@@ -18,7 +18,7 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Tree diagram showing when to use on-chain and off-chain governance](<../../../.gitbook/assets/How to compare GitBook changes.png>)
+![Tree diagram showing when to use on-chain and off-chain governance](<../../../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
 
 ## Proposals
 
@@ -63,7 +63,6 @@ You may also want to rationalise your idea, or ask your question to the wider co
 
 1. [cheqd Telegram](https://t.me/cheqd)
 2. [cheqd Discord](https://discord.gg/AxwbG9pCMM)
-3. [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
 Engagement is likely to be critical to the success of a proposal. The degree to which you engage with the cheqd community should be relative to the potential impact that your proposal may have on the Network.
 

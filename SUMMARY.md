@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [♟ What is cheqd?](getting-started/cheqd.md)
+* [♟️ What is cheqd?](getting-started/cheqd.md)
 * [✋ What is Creds?](getting-started/creds.md)
 
 ## Decentralised Identity
@@ -34,8 +34,8 @@
   * [Tokenomics: Part 4](cheq/tokenomics/part-4.md)
   * [Circulating Supply Explained](cheq/tokenomics/circulating-supply.md)
   * [Network Parameters](cheq/tokenomics/parameters.md)
-* [✍ Identity writes](cheq/identity-writes.md)
-* [♻ Credential Payments](cheq/credential-payments/README.md)
+* [✍️ Identity writes](cheq/identity-writes.md)
+* [♻️ Credential Payments](cheq/credential-payments/README.md)
   * [Holder pays Issuer](cheq/credential-payments/cheqd-use-case-examples.md)
   * [Verifier pays issuer](cheq/credential-payments/verifier-pays-issuer.md)
 
@@ -54,7 +54,7 @@
     * [Validating](governance/learn/concepts/validating.md)
     * [Voting](governance/learn/concepts/voting.md)
     * [Community Pool](governance/learn/concepts/community-pool.md)
-  * [✏ Terminology](governance/learn/terminology.md)
+  * [✏️ Terminology](governance/learn/terminology.md)
   * [📖 Glossary](governance/learn/glossary.md)
 * [🍍 How to Participate](governance/participate/README.md)
   * [How to stake](governance/participate/stake.md)

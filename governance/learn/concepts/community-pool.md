@@ -6,7 +6,7 @@ cheqd will launch with community-spend capabilities, allowing CHEQ [Participants
 
 The community pool value is accumulated over time.
 
-2% of all staking rewards generated (via block rewards & transaction fees) are continually transferred to and accrue within the Community Pool.
+**10%** of all staking rewards generated (via block rewards & transaction fees) are continually transferred to and accrue within the Community Pool.
 
 ### What is the balance of the Community Pool?
 
