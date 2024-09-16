@@ -8,7 +8,7 @@
 
 Jane Doe has recently completed her university degree at Bright University. She wants to receive a digital, verifiable and certifiable copy of her diploma to apply for a prospective job.
 
-In order for this to happen, first Bright University needs to register their [Decentralised Identifier (DID)](broken-reference) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, Bright University anchor their [DID](broken-reference) to cheqd, using the cheqd DID method.
+In order for this to happen, first Bright University needs to register their [**Decentralised Identifier (DID)**](../../decentralised-identity/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, Bright University anchor their DID to cheqd, using the cheqd DID method.
 
 ![University anchors DID to cheqd mainnet](<../../.gitbook/assets/Jane Doe - Issuer anchors DID.png>)
 
@@ -66,7 +66,7 @@ The technology company is now satisfied and progresses Jane to the next phase of
 
 John Smith is a gamer who has built a substantial in-game profile for game developer's, Digiplay, latest metaverse game. John wants to receive a verifiable copy of his in game assets, which he can hold ownership of, unilaterally, in his digital data wallet, in order to port these assets over to a new game made by MetaZap.
 
-In order for this to happen, first DigiPlay needs to register their [Decentralised Identifier (DID)](broken-reference) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, DigiPlay anchors their [DID](broken-reference) to cheqd mainnet, using the cheqd DID method.
+In order for this to happen, first DigiPlay needs to register their [**Decentralised Identifier (DID)**](../../decentralised-identity/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, DigiPlay anchors their DID to cheqd mainnet, using the cheqd DID method.
 
 ![DigiPlay anchors DID to cheqd mainnet](<../../.gitbook/assets/John Smith - Issuer anchors DID.png>)
 

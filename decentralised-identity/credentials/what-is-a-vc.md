@@ -40,9 +40,9 @@ A claim is an attestation about something. It could say that "I went to Oxford U
 
 * **Proofs**
 
-A proof is cryptographic evidence to support that claim. In decentralised identity, this evidence is generally attested to by an [issuer](../start.md). This proof is often represented by both the [Decentralised Identifier ("DID")](broken-reference) of the issuer, as well as a piece of cryptographic material, that relates to a specific public key of the issuer, for a specific purpose, such as an assertionMethod.
+A proof is cryptographic evidence to support that claim. In decentralised identity, this evidence is generally attested to by an [issuer](../start.md). This proof is often represented by both the [**Decentralised Identifier ("DID")**](../dids/what-is-a-did.md) of the issuer, as well as a piece of cryptographic material, that relates to a specific public key of the issuer, for a specific purpose, such as an assertionMethod.
 
-The verification key material and the [Decentralised Identifier ("DID")](broken-reference) enable the issuer to essentially **sign** the claims in the credential, to vouch for their autheneticity.
+The verification key material and the **Decentralised Identifier ("DID")** enable the issuer to essentially **sign** the claims in the credential, to vouch for their autheneticity.
 
 ### Why is this useful and important?
 

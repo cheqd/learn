@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ♟ What is cheqd?
+# ♟️ What is cheqd?
 
 cheqd is a blockchain network, built in the [Cosmos ecosystem](https://cosmos.network/), designed to do three core things:
 
@@ -27,7 +27,7 @@ cheqd is a blockchain network, built in the [Cosmos ecosystem](https://cosmos.ne
 3. To bridge the DeFi ecosystem with the [decentralised identity](../decentralised-identity/start.md) ecosystem, for **better user experiences, democratic governance, regulatory compliance and operational efficiency**.
 
 {% hint style="info" %}
-cheqd's goal is made possible through leveraging [decentralised identity](../decentralised-identity/start.md) technology, and technical standards created by the World Wide Web Consortium (W3C): [Decentralised Identifiers (DIDs)](broken-reference) and [Verifiable Credentials (VCs)](../decentralised-identity/credentials/what-is-a-vc.md)
+cheqd's goal is made possible through leveraging [decentralised identity](../decentralised-identity/start.md) technology, and technical standards created by the World Wide Web Consortium (W3C): [**Decentralised Identifiers (DIDs)**](../decentralised-identity/dids/what-is-a-did.md) and [**Verifiable Credentials (VCs)**](../decentralised-identity/credentials/what-is-a-vc.md)**.**
 {% endhint %}
 
 ### Can you explain the value here using an example?
