@@ -2,7 +2,7 @@
 
 The cheqd Governance Framework embodies the following General Governance principles. These General Principles **SHOULD** be used as checks and balances against new Proposals on the Network.
 
-Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](broken-reference)
+Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [**Major Network Changes**](../../participate/network-changes/major.md).
 
 ## 1. Interoperability
 
@@ -28,7 +28,7 @@ cheqd Network and Treasury **SHOULD** uphold the highest levels of integrity in 
 
 Network Users **SHOULD** control their own identifiers and encryption keys, and be able to employ end-to-end encryption for all interactions.
 
-Network Participants **SHOULD** always \*\*\*\* have a right to vote on the cheqd Network and have full control of their choice of vote.
+Network Participants **SHOULD** always have a right to vote on the cheqd Network and have full control of their choice of vote.
 
 ## 6. Security
 
@@ -50,7 +50,7 @@ Network Users **SHOULD** notify the other Users of the Network as soon as practi
 
 ## 9. Decentralization
 
-cheqd **SHALL** **NOT** require reliance on a centralized system to represent, control, or manage the Network’s governance. Instead, the decisions on the Network should be made by a diverse collective, in line with the [**Principle of Increasing Entropy**](broken-reference), ensuring there is no single point of failure.
+cheqd **SHALL** **NOT** require reliance on a centralized system to represent, control, or manage the Network’s governance. Instead, the decisions on the Network should be made by a diverse collective, in line with the [**Principle of Increasing Entropy**](foundational-principles.md#id-3.-the-principle-of-increasing-entropy), ensuring there is no single point of failure.
 
 ## 10. Sustainability
 

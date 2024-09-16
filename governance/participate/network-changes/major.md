@@ -74,13 +74,6 @@ Great! However, we still recommend that you introduce your idea with members of 
 
 If you've considered feedback from broad perspectives and think that what you're doing is valuable and that your strategy should work, and you believe that others feel this way as well, it's likely worth drafting a proposal.
 
-To make reading and reviewing your Proposal easier for the community, we have created a set of templates which can be copied into Commonwealth to standardise the format of proposing a change:
-
-1. [Text-based Proposal Template](broken-reference)
-2. [Parameter Change Proposal Template](broken-reference)
-3. [Software Upgrade Proposal Template](broken-reference)
-4. [Community Pool Proposal](broken-reference)
-
 Engage the community with your draft proposal
 
 1. Post a draft of your proposal as a thread in [cheqd Proposal Discussion forum](https://commonwealth.im/cheqd/discussions/2%20-%20Proposal%20Discussion)
@@ -91,7 +84,6 @@ Engage the community with your draft proposal
    * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd\_io)
    * [cheqd Telegram](https://t.me/cheqd)
    * [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
-   * [cheqd Community Slack](https://join.slack.com/t/cheqd-community/shared\_invite/zt-toqyo7b7-2g9qDRjx3otd6529dTqeIA)
 
 ## Formal on-chain proposal
 

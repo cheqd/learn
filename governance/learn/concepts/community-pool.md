@@ -1,6 +1,6 @@
 # Community Pool
 
-cheqd will launch with community-spend capabilities, allowing CHEQ [Participants](broken-reference) to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
+cheqd will launch with community-spend capabilities, allowing CHEQ **Participants** to approve spending from the Community Pool. **This documentation is in active development, so please seek feedback and take care when using this information.**
 
 ## Learn About the Community Pool
 
@@ -35,9 +35,9 @@ Drafting and submitting a proposal is a process that takes time, attention, and 
 
 If you are considering drafting a proposal, you should review the general background on drafting and submitting a proposal:
 
-1. [How to contribute to cheqd](broken-reference)
-2. [How to draft a major network proposal and engage the community](broken-reference)
-3. [How voting on cheqd works](broken-reference)
+1. [**How to contribute to cheqd**](../../participate/)
+2. [**How to draft a major network proposal and engage the community**](#user-content-fn-1)[^1]
+3. [**How voting on cheqd works**](../../participate/vote.md)
 
 ## Formatting a Community Pool Spend Proposal
 
@@ -53,7 +53,7 @@ There are five (5) components:
 
 You should use our forum for Community Spend Proposals to discuss the Proposal with the cheqd community:
 
-{% embed url="https://commonwealth.im/cheqd" %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Governance Forum</strong></mark></td><td>Interact with the cheqd community and discuss governance proposals on our governance forum.</td><td><a href="../../../.gitbook/assets/Commonwealth logo.png">Commonwealth logo.png</a></td><td><a href="https://commonwealth.im/cheqd">https://commonwealth.im/cheqd</a></td></tr></tbody></table>
 
 ### On-ledger example
 
@@ -83,6 +83,6 @@ The `deposit 8000000000000 ncheq`results in 8000 CHEQ being used from the propos
 }
 ```
 
-### Real example in Cosmos Hub community
 
-This is the governance proposal that [Gavin Birch](https://twitter.com/Ether\_Gavin) ([Figment Networks](https://figment.network)) used to create [Prop23, the first successful Cosmos Hub community-spend proposal](https://hubble.figment.network/cosmos/chains/cosmoshub-3/governance/proposals/23).
+
+[^1]: 

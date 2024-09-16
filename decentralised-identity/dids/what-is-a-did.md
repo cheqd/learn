@@ -93,7 +93,7 @@ Below, you can see the method for resolving a registration plate number, as well
 
 ![Two images showing the similarities between a License plate lookup and a DID lookup service](<../../.gitbook/assets/DID cheqd universal resolver.png>)
 
-When inputted here, relevant information will be shown about the DID, in the form of a [DID Document](broken-reference). This is possible because the DID and it's adjacent DID Document are both stored on a [Verifiable Data Registry](what-is-a-vdr.md), such as a blockchain or trustworthy database.
+When inputted here, relevant information will be shown about the DID, in the form of a **DID Document**. This is possible because the DID and it's adjacent DID Document are both stored on a [Verifiable Data Registry](what-is-a-vdr.md), such as a blockchain or trustworthy database.
 
 ## What does a DID Document contain?
 

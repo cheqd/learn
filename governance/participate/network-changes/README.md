@@ -36,9 +36,9 @@ See more below:
 
 ## cheqd's Principles
 
-Whenever a **major network change** takes place on the Network, reference MUST be made to [cheqd's Foundational Principles](broken-reference). The Principles should act as a checks and balance against **major network changes.**
+Whenever a **major network change** takes place on the Network, reference MUST be made to [**cheqd's Foundational Principles**](../../start/governance-principles/foundational-principles.md). The Principles should act as a checks and balance against **major network changes.**
 
-This means, that **major network changes** should never oppose a Principle, unless it is [acting to update or change a Principle](broken-reference).
+This means, that **major network changes** should never oppose a Principle, unless it is acting to update or change a Principle.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:blue;"><strong>Foundational Principles</strong></mark></td><td>Learn about the three Foundational Principles guiding the cheqd governance framework.</td><td><a href="../../start/governance-principles/foundational-principles.md">foundational-principles.md</a></td></tr><tr><td><mark style="color:blue;"><strong>General Principles</strong></mark></td><td>Learn about the ten General Principles accompanying the Foundational Principles. </td><td><a href="../../start/governance-principles/general-principles.md">general-principles.md</a></td></tr></tbody></table>
 

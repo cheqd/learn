@@ -4,7 +4,7 @@ This section is a set of Foundational Principles which are core to the Network. 
 
 The Foundational Principles **SHOULD NOT** need to change throughout the lifecycle of the Network. They are designed to be flexible enough to underpin the Network as it progresses.
 
-Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [Major Network Changes.](broken-reference)
+Updates, amendments or revisions to this Principles list can be made through the process explained in the Section [**Major Network Changes**](../../participate/network-changes/major.md).
 
 ## 1. The Principle Principle
 
@@ -47,7 +47,7 @@ What does this look like?
 
 ## 3. The Principle of Increasing Entropy
 
-Entropy is a new concept in this context and is explained here in our [**Introduction to Entropy**](broken-reference).
+Entropy is a new concept in this context and is explained here in our [**Introduction to Entropy**](../introduction-to-entropy.md).
 
 Entropy is the transition from a centralised Network, where very few people make decisions that change the course and direction of the Network, to a fully decentralised Network, where a large, diverse collective reach consensus on the course and direction of the Network.
 
