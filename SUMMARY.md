@@ -36,8 +36,8 @@
   * [Network Parameters](cheq/tokenomics/parameters.md)
 * [✍️ Identity writes](cheq/identity-writes.md)
 * [♻️ Credential Payments](cheq/credential-payments/README.md)
+  * [Verifier pays Issuer](cheq/credential-payments/verifier-pays-issuer.md)
   * [Holder pays Issuer](cheq/credential-payments/cheqd-use-case-examples.md)
-  * [Verifier pays issuer](cheq/credential-payments/verifier-pays-issuer.md)
 
 ## Governance
 
