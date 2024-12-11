@@ -30,7 +30,7 @@ The following instructions for this part use Spacestation itself for the IBC tra
 
 #### Step 1: Connect Wallets
 
-Go to [Spacestation](https://spacestation.zone/) on your browser which you use to access you [MetaMask](https://metamask.io/) and[Keplr wallets.](https://www.keplr.app/)
+Go to [Blockscape](https://bridge.blockscape.network/) on your browser which you use to access you [MetaMask](https://metamask.io/) and [Keplr wallets.](https://www.keplr.app/)
 
 Connect your **Keplr** wallet containing the tokens you which to transfer.
 
