@@ -18,7 +18,7 @@ Major Network changes include, but are not limited to:
 
 To help YOU understand how to make changes on the cheqd Network, the decision tree below visualises how changes should be carried out.
 
-![Tree diagram showing when to use on-chain and off-chain governance](<../../../.gitbook/assets/On-chain vs off-chain decision tree.jpg>)
+<figure><img src="../../../.gitbook/assets/cheqd_Onchain vs Off-chain decision tree_v2.png" alt=""><figcaption><p>Tree diagram showing when to use on-chain or off-chain governance</p></figcaption></figure>
 
 ## Proposals
 
@@ -68,7 +68,7 @@ Engagement is likely to be critical to the success of a proposal. The degree to 
 
 #### Confident with your idea?
 
-Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal on-ledger. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation\_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
+Great! However, we still recommend that you introduce your idea with members of the community before investing resources into drafting a proposal on-ledger. At this point you should seek out and carefully consider critical feedback in order to protect yourself from [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias). This is the ideal time to see a critical flaw, because submitting a flawed proposal will waste resources.
 
 ### Drafting a Proposal
 
@@ -81,7 +81,7 @@ Engage the community with your draft proposal
 3. Directly engage key members of the community for feedback. These could be large contributors, those likely to be most impacted by the proposal, and entities with high stake-backing (eg. high-ranked Node Operators; large stakers).
 4. Target members of the community in a semi-public way before bringing the draft to a full public audience.
 5. Alert the community to the draft proposal via:
-   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd\_io)
+   * Twitter, tagging accounts such as the [cheqd account](https://twitter.com/cheqd_io)
    * [cheqd Telegram](https://t.me/cheqd)
    * [cheqd Discord Proposal channel](https://discord.gg/RAU3KfRR)
 
