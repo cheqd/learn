@@ -8,7 +8,7 @@
 
 Jane Doe has recently completed her university degree at Bright University. She wants to receive a digital, verifiable and certifiable copy of her diploma to apply for a prospective job.
 
-In order for this to happen, first Bright University needs to register their [**Decentralised Identifier (DID)**](../../decentralised-identity/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, Bright University anchor their DID to cheqd, using the cheqd DID method.
+In order for this to happen, first Bright University needs to register their [**Decentralised Identifier (DID)**](../../decentralized-id/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralized-id/dids/what-is-a-vdr.md) or ledger. In this case, Bright University anchor their DID to cheqd, using the cheqd DID method.
 
 ![University anchors DID to cheqd mainnet](<../../.gitbook/assets/Jane Doe - Issuer anchors DID.png>)
 
@@ -24,7 +24,7 @@ Jane has completed her degree and she has successfully achieved a First Class Ho
 
 On the physical certificate there is a QR code which Jane scans. This creates a peer-to-peer encrypted channel between the University and Jane's phone, which has her digital identity wallet.
 
-Bright University issues a [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md) to Jane through this peer-to-peer encrypted channel. The [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md) has the following claims:
+Bright University issues a [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md) to Jane through this peer-to-peer encrypted channel. The [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md) has the following claims:
 
 * This is Jane Doe's diploma
 * Jane Doe graduated from Bright University in the year 2022
@@ -34,17 +34,17 @@ The Verifiable Credential has a proof, meaning it is digitally signed by the Pub
 
 To learn more about Verifiable Credentials, please see the page:
 
-{% content-ref url="../../decentralised-identity/credentials/what-is-a-vc.md" %}
-[what-is-a-vc.md](../../decentralised-identity/credentials/what-is-a-vc.md)
+{% content-ref url="../../decentralized-id/credentials/what-is-a-vc.md" %}
+[what-is-a-vc.md](../../decentralized-id/credentials/what-is-a-vc.md)
 {% endcontent-ref %}
 
 ![Issuer issues Jane Doe a Verifiable Credential anchored on cheqd mainnet](<../../.gitbook/assets/Jane Doe - Issuer issues VC.png>)
 
 In return for a very high value University Credential, that provides Jane a verifiable record of her diploma, and is an optional addition to Jane's physical diploma, Jane is required to pay the University $10.00 USD.
 
-Jane is required to pay this $10.00 in $CHEQ (or a stablecoin that she holds), before she is able to receive the [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md). In the background the price of $CHEQ is equated to $10.00 USD, and is transferred to Bright University's wallet address.
+Jane is required to pay this $10.00 in $CHEQ (or a stablecoin that she holds), before she is able to receive the [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md). In the background the price of $CHEQ is equated to $10.00 USD, and is transferred to Bright University's wallet address.
 
-Jane receives the [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md) to her digital identity wallet once the payment has been successfully completed. This entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.
+Jane receives the [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md) to her digital identity wallet once the payment has been successfully completed. This entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.
 
 ![Jane Doe pays issuer for the Verifiable Credential using $CHEQ or a stablecoin](<../../.gitbook/assets/Jane Doe - Pays for Credential.png>)
 
@@ -52,7 +52,7 @@ Jane now holds a Verifiable Credential of her University degree in her digital i
 
 Jane applies online for a new job as a Lead Engineer at a leading technology company.
 
-The technology company asks for Jane to upload her education records. Rather than filling out the form manually; Jane scans another QR code to create a peer-to-peer encrypted channel with the technology company. Jane sends a [Verifiable Presentation](../../decentralised-identity/credentials/what-is-a-vp.md) containing her claims and the attached proof to those claims, in a few clicks or taps.
+The technology company asks for Jane to upload her education records. Rather than filling out the form manually; Jane scans another QR code to create a peer-to-peer encrypted channel with the technology company. Jane sends a [Verifiable Presentation](../../decentralized-id/credentials/what-is-a-vp.md) containing her claims and the attached proof to those claims, in a few clicks or taps.
 
 ![Jane Doe presents the Credential as a Verifiable Presentation to the Verifier](<../../.gitbook/assets/Jane Doe - Presents Credential to Verifier.png>)
 
@@ -66,7 +66,7 @@ The technology company is now satisfied and progresses Jane to the next phase of
 
 John Smith is a gamer who has built a substantial in-game profile for game developer's, Digiplay, latest metaverse game. John wants to receive a verifiable copy of his in game assets, which he can hold ownership of, unilaterally, in his digital data wallet, in order to port these assets over to a new game made by MetaZap.
 
-In order for this to happen, first DigiPlay needs to register their [**Decentralised Identifier (DID)**](../../decentralised-identity/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, DigiPlay anchors their DID to cheqd mainnet, using the cheqd DID method.
+In order for this to happen, first DigiPlay needs to register their [**Decentralised Identifier (DID)**](../../decentralized-id/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralized-id/dids/what-is-a-vdr.md) or ledger. In this case, DigiPlay anchors their DID to cheqd mainnet, using the cheqd DID method.
 
 ![DigiPlay anchors DID to cheqd mainnet](<../../.gitbook/assets/John Smith - Issuer anchors DID.png>)
 
@@ -80,7 +80,7 @@ DigiPlay also anchors an adjacent DID Document which contains information about 
 
 John has put a significant amount of hours into DigiPlay's title, but does not want to lose the progress he's made, as the game becomes obsolete and older. He wants to be able to port his progress into another, technically compatible title, in order to continue progressing from a relative position. He also has unlocked unique and rare skins, cosmetics and in-game assets which he wants to be able to use in future games.
 
-Therefore, he scans a QR code provided by DigiPlay on their in-game main menu which creates a pairwise, peer-to-peer encrypted channel between John and DigiPlay. Through this channel, DigiPlay issues John a [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md#what-is-a-verifiable-credential), or series of Verifiable Credentials, with various in game information such as:
+Therefore, he scans a QR code provided by DigiPlay on their in-game main menu which creates a pairwise, peer-to-peer encrypted channel between John and DigiPlay. Through this channel, DigiPlay issues John a [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md#what-is-a-verifiable-credential), or series of Verifiable Credentials, with various in game information such as:
 
 * This is John Smith's gamertag: JohnSmith99
 * John has reached rank 55 in our title
@@ -93,7 +93,7 @@ Therefore, he scans a QR code provided by DigiPlay on their in-game main menu wh
   * NFT Navy-blue 49145 player skin
   * NFT 8676 Custom stock
 
-In this instance, the [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md#what-is-a-verifiable-credential) gives John a way to prove that he owns these items, easily, and he is able to showcase his profile and in-game assets in compatible wallets and third-party games.
+In this instance, the [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md#what-is-a-verifiable-credential) gives John a way to prove that he owns these items, easily, and he is able to showcase his profile and in-game assets in compatible wallets and third-party games.
 
 ![DigiPlay issues Verifiable Credential to John Smith, anchored on cheqd mainnet](<../../.gitbook/assets/John Smith - Issuer issues VC to John.png>)
 
@@ -113,6 +113,6 @@ John wants to port his in game assets, skins and prestige to MetaZap to build ve
 
 ![John Smith presents Credential as a Verifiable Presentation to MetaZap](<../../.gitbook/assets/John Smith - Presents VC to Verifier.png>)
 
-When John starts up MetaZap, the initial loading menu asks John whether he wants to port over any existing assets. John scans another QR code to create a peer-to-peer encrypted channel with MetaZap. John sends a [Verifiable Presentation](../../decentralised-identity/credentials/what-is-a-vp.md) containing his relevant data and claims with the attached proof to those claims.
+When John starts up MetaZap, the initial loading menu asks John whether he wants to port over any existing assets. John scans another QR code to create a peer-to-peer encrypted channel with MetaZap. John sends a [Verifiable Presentation](../../decentralized-id/credentials/what-is-a-vp.md) containing his relevant data and claims with the attached proof to those claims.
 
-MetaZap is able to verify the validity of the claims that John presents, by resolving the DID embedded in the Presentation. Through resolving the DID, MetaZap is able to see the DID Document and the information contained from DigiPlay. Automatically, it is able to ascertain that the proof inside John's [Verifiable Presentation](../../decentralised-identity/credentials/what-is-a-vp.md) was issued by the real DigiPlay and starts downloading John's assets into his MetaZap account.
+MetaZap is able to verify the validity of the claims that John presents, by resolving the DID embedded in the Presentation. Through resolving the DID, MetaZap is able to see the DID Document and the information contained from DigiPlay. Automatically, it is able to ascertain that the proof inside John's [Verifiable Presentation](../../decentralized-id/credentials/what-is-a-vp.md) was issued by the real DigiPlay and starts downloading John's assets into his MetaZap account.

@@ -7,22 +7,22 @@
 * [♟️ What is cheqd?](getting-started/cheqd.md)
 * [✋ What is Creds?](getting-started/creds.md)
 
-## Decentralised Identity
+## Decentralized Identity <a href="#decentralized-id" id="decentralized-id"></a>
 
-* [🟢 Start here](decentralised-identity/start.md)
-* [What are DIDs?](decentralised-identity/dids/README.md)
-  * [What is a DID?](decentralised-identity/dids/what-is-a-did.md)
-  * [What is a DID method?](decentralised-identity/dids/what-is-a-did-method.md)
-  * [What is a Verifiable Data Registry?](decentralised-identity/dids/what-is-a-vdr.md)
-* [What are Verifiable Credentials?](decentralised-identity/credentials/README.md)
-  * [What is a Verifiable Credential?](decentralised-identity/credentials/what-is-a-vc.md)
-  * [Types of Verifiable Credential](decentralised-identity/credentials/types/README.md)
-    * [JSON (JWT)](decentralised-identity/credentials/types/json-jwt.md)
-    * [JSON-LD](decentralised-identity/credentials/types/json-ld.md)
-    * [AnonCreds (ZKCreds)](decentralised-identity/credentials/types/anoncreds.md)
-    * [SD-JWT](decentralised-identity/credentials/types/sd-jwt.md)
-  * [What is a Verifiable Presentation?](decentralised-identity/credentials/what-is-a-vp.md)
-* [What are DID-Linked Resources?](decentralised-identity/dlrs.md)
+* [🟢 Start here](decentralized-id/start.md)
+* [What are DIDs?](decentralized-id/dids/README.md)
+  * [What is a DID?](decentralized-id/dids/what-is-a-did.md)
+  * [What is a DID method?](decentralized-id/dids/what-is-a-did-method.md)
+  * [What is a Verifiable Data Registry?](decentralized-id/dids/what-is-a-vdr.md)
+* [What are Verifiable Credentials?](decentralized-id/credentials/README.md)
+  * [What is a Verifiable Credential?](decentralized-id/credentials/what-is-a-vc.md)
+  * [Types of Verifiable Credential](decentralized-id/credentials/types/README.md)
+    * [JSON (JWT)](decentralized-id/credentials/types/json-jwt.md)
+    * [JSON-LD](decentralized-id/credentials/types/json-ld.md)
+    * [AnonCreds (ZKCreds)](decentralized-id/credentials/types/anoncreds.md)
+    * [SD-JWT](decentralized-id/credentials/types/sd-jwt.md)
+  * [What is a Verifiable Presentation?](decentralized-id/credentials/what-is-a-vp.md)
+* [What are DID-Linked Resources?](decentralized-id/dlrs.md)
 
 ## $CHEQ <a href="#cheq" id="cheq"></a>
 
@@ -78,7 +78,7 @@
 ## ⚖️ Legal
 
 * [License](LICENSE.md)
-* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Code of Conduct](CODE_OF_CONDUCT.md)
 * [Security Policy](SECURITY.md)
 * [Legal Disclaimer](legal/legal-disclaimer.md)
 

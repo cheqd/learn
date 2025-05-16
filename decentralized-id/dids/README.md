@@ -1,5 +1,5 @@
 ---
-description: Learn about how Decentralised Identifiers function.
+description: Learn about how Decentralized Identifiers function.
 ---
 
 # What are DIDs?

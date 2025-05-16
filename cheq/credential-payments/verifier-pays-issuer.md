@@ -14,7 +14,7 @@ Jane Doe has recently completed her university degree at Bright University. She 
 
 #### DID and DID-Linked Resource Creation
 
-In order for this to happen, first Bright University needs to register their [**Decentralised Identifier (DID)**](../../decentralised-identity/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralised-identity/dids/what-is-a-vdr.md) or ledger. In this case, Bright University anchor their DID to cheqd, using the cheqd DID method.
+In order for this to happen, first Bright University needs to register their [**Decentralised Identifier (DID)**](../../decentralized-id/dids/what-is-a-did.md) to a [Verifiable Data Registry](../../decentralized-id/dids/what-is-a-vdr.md) or ledger. In this case, Bright University anchor their DID to cheqd, using the cheqd DID method.
 
 Bright University, however, want to make sure that they also receive a payment when Jane uses her digital diploma for other purposes. As such, Bright University create a "Premium" credential with a $20.00 fee to fully validate.
 
@@ -32,7 +32,7 @@ Jane has completed her degree and she has successfully achieved a First Class Ho
 
 On the physical certificate there is a QR code which Jane scans. This creates a peer-to-peer encrypted channel between the University and Jane's phone, which has her digital identity wallet.
 
-Bright University issues a [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md) to Jane through this peer-to-peer encrypted channel. The [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md) has the following claims:
+Bright University issues a [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md) to Jane through this peer-to-peer encrypted channel. The [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md) has the following claims:
 
 * This is Jane Doe's diploma
 * Jane Doe graduated from Bright University in the year 2022
@@ -43,7 +43,7 @@ The Verifiable Credential has a proof, meaning it is digitally signed by the Pub
 
 <figure><img src="../../.gitbook/assets/Premium Credential Issued to Jane.png" alt=""><figcaption><p>Premium Credential issued to Jane's wallet</p></figcaption></figure>
 
-Jane receives the [Verifiable Credential](../../decentralised-identity/credentials/what-is-a-vc.md) to her digital identity wallet and  this entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.
+Jane receives the [Verifiable Credential](../../decentralized-id/credentials/what-is-a-vc.md) to her digital identity wallet and  this entire data flow takes place off-ledger. This is important because it keeps all of Jane's personal information private, and only with her.
 
 Jane now holds a Verifiable Credential of her University degree in her digital identity wallet and is able to use this to prove claims about herself.
 
@@ -51,7 +51,7 @@ Jane now holds a Verifiable Credential of her University degree in her digital i
 
 Jane applies online for a new job as a Lead Engineer at a leading technology company.
 
-The technology company asks for Jane to upload her education records. Rather than filling out the form manually; Jane scans another QR code to create a peer-to-peer encrypted channel with the technology company. Jane sends a [Verifiable Presentation](../../decentralised-identity/credentials/what-is-a-vp.md) containing her claims and the attached proof to those claims, in a few clicks or taps.
+The technology company asks for Jane to upload her education records. Rather than filling out the form manually; Jane scans another QR code to create a peer-to-peer encrypted channel with the technology company. Jane sends a [Verifiable Presentation](../../decentralized-id/credentials/what-is-a-vp.md) containing her claims and the attached proof to those claims, in a few clicks or taps.
 
 The technology company is only able to verify the validity of the claims that Jane presents by resolving the DID embedded in the Presentation **and by paying $20.00 to Bright University** to verify the Credential's legitimacy, status and validity.
 
