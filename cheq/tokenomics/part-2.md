@@ -11,7 +11,7 @@ Firstly, let’s start with a brief summary for those with little time to spare.
 * **Community and grants:** Token rewards for our incredible community, especially those who have been with us since the start and who are key to the adoption of self-sovereign identity (SSI). This also includes grants for the SSI community so they can immediately use and vote on the network.
 * **Foundation:** The treasury will be used to support cheqd’s mission as well as vote on the direction of the protocol.
 * **Contributors:** The core team and those who have supported us in executing, including our exceptional advisors.
-* **Shareholders:** Our investors, as [mentioned in our announcement here](https://twitter.com/fraser\_again/status/1440971937333792770?s=20), who supported us when our mission was simply to establish the payment rails and commercial models for self-sovereign identity without us knowing where this would take us. Again, a huge thank you!
+* **Shareholders:** Our investors, as [mentioned in our announcement here](https://twitter.com/fraser_again/status/1440971937333792770?s=20), who supported us when our mission was simply to establish the payment rails and commercial models for self-sovereign identity without us knowing where this would take us. Again, a huge thank you!
 
 ![Image of cheqd token distribution at launch](<../../.gitbook/assets/Tokenomics distribution image.png>)
 
@@ -45,11 +45,11 @@ The token and identity communities are both absolutely critical for us and the a
 
 ### Community
 
-cheqd is committed to launching the network in a regulatory compliant fashion, so any offerings will target to fit within the laws set out within each geography. The current paradigm of identity is a problem globally, and we can only work at that scale if we are not excluded from certain countries or geographies. That being said, we fully intend to reward our community for their support, both until now and in the future, as we wouldn’t be where we are without our earliest members. We hope the cheqd community will spread the paradigm far and wide, demanding companies to adopt the technology, educating friends and family, introducing the concept into their workplaces so that everyone can get back their privacy. We would remind everyone to join our [Telegram](https://t.me/cheqd/) and [Twitter](https://twitter.com/cheqd\_io) to keep an eye out for our news and surprises.
+cheqd is committed to launching the network in a regulatory compliant fashion, so any offerings will target to fit within the laws set out within each geography. The current paradigm of identity is a problem globally, and we can only work at that scale if we are not excluded from certain countries or geographies. That being said, we fully intend to reward our community for their support, both until now and in the future, as we wouldn’t be where we are without our earliest members. We hope the cheqd community will spread the paradigm far and wide, demanding companies to adopt the technology, educating friends and family, introducing the concept into their workplaces so that everyone can get back their privacy. We would remind everyone to join our [Telegram](https://t.me/cheqd/) and [Twitter](https://twitter.com/cheqd_io) to keep an eye out for our news and surprises.
 
 ### SSI & validator grants
 
-To make adoption as easy as possible for the SSI community, we provide token grants to the companies developing in this space. These grants will smooth the transition to using a token-based network and provide them with stakes, which can generate token rewards, helping to offset the cost of using the network. We are already seeing the impact of these grants on the SSI community’s ability and willingness to adopt the network, which I look forward to Tobias Halloran (Head of Partnerships) sharing in the coming weeks and months. It will also provide us with a window to establish the necessary partnerships with custodians, exchanges and OTC desks such that their end clients do not need to worry about handling tokens at all.
+To make adoption as easy as possible for the SSI community, we provide token grants to the companies developing in this space. These grants will smooth the transition to using a token-based network and provide them with stakes, which can generate token rewards, helping to offset the cost of using the network.&#x20;
 
 ## Foundation
 
